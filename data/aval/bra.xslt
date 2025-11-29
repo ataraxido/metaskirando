@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!--xsl:output method="html" indent="yes"  doctype-public="-//W3C//DTD HTML 4.01//EN" doctype-system="http://www.w3.org/TR/html4/strict.dtd" /-->
   <xsl:output method="html" indent="yes"/>
@@ -10,261 +10,395 @@
 
   <!-- Version Menhir/Phoenix/ATOS/MeteoSki/ATOS_TEST -->
   <xsl:variable name="Version">
-    <xsl:text>MeteoSki</xsl:text>
+    <xsl:text>Phoenix</xsl:text>
   </xsl:variable>
-
-  <!--Chemin acces css-->
-  <xsl:variable name="Css">
-      <xsl:text>bra.css</xsl:text>
+ 
+  <xsl:variable name="urlCss">
+      <xsl:text>https://meteofrance.com/modules/custom/mf_map_layers_v2/assets/BRA.css</xsl:text>
   </xsl:variable>
 
   <!-- chemin d'accès au picto -->
   <xsl:variable name="CheminPicto">
-        <xsl:text>http://rpcache-aa.meteofrance.com/wsft/files/mountain/web/</xsl:text>
+        <xsl:text>https://meteofrance.com/modules/custom/mf_map_layers_v2/assets/images/</xsl:text>
+  </xsl:variable>
+
+    <xsl:variable name="urlBlob">
+        <xsl:text>blob.php?i=</xsl:text>
   </xsl:variable>
 
   <!-- Canevas générale des diverses versions -->
   <xsl:template match="BULLETINS_NEIGE_AVALANCHE">
-      <!--   Version Meteoski - html complet sans Logo, BSH - graph et Tableau - css responsive -->
-      <html>
-       <head>
-         <title>Bulletin neige et avalanches</title>
-         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-			<meta name="viewport" content="initial-scale=1"/>
-         <link rel="stylesheet" type="text/css">
-           <xsl:attribute name="href">
-             <xsl:value-of select="$Css"/>
-           </xsl:attribute>
-         </link>
-       </head>
+    <xsl:choose>
 
-       <body>
-         <div id="BRA">
-           <xsl:for-each select="BRA">
-             <xsl:call-template name="trame"/>
-           </xsl:for-each>
-           <xsl:if test="@ID!=''">
-             <xsl:call-template name="trame"/>
-           </xsl:if>
-         </div>
-       </body>
-     </html>
+      <!--   Version Mehnir - html complet avec Logo, BSH - graph et Tableau - css responsive -->
+      <xsl:when test="$Version='Menhir'">
+        <html>
+          <head>
+            <title>Bulletin neige et avalanches</title>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <link rel="stylesheet" type="text/css">
+              <xsl:attribute name="href">
+                <xsl:value-of select="$urlCss"/>
+              </xsl:attribute>
+            </link>
+          </head>
+          <body>
+            <div id="BRA">
+              <xsl:for-each select="BRA">
+                <xsl:call-template name="trame"/>
+              </xsl:for-each>
+              <xsl:if test="@ID!=''">
+                <xsl:call-template name="trame"/>
+              </xsl:if>
+            </div>
+          </body>
+        </html>
+      </xsl:when>
+
+      <!--   Version Meteoski - html complet sans Logo, BSH - graph et Tableau - css responsive -->
+      <xsl:when test="$Version='MeteoSki'">
+        <html>
+          <head>
+            <title>Bulletin neige et avalanches</title>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <link rel="stylesheet" type="text/css">
+              <xsl:attribute name="href">
+                <xsl:value-of select="$urlCss"/>
+              </xsl:attribute>
+            </link>
+          </head>
+
+          <body>
+            <div id="BRA">
+              <xsl:for-each select="BRA">
+                <xsl:call-template name="trame"/>
+              </xsl:for-each>
+              <xsl:if test="@ID!=''">
+                <xsl:call-template name="trame"/>
+              </xsl:if>
+            </div>
+          </body>
+        </html>
+      </xsl:when>
+
+      <!--   Version ATOS - trame html, sans lien css, lien avec Js ? -  BSH graph uniquement - Pas de logo -->
+      <xsl:when test="$Version='ATOS'">
+        <div id="BRA">
+          <xsl:for-each select="BRA">
+            <xsl:call-template name="trame"/>
+          </xsl:for-each>
+
+          <xsl:if test="@ID!=''">
+            <xsl:call-template name="trame"/>
+          </xsl:if>
+        </div>
+      </xsl:when>
+
+      <!--   Version ATOS_TEST - html  - BSH graph uniquement - Pas de logo - css largeur fixe - -->
+      <xsl:when test="$Version='ATOS_TEST'">
+        <head>
+          <title>Bulletin neige et avalanches</title>
+          <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+          <link rel="stylesheet" type="text/css" href="../Web/main6c03.css"/>
+          <link rel="stylesheet" type="text/css">
+            <xsl:attribute name="href">
+              <xsl:value-of select="$urlCss"/>
+            </xsl:attribute>
+          </link>
+        </head>
+        <body>
+          <div id="BRA">
+            <xsl:for-each select="BRA">
+              <xsl:call-template name="trame"/>
+            </xsl:for-each>
+            <xsl:if test="@ID!=''">
+              <xsl:call-template name="trame"/>
+            </xsl:if>
+          </div>
+        </body>
+      </xsl:when>
+
+      <!--   Version Phoenix - html  - BSH graph et tableau - Pas de logo version à préciser - -->
+      <xsl:when test="$Version='Phoenix'">
+        <link rel="stylesheet" type="text/css">
+          <xsl:attribute name="href">
+            <xsl:value-of select="$urlCss"/>
+          </xsl:attribute>
+        </link>
+        <div id="BRA">
+          <xsl:for-each select="BRA">
+            <xsl:call-template name="trame"/>
+          </xsl:for-each>
+          <xsl:if test="@ID!=''">
+            <xsl:call-template name="trame"/>
+          </xsl:if>
+        </div>
+      </xsl:when>
+    </xsl:choose>
   </xsl:template>
+
+
+  <!--    TRAME GENERALE   -->
 
   <!-- Trame générale du bulletin-->
   <xsl:template name ="trame">
+    <xsl:if test="$Version='Menhir'">
+      <div class="Logo_MF">
+        <a href="http://meteofrance.com" target="_blank">
+          <img src="{$CheminPicto}Logo_MeteoFrance.png" alt="METEO-FRANCE" />
+        </a>
+      </div>
+    </xsl:if>
     <!-- Entête-->
-    <div>
- 
     <div class="BRAentete">
-      <xsl:choose>
-        <xsl:when test="@TYPEBULLETIN='INA'">
-          <h1>
-            Information neige et avalanche
-          </h1>
-        </xsl:when>
-        <xsl:otherwise>
-          <h1>
+         <h1>
             Bulletin d'estimation du risque d'avalanche
           </h1>
-        </xsl:otherwise>
-      </xsl:choose>
       <h4>
         (valable en dehors des pistes balisées et ouvertes)
       </h4>
       <h1>
-        <xsl:text> MASSIF : </xsl:text>
+        <xsl:text disable-output-escaping="yes"> MASSIF : </xsl:text>
         <xsl:value-of select="@MASSIF"/>
       </h1>
       <h4>
-        <xsl:text>rédigé le </xsl:text>
+        <xsl:text disable-output-escaping="yes">rédigé le </xsl:text>
         <xsl:call-template name="DateLong">
           <xsl:with-param name="date-heure" select="@DATEBULLETIN"/>
           <xsl:with-param name="avecAnnee" select="string('oui')"/>
         </xsl:call-template>
-        <xsl:text> à </xsl:text>
+        <xsl:text disable-output-escaping="yes"> à </xsl:text>
         <xsl:value-of select="substring-before(substring-after(@DATEBULLETIN,'T'),':')"/>
-        <xsl:text> h.</xsl:text>
+        <xsl:text disable-output-escaping="yes"> h.</xsl:text>
       </h4>
       <xsl:if test="@AMENDEMENT='true'">
         <p class="baliseAmendement">
           ** AMENDEMENT **
         </p>
       </xsl:if>
+				<p><xsl:copy-of select="/BULLETINS_NEIGE_AVALANCHE/TexteMeta/Vigilance"/></p>
+				<p><xsl:copy-of select="/BULLETINS_NEIGE_AVALANCHE/TexteMeta/EnteteGenerique"/></p>
+				<!--<p>Pour consulter la vigilance en cours, veuillez vous rendre sur le site <a href="https://vigilance.meteofrance.fr/fr">https://vigilance.meteofrance.fr/fr</a></p>-->
     </div>
-    </div>
-    <!--Entete de la première rubrique Risque -->
-    <div style="display: flex;align-items: center;">
-    <div style="text-align:center">
-	 <!-- Risque Maxi - BRA-Amendement-ancien xml -->
-	 <xsl:if test="@TYPEBULLETIN!='INA' or count(@TYPEBULLETIN)=0">
-	   <xsl:if test ="CARTOUCHERISQUE/RISQUE/@RISQUEMAXI > 0">
-	        <img>
-	          <xsl:attribute name="src">
-	            <xsl:value-of select="$CheminPicto"/>
-	            <xsl:text>R</xsl:text>
-	            <xsl:value-of select="CARTOUCHERISQUE/RISQUE/@RISQUEMAXI"/>
-	            <xsl:text>.png</xsl:text>
-	          </xsl:attribute>
-	          <xsl:attribute name ="alt">
-	            <xsl:call-template name ="texteRisque">
-	              <xsl:with-param name="risque" select="CARTOUCHERISQUE/RISQUE/@RISQUEMAXI"/>
-	            </xsl:call-template>
-	          </xsl:attribute>
-	        </img>
-	   </xsl:if>
-	 </xsl:if>
-	 </div>
-	 <div style="flex: 1">
-    <xsl:choose>
-      <xsl:when test="@TYPEBULLETIN='INA'">
         <h2>
-          <xsl:text>Conditions neige et avalanches jusqu'au </xsl:text>
-          <xsl:call-template name="DateLong">
-            <xsl:with-param name="date-heure" select="@DATEVALIDITE"/>
-            <xsl:with-param name="avecAnnee" select="string('oui')"/>
-          </xsl:call-template>
-          <xsl:text> au soir</xsl:text>
-        </h2>
-      </xsl:when>
-      <xsl:otherwise>
-        <h2>
-          <xsl:text>Estimation des risques jusqu'au </xsl:text>
+				Estimation des risques pour le <span id="date-validite">
           <xsl:call-template name="DateLong">
             <xsl:with-param name="date-heure" select="@DATEECHEANCE"/>
             <xsl:with-param name="avecAnnee" select="string('oui')"/>
           </xsl:call-template>
-          <xsl:text> au soir</xsl:text>
+					</span>
         </h2>
-      </xsl:otherwise>
-    </xsl:choose>
-    <p>
-      <xsl:value-of select="CARTOUCHERISQUE/RISQUE/@COMMENTAIRE"/>
-    </p></div>
-    </div>
+
     <!-- rubrique risque-->
+		<div id="estimation-risque" class="row">
     <xsl:apply-templates select="CARTOUCHERISQUE"/>
+		</div>
 
     <!-- Entete seconde rubrique stabilite-->
-    <xsl:if test="@TYPEBULLETIN!='INA' or count(@TYPEBULLETIN)=0">
-      <p class="legende">Indices de risque : 5 très fort - 4 fort - 3 marqué - 2 limité - 1 faible   --  En noir : les pentes les plus dangereuses</p>
       <h2>
-        Stabilité du manteau neigeux
+        Stabilité du manteau neigeux jusqu'au
+          <xsl:call-template name="DateLong">
+            <xsl:with-param name="date-heure" select="@DATEECHEANCE"/>
+            <xsl:with-param name="avecAnnee" select="string('non')"/>
+          </xsl:call-template>
+          <xsl:text disable-output-escaping="yes"> au soir</xsl:text>
+
       </h2>
-    </xsl:if>
-    <xsl:if test="@TYPEBULLETIN='INA'">
-      <br/>
-    </xsl:if>
 
     <!-- rubrique stabilité-->
-    <pre>
-      <xsl:value-of select="STABILITE/TEXTE"/>
+
+
+		<p>
+		<b>Situtation avalancheuse typique :</b>
+		<xsl:choose>
+		<xsl:when test="STABILITE/SitAvalTyp/@SAT1 != ''">
+		<!--<a>
+		<xsl:attribute name="target">_blank</xsl:attribute>
+		<xsl:attribute name="href">
+		<xsl:text disable-output-escaping="yes">static/problemes.html#</xsl:text>
+		<xsl:call-template name ="ancreSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT1"/>
+		</xsl:call-template>
+		</xsl:attribute>-->
+
+		<img class="pictoSAT">
+		<xsl:attribute name="src">
+		<xsl:value-of select="$CheminPicto"/>
+		<xsl:text disable-output-escaping="yes">SAT</xsl:text>
+		<xsl:value-of select="STABILITE/SitAvalTyp/@SAT1"/>
+		<xsl:text disable-output-escaping="yes">.png</xsl:text>
+		</xsl:attribute>
+		<xsl:attribute name ="title">
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT1"/>
+		</xsl:call-template>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT1"/>
+		</xsl:call-template>
+		</xsl:attribute>
+		</img>
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT1"/>
+		</xsl:call-template>
+		<!--</a>-->
+		</xsl:when>
+		</xsl:choose>
+
+ 		<xsl:choose>
+		<xsl:when test="STABILITE/SitAvalTyp/@SAT2 != ''">
+		<!--<a>
+		<xsl:attribute name="target">_blank</xsl:attribute>
+		<xsl:attribute name="href">
+		<xsl:text disable-output-escaping="yes">static/problemes.html#</xsl:text>
+		<xsl:call-template name ="ancreSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT2"/>
+		</xsl:call-template>
+		</xsl:attribute>-->
+
+		<img class="pictoSAT">
+		<xsl:attribute name="src">
+		<xsl:value-of select="$CheminPicto"/>
+		<xsl:text disable-output-escaping="yes">SAT</xsl:text>
+		<xsl:value-of select="STABILITE/SitAvalTyp/@SAT2"/>
+		<xsl:text disable-output-escaping="yes">.png</xsl:text>
+		</xsl:attribute>
+		<xsl:attribute name ="title">
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT2"/>
+		</xsl:call-template>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT2"/>
+		</xsl:call-template>
+		</xsl:attribute>
+		</img>
+		<xsl:call-template name ="texteSAT">
+		<xsl:with-param name="SAT" select="STABILITE/SitAvalTyp/@SAT2"/>
+		</xsl:call-template>
+		<!--</a>-->
+		</xsl:when>
+		</xsl:choose>
+		</p>
+    <pre id="stabilite">
+			 <xsl:choose>
+		   <xsl:when test="STABILITE/TEXTESANSTITRE != ''">
+       <xsl:value-of select="STABILITE/TEXTESANSTITRE"/>
+			 </xsl:when>
+			 <xsl:otherwise>
+       <xsl:value-of select="STABILITE/TEXTE"/>
+			 </xsl:otherwise>
+		</xsl:choose>
     </pre>
 
     <!-- Rubrique météo et neige fraîche -->
-    <xsl:if test="@AMENDEMENT='false'">
-      <xsl:if test="@TYPEBULLETIN='INA'">
-        <h2>
-          <xsl:text>Conditions météorologiques jusqu'au </xsl:text>
-          <xsl:call-template name="DateLong">
-            <xsl:with-param name="date-heure" select="@DATEECHEANCE"/>
-            <xsl:with-param name="avecAnnee" select="string('oui')"/>
-          </xsl:call-template>
-          <xsl:text> au soir</xsl:text>
-        </h2>
-      </xsl:if>
-
       <div class="row">
-        <!--Rubrique neige fraîche-->
         <div class="col1">
-          <xsl:choose>
-            <xsl:when test="@TYPEBULLETIN='INA'">
-              <h4>
-                <xsl:text> Neige fraîche à </xsl:text>
-                <xsl:value-of select="NEIGEFRAICHE/@ALTITUDESS" />
-                <xsl:text> m</xsl:text>
-              </h4>
-            </xsl:when>
-            <xsl:otherwise>
-              <h2>
-                <xsl:text> Neige fraîche à </xsl:text>
-                <xsl:value-of select="NEIGEFRAICHE/@ALTITUDESS" />
-                <xsl:text> m</xsl:text>
-              </h2>
-            </xsl:otherwise>
-          </xsl:choose>
-          <xsl:apply-templates select="NEIGEFRAICHE"/>
+        <!-- Rubrique qualité-->
+            <h2>Qualité de la neige</h2>
+          <pre>
+            <xsl:value-of select="QUALITE"/>
+          </pre>
         </div>
         <!-- Rubrique météo -->
         <div class="col2">
-          <xsl:choose>
-            <xsl:when test="@TYPEBULLETIN='INA'">
-              <h4>
-                Aperçu météo
-              </h4>
-            </xsl:when>
-            <xsl:otherwise>
               <h2>
-                Aperçu météo
+                Aperçu météo pour le 
+          <xsl:call-template name="DateLong">
+            <xsl:with-param name="date-heure" select="@DATEECHEANCE"/>
+            <xsl:with-param name="avecAnnee" select="string('non')"/>
+          </xsl:call-template>
               </h2>
-            </xsl:otherwise>
-          </xsl:choose>
-          <xsl:apply-templates select="METEO"/>
+ <!--         <xsl:apply-templates select="METEO"/>-->
+		<img>
+		<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+		<xsl:value-of select="METEO/ImageMeteo"/>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">Graphe d'enneigement</xsl:attribute>
+		</img>
+
         </div>
       </div>
 
       <!-- Rubrique enneigement et qualité-->
-      <xsl:if test="@TYPEBULLETIN='INA'">
-        <h2>Epaisseur de neige hors-piste</h2>
-      </xsl:if>
 
-      <div class="row">
+      <div class="row avec3cols">
         <!-- rubrique enneigement-->
         <div class="col1">
-          <xsl:if test="@TYPEBULLETIN!='INA' or count(@TYPEBULLETIN)=0">
             <h2>Epaisseur de neige hors-piste</h2>
-            <xsl:apply-templates select="ENNEIGEMENT"/>
-          </xsl:if>
+		<img>
+		<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+		<xsl:value-of select="ENNEIGEMENT/ImageEnneigement"/>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">Graphe Météo</xsl:attribute>
+		</img>
 
-          <xsl:if test="@TYPEBULLETIN='INA'">
-            <br/>
-            <span>
-              <xsl:apply-templates select="ENNEIGEMENT"/>
-            </span>
-            <br/>
-          </xsl:if>
-        </div>
-        <!-- Rubrique qualité-->
-        <div class="col2">
-          <xsl:if test="@TYPEBULLETIN!='INA' or count(@TYPEBULLETIN)=0">
-            <h2>Qualité de la neige</h2>
-          </xsl:if>
-          <pre>
-            <xsl:value-of select="QUALITE/TEXTE"/>
-          </pre>
-        </div>
-      </div>
-    </xsl:if>
-    <!-- cas des ammendement -->
-    <xsl:if test="@AMENDEMENT='true'">
-      <div class="row">
-        <div class="col2">
-          <h2>
-            Aperçu météo
-          </h2>
-          <xsl:apply-templates select="METEO"/>
-        </div>
-      </div>
-    </xsl:if>
 
-    <!-- rubique tendance des risques -->
-    <xsl:if test="@AMENDEMENT='false' and (@TYPEBULLETIN!='INA' or count(@TYPEBULLETIN)=0)">
-      <h2>
-        Tendance ultérieure des risques
-      </h2>
-      <xsl:apply-templates select="TENDANCES"/>
-    </xsl:if>
+        </div>
+        <div class="col2">
+        <!--Rubrique neige fraîche-->
+              <h2>
+                <xsl:text disable-output-escaping="yes">Précipitations à </xsl:text>
+                <xsl:value-of select="NEIGEFRAICHE/@ALTITUDESS" />
+                <xsl:text disable-output-escaping="yes"> m</xsl:text>
+              </h2>
+		<img>
+		<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+		<xsl:value-of select="NEIGEFRAICHE/ImageNeigeFraiche"/>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">Graphe de neige fraîche</xsl:attribute>
+		</img>
+
+
+        </div>
+					<div id="risque-j2" class="col3">
+		<h2>Tendance du
+		<xsl:call-template name="DateLong">
+		<xsl:with-param name="date-heure" select="/BULLETINS_NEIGE_AVALANCHE/CARTOUCHERISQUE/RISQUE/@DATE_RISQUE_J2"/>
+		<xsl:with-param name="avecAnnee" select="string('non')"/>
+		</xsl:call-template>
+		</h2>
+					      <div class="Risque">
+     <!-- Risque Maxi - BRA-Amendement-ancien xml -->
+            <div class="risqueMaxi">
+		<div class="bloc1">
+            <div class="risqueMaxi">
+              <img >
+                <xsl:attribute name="src">
+                  <xsl:value-of select="$CheminPicto"/>
+                  <xsl:text disable-output-escaping="yes">R</xsl:text>
+                  <xsl:value-of select="/BULLETINS_NEIGE_AVALANCHE/CARTOUCHERISQUE/RISQUE/@RISQUEMAXIJ2"/>
+                  <xsl:text disable-output-escaping="yes">.png</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name ="alt">
+                  <xsl:call-template name ="texteRisque">
+                    <xsl:with-param name="risque" select="/BULLETINS_NEIGE_AVALANCHE/CARTOUCHERISQUE/RISQUE/@RISQUEMAXIJ2"/>
+                  </xsl:call-template>
+                </xsl:attribute>
+              </img>
+            </div>
+   <p>
+      <xsl:value-of select="/BULLETINS_NEIGE_AVALANCHE/CARTOUCHERISQUE/RisqueJ2"/>
+    </p>
+            </div>
+            </div>
+
+	 <div class="cartouche">
+						<p><xsl:value-of select="/BULLETINS_NEIGE_AVALANCHE/CARTOUCHERISQUE/CommentaireRisqueJ2"/></p>
+						</div>
+
+ 
+					</div>
+					</div>
+
+      </div>
 
     <!-- BSH -->
     <xsl:if test="count(BSH)!=0">
@@ -272,95 +406,91 @@
         Conditions nivo-météo des 7 derniers jours
       </h2>
       <div id="BSH">
-        <xsl:apply-templates select="BSH" mode="graphe"/>
-        <xsl:apply-templates select="BSH" mode="tableau"/>
+			<img id="BSH_graph_paysage">
+		<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+		<xsl:value-of select="BSH/Image7derniersjours"/>
+		</xsl:attribute>
+		<xsl:attribute name ="alt">Graphe de conditions nivo-meteo</xsl:attribute>
+			</img>
+
       </div>
     </xsl:if>
+		<p class="basdepage"><xsl:copy-of select="/BULLETINS_NEIGE_AVALANCHE/TexteMeta/BasDePageGenerique"/></p>
+		<p class="basdepage"><xsl:copy-of select="/BULLETINS_NEIGE_AVALANCHE/TexteMeta/LienDocumentation"/></p>
     <!-- Bas de page -->
-    <p class="basdepage">Rédigé par Météo-France avec la contribution des observateurs du réseau nivo-météorologique. Partenariat : ANMSM (Maires de Stations de Montagne), DSF (Domaines Skiables de France), ADSP (Directeurs de Pistes et de la Sécurité des Stations de Sports d'Hiver) et autres acteurs de la montagne.</p>
+    <!--<p class="basdepage">Rédigé par Météo-France avec la contribution des observateurs du réseau nivo-météorologique. Partenariat : ANMSM (Maires de Stations de Montagne), DSF (Domaines Skiables de France), ADSP (Directeurs de Pistes et de la Sécurité des Stations de Sports d'Hiver) et autres acteurs de la montagne.</p>-->
+		<p class="basdepage"><xsl:copy-of select="/BULLETINS_NEIGE_AVALANCHE/TexteMeta/Partenaires"/></p>
   </xsl:template>
 
   <!-- TRAITEMENT DES RUBRIQUES -->
 
   <!-- RUBRIQUE RISQUE  -->
   <xsl:template match="CARTOUCHERISQUE">
+		<h3>
+       <xsl:value-of select="/BULLETINS_NEIGE_AVALANCHE/STABILITE/TITRE"/>
+		 </h3>
+		<div id="risque-j1" class="col1">
     <div class="Risque">
+		<div class="bloc1">
+     <!-- Risque Maxi - BRA-Amendement-ancien xml -->
+            <div class="risqueMaxi">
+              <img >
+                <xsl:attribute name="src">
+                  <xsl:value-of select="$CheminPicto"/>
+                  <xsl:text disable-output-escaping="yes">R</xsl:text>
+                  <xsl:value-of select="RISQUE/@RISQUEMAXI"/>
+                  <xsl:text disable-output-escaping="yes">.png</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name ="alt">
+                  <xsl:call-template name ="texteRisque">
+                    <xsl:with-param name="risque" select="RISQUE/@RISQUEMAXI"/>
+                  </xsl:call-template>
+                </xsl:attribute>
+              </img>
+            </div>
+
+	<!--	</div>
+		<div class="bloc2">-->
       <!--Figurine-->
       <div class="figurineRisque">
         <img>
-          <xsl:attribute name="src">
-            <xsl:text>data:image/</xsl:text>
-            <xsl:value-of select="ImageCartoucheRisque/@Format"/>
-            <xsl:text>;base64,</xsl:text>
-            <xsl:value-of select="ImageCartoucheRisque/Content"/>
-          </xsl:attribute>
-         <xsl:attribute name="alt">
-            <xsl:value-of select="RISQUE/@COMMENTAIRE"/>
+					<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+					<xsl:value-of select="ImageRisque"/>
+
+					</xsl:attribute>
+          <xsl:attribute name="alt">
+            Risque détaillé
           </xsl:attribute>
         </img>
       </div>
+      <!--Figurine-->
+      <div class="figurinePente">
+        <img>
+					<xsl:attribute name="src">
+		<xsl:value-of select="$urlBlob"/>
+						<xsl:value-of select="ImagePente"/>
+					</xsl:attribute>
+          <xsl:attribute name="alt">
+					<xsl:value-of select="PENTE/@COMMENTAIRE"/>
+          </xsl:attribute>
+        </img>
+      </div>
+		</div>
+      <p class="legende">Indices de risque : 5 très fort - 4 fort - 3 marqué - 2 limité - 1 faible   --  En noir : les pentes les plus dangereuses</p>
+</div>
+				</div>
+<div class="col2">
       <!--catouche-->
-      <xsl:choose>
-        <!-- cas des INA-->
-        <xsl:when test="../@TYPEBULLETIN='INA'">
           <div class="cartouche">
-            <xsl:choose>
-              <xsl:when test="VIGILANCE='JAUNE'">
-                <p class="avis">
-                  <xsl:text>(vigilance jaune)</xsl:text>
-                </p>
-              </xsl:when>
-              <xsl:when test="VIGILANCE='ORANGE'">
-                <p class="vigilanceOrange">
-                  <xsl:text>(vigilance orange)</xsl:text>
-                </p>
-              </xsl:when>
-              <xsl:when test="VIGILANCE='ROUGE'">
-                <p class="vigilanceRouge">
-                  <xsl:text>(vigilance rouge)</xsl:text>
-                </p>
-              </xsl:when>
-            </xsl:choose>
-            <br/>
-            <xsl:value-of select="RESUME"/>
-          </div>
-        </xsl:when>
-        <!-- Autres cas-->
-        <xsl:otherwise>
-          <div class="cartouche">
-            <xsl:if test="AVIS!=''">
-              <xsl:choose>
-                <xsl:when test="VIGILANCE=''">
-                  <p class="avis">
-                    <xsl:value-of select="AVIS"/>
-                  </p>
-                </xsl:when>
-                <xsl:when test="VIGILANCE='JAUNE'">
-                  <p class="avis">
-                    <xsl:value-of select="AVIS"/>
-                  </p>
-                </xsl:when>
-                <xsl:when test="VIGILANCE='ORANGE'">
-                  <p class="vigilanceOrange">
-                    <xsl:value-of select="AVIS"/>
-                    <br/>
-                    <xsl:text>(vigilance orange)</xsl:text>
-                  </p>
-                </xsl:when>
-                <xsl:when test="VIGILANCE='ROUGE'">
-                  <p class="vigilanceRouge">
-                    <xsl:value-of select="AVIS"/>
-                    <br/>
-                    <xsl:text>(vigilance rouge)</xsl:text>
-                  </p>
-                </xsl:when>
-              </xsl:choose>
-            </xsl:if>
-
+   <p>
+      <xsl:value-of select="RISQUE/@COMMENTAIRE"/>
+    </p>
             <p>
               <xsl:attribute name="style">
                 <xsl:if test="AVIS='' and ($Version='ATOS' or $Version='ATOS_TEST')">
-                    <xsl:text>margin-top:10px;</xsl:text> 
+                    <xsl:text disable-output-escaping="yes">margin-top:10px;</xsl:text> 
                 </xsl:if>
               </xsl:attribute>
               <b>Départs spontanés : </b>
@@ -372,10 +502,22 @@
               <b>Déclenchements skieurs : </b>
               <xsl:value-of select="ACCIDENTEL"/>
             </p>
+						<xsl:if test="VIGILANCE='ORANGE'">
+						  <p class="avis">
+						    Vigilance orange avalanches en cours ou prévue sur le massif
+						  </p>
+						</xsl:if>
+						<xsl:if test="VIGILANCE='ROUGE'">
+						  <p class="avis">
+						  Vigilance rouge avalanches en cours ou prévue sur le massif
+						  </p>
+						</xsl:if>
+
+
           </div>
-        </xsl:otherwise>
-      </xsl:choose>
-    </div>
+
+
+					</div> <!-- fin risque-j1-->
   </xsl:template>
 
 
@@ -387,6 +529,12 @@
         <xsl:value-of select="ImageEnneigement/@Format"/>
         <xsl:text>;base64,</xsl:text>
         <xsl:value-of select="ImageEnneigement/Content"/>
+      </xsl:attribute>
+      <xsl:attribute name="height">
+        <xsl:value-of select="ImageEnneigement/@Height"/>
+      </xsl:attribute>
+      <xsl:attribute name="width">
+        <xsl:value-of select="ImageEnneigement/@Width"/>
       </xsl:attribute>
       <xsl:attribute name="alt">
         <xsl:text>Enneigement</xsl:text>
@@ -403,6 +551,12 @@
         <xsl:value-of select="ImageNeigeFraiche/@Format"/>
         <xsl:text>;base64,</xsl:text>
         <xsl:value-of select="ImageNeigeFraiche/Content"/>
+      </xsl:attribute>
+      <xsl:attribute name="height">
+        <xsl:value-of select="ImageNeigeFraiche/@Height"/>
+      </xsl:attribute>
+      <xsl:attribute name="width">
+        <xsl:value-of select="ImageNeigeFraiche/@Width"/>
       </xsl:attribute>
       <xsl:attribute name="alt">
         <xsl:text>Neige Fraiche</xsl:text>
@@ -422,6 +576,7 @@
             <xsl:with-param name="date-heure" select="../@DATEECHEANCE"/>
           </xsl:call-template>
         </td>
+        <td style="border-bottom-style: none;"/>
       </tr>
       <tr >
         <td style="border-top-style: none;border-bottom-style: none;"> </td>
@@ -432,9 +587,9 @@
             <img>
               <xsl:attribute name="src">
                 <xsl:value-of select="$CheminPicto"/>
-                <xsl:text>P</xsl:text>
+                <xsl:text disable-output-escaping="yes">meteo/temps/P</xsl:text>
                 <xsl:value-of select="ECHEANCE[1]/@TEMPSSENSIBLE"/>
-                <xsl:text>N.gif</xsl:text>
+                <xsl:text disable-output-escaping="yes">N.gif</xsl:text>
               </xsl:attribute>
               <xsl:attribute name ="alt">
                 <xsl:call-template name ="textetemps">
@@ -458,9 +613,9 @@
           <img>
             <xsl:attribute name="src">
               <xsl:value-of select="$CheminPicto"/>
-              <xsl:text>P</xsl:text>
+              <xsl:text disable-output-escaping="yes">meteo/temps/P</xsl:text>
               <xsl:value-of select="ECHEANCE[2]/@TEMPSSENSIBLE"/>
-              <xsl:text>.gif</xsl:text>
+              <xsl:text disable-output-escaping="yes">.gif</xsl:text>
             </xsl:attribute>
             <xsl:attribute name ="alt">
               <xsl:call-template name ="textetemps">
@@ -483,9 +638,9 @@
           <img>
             <xsl:attribute name="src">
               <xsl:value-of select="$CheminPicto"/>
-              <xsl:text>P</xsl:text>
+              <xsl:text disable-output-escaping="yes">meteo/temps/P</xsl:text>
               <xsl:value-of select="ECHEANCE[3]/@TEMPSSENSIBLE"/>
-              <xsl:text>.gif</xsl:text>
+              <xsl:text disable-output-escaping="yes">.gif</xsl:text>
             </xsl:attribute>
             <xsl:attribute name ="alt">
               <xsl:call-template name ="textetemps">
@@ -501,11 +656,36 @@
             </span>
           </xsl:if>
         </td>
-      </tr>
+
+        <td class="temps">
+          <b>soir</b>
+          <br/>
+          <img>
+            <xsl:attribute name="src">
+              <xsl:value-of select="$CheminPicto"/>
+              <xsl:text disable-output-escaping="yes">meteo/temps/P</xsl:text>
+              <xsl:value-of select="ECHEANCE[4]/@TEMPSSENSIBLE"/>
+              <xsl:text disable-output-escaping="yes">.gif</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name ="alt">
+              <xsl:call-template name ="textetemps">
+                <xsl:with-param name="picto" select="ECHEANCE[4]/@TEMPSSENSIBLE"/>
+              </xsl:call-template>
+            </xsl:attribute>
+          </img>
+          <xsl:if test="ECHEANCE[4]/@MERNUAGES!=-1">
+            <br/>
+            <span style="margin-top:-40px; display:block; font-size:12px;">
+              <xsl:value-of select="ECHEANCE[4]/@MERNUAGES"/>
+              <xsl:text> m</xsl:text>
+            </span>
+          </xsl:if>
+        </td>
+       </tr>
 
       <!-- xsl:if test ="COMMENTAIRE!=''"-->
       <tr>
-        <td colspan="4" style="text-align:right;border-top-style: none;">
+        <td colspan="5" style="text-align:right;border-top-style: none;">
           <xsl:value-of select="COMMENTAIRE"/>
         </td>
       </tr>
@@ -529,8 +709,9 @@
       <tr>
         <td style="text-align:left;">
           <b>
-            <xsl:text>Vent </xsl:text>
+            <xsl:text disable-output-escaping="yes">Vent </xsl:text>
             <xsl:value-of select="@ALTITUDEVENT1"/>
+            <xsl:text disable-output-escaping="yes"> m</xsl:text>
           </b>
         </td>
         <xsl:for-each select="ECHEANCE">
@@ -542,8 +723,9 @@
 
           <td style="text-align:left;">
             <b>
-              <xsl:text>Vent </xsl:text>
+              <xsl:text disable-output-escaping="yes">Vent </xsl:text>
               <xsl:value-of select="@ALTITUDEVENT2"/>
+              <xsl:text disable-output-escaping="yes"> m</xsl:text>
             </b>
           </td>
           <xsl:for-each select="ECHEANCE">
@@ -559,7 +741,7 @@
     <td>
       <xsl:if test="@PLUIENEIGE!=-1">
         <xsl:value-of select="@PLUIENEIGE"/>
-        <xsl:text> m</xsl:text>
+        <xsl:text disable-output-escaping ="yes"> m</xsl:text>
       </xsl:if>
     </td>
   </xsl:template>
@@ -569,7 +751,7 @@
     <td>
       <xsl:if test="@ISO0!=-1">
         <xsl:value-of select="@ISO0"/>
-        <xsl:text> m</xsl:text>
+        <xsl:text disable-output-escaping ="yes"> m</xsl:text>
       </xsl:if>
     </td>
   </xsl:template>
@@ -581,9 +763,9 @@
         <img>
           <xsl:attribute name="src">
             <xsl:value-of select="$CheminPicto"/>
-            <xsl:text>V</xsl:text>
+            <xsl:text disable-output-escaping="yes">/meteo/vent/V</xsl:text>
             <xsl:value-of select="@DD1"/>
-            <xsl:text>.png</xsl:text>
+            <xsl:text disable-output-escaping="yes">.png</xsl:text>
           </xsl:attribute>
           <xsl:attribute name ="alt">
             <xsl:value-of select="@DD1"/>
@@ -593,9 +775,9 @@
           </xsl:attribute>
         </img>
 
-        <xsl:text> </xsl:text>
+        <xsl:text disable-output-escaping ="yes"> </xsl:text>
         <xsl:value-of select="@FF1"/>
-        <xsl:text> km/h</xsl:text>
+        <xsl:text disable-output-escaping ="yes"> km/h</xsl:text>
       </xsl:if>
     </td>
   </xsl:template>
@@ -607,9 +789,9 @@
         <img>
           <xsl:attribute name="src">
             <xsl:value-of select="$CheminPicto"/>
-            <xsl:text>V</xsl:text>
+            <xsl:text disable-output-escaping="yes">/meteo/vent/V</xsl:text>
             <xsl:value-of select="@DD2"/>
-            <xsl:text>.png</xsl:text>
+            <xsl:text disable-output-escaping="yes">.png</xsl:text>
           </xsl:attribute>
           <xsl:attribute name ="alt">
             <xsl:value-of select="@DD2"/>
@@ -618,9 +800,9 @@
             <xsl:text>float:left; margin:0 -5px 0 5px;</xsl:text>
           </xsl:attribute>
         </img>
-        <xsl:text> </xsl:text>
+        <xsl:text disable-output-escaping ="yes"> </xsl:text>
         <xsl:value-of select="@FF2"/>
-        <xsl:text> km/h</xsl:text>
+        <xsl:text disable-output-escaping ="yes"> km/h</xsl:text>
       </xsl:if>
     </td>
   </xsl:template>
@@ -634,13 +816,13 @@
             <xsl:with-param name="date-heure" select="@DATE"/>
             <xsl:with-param name="avecMois" select="string('non')"/>
           </xsl:call-template>
-          <xsl:text> : </xsl:text>
+          <xsl:text disable-output-escaping="yes"> : </xsl:text>
           <xsl:choose>
             <xsl:when test="@VALEUR=-1">
               <img src="{$CheminPicto}baisse.png" alt="en baisse"/>
             </xsl:when>
             <xsl:when test="@VALEUR=0">
-              <img src="{$CheminPicto}stable.png" alt="stable"/>
+              <img src="{$CheminPicto}stable2.png" alt="stable"/>
             </xsl:when>
             <xsl:when test="@VALEUR=1">
               <img src="{$CheminPicto}hausse.png" alt="en hausse"/>
@@ -660,10 +842,10 @@
       <head>
         <title>Bulletin synthèse hebdomadaire</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+				<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" type="text/css">
           <xsl:attribute name="href">
-            <xsl:value-of select="$Css"/>
+            <xsl:value-of select="$urlCss"/>
           </xsl:attribute>
         </link>
       </head>
@@ -692,11 +874,11 @@
         (valable en dehors des pistes balisées et ouvertes)
       </h4>
       <h1>
-        <xsl:text> MASSIF : </xsl:text>
+        <xsl:text disable-output-escaping="yes"> MASSIF : </xsl:text>
         <xsl:value-of select="@MASSIF"/>
       </h1>
       <h4>
-        <xsl:text>rédigé le </xsl:text>
+        <xsl:text disable-output-escaping="yes">rédigé le </xsl:text>
         <xsl:call-template name="DateLong">
           <xsl:with-param name="date-heure" select="@DATEBULLETIN"/>
           <xsl:with-param name="avecAnnee" select="string('oui')"/>
@@ -705,15 +887,20 @@
     </div>
     <div id="BSH">
       <xsl:apply-templates select="." mode="graphe"/>
-      <xsl:apply-templates select="." mode="tableau"/>
+      <xsl:if test="$Version!='ATOS' and $Version!='ATOS_TEST'">
+        <xsl:apply-templates select="." mode="tableau"/>
+      </xsl:if>
     </div>
   </xsl:template>
 
 
   <!--  BSH mode graphique -->
   <xsl:template match="BSH" mode="graphe">
-    <script src="{$CheminPicto}BSHonglet.js"></script> 
-    <div id="BSH_graph">
+
+    <xsl:if test="$Version!='ATOS'">
+      <script src="{$CheminPicto}BSHonglet.js"></script>
+    </xsl:if>
+    <div id="BSH_graph" style="background-image: url({$CheminPicto}fond_BSH.png); background-repeat:no-repeat;">
       <div class="BSHdate">
         <xsl:for-each select="RISQUES/RISQUE">
           <div>
@@ -738,6 +925,12 @@
             <xsl:text>;base64,</xsl:text>
             <xsl:value-of select="METEO/ImageIso/Content"/>
           </xsl:attribute>
+          <xsl:attribute name="height">
+            <xsl:value-of select="METEO/ImageIso/@Height"/>
+          </xsl:attribute>
+          <xsl:attribute name="width">
+            <xsl:value-of select="METEO/ImageIso/@Width"/>
+          </xsl:attribute>
           <xsl:attribute name="alt">
             <xsl:text>Isotherme 0°C et limite pluie neige</xsl:text>
           </xsl:attribute>
@@ -751,14 +944,14 @@
                 <xsl:value-of select="$CheminPicto"/>
                 <xsl:choose>
                   <xsl:when test="substring(substring-after(@DATE,'T'),1,2)='00'">
-                    <xsl:text>pr</xsl:text>
+                    <xsl:text disable-output-escaping="yes">pr</xsl:text>
                     <xsl:value-of select="@TEMPSSENSIBLE"/>
-                    <xsl:text>n.gif</xsl:text>
+                    <xsl:text disable-output-escaping="yes">n.gif</xsl:text>
                   </xsl:when>
                   <xsl:otherwise>
-                    <xsl:text>pr</xsl:text>
+                    <xsl:text disable-output-escaping="yes">pr</xsl:text>
                     <xsl:value-of select="@TEMPSSENSIBLE"/>
-                    <xsl:text>.gif</xsl:text>
+                    <xsl:text disable-output-escaping="yes">.gif</xsl:text>
                   </xsl:otherwise>
                 </xsl:choose>
 
@@ -781,6 +974,12 @@
             <xsl:text>;base64,</xsl:text>
             <xsl:value-of select="METEO/ImageVent/Content"/>
           </xsl:attribute>
+          <xsl:attribute name="height">
+            <xsl:value-of select="METEO/ImageVent/@Height"/>
+          </xsl:attribute>
+          <xsl:attribute name="width">
+            <xsl:value-of select="METEO/ImageVent/@Width"/>
+          </xsl:attribute>
           <xsl:attribute name="alt">
             <xsl:text>Vent en altitude</xsl:text>
           </xsl:attribute>
@@ -795,6 +994,12 @@
             <xsl:text>;base64,</xsl:text>
             <xsl:value-of select="NEIGEFRAICHE/ImageNeigeFraiche/Content"/>
           </xsl:attribute>
+          <xsl:attribute name="height">
+            <xsl:value-of select="NEIGEFRAICHE/ImageNeigeFraiche/@Height"/>
+          </xsl:attribute>
+          <xsl:attribute name="width">
+            <xsl:value-of select="NEIGEFRAICHE/ImageNeigeFraiche/@Width"/>
+          </xsl:attribute>
           <xsl:attribute name="alt">
             <xsl:text>Neige fraîche</xsl:text>
           </xsl:attribute>
@@ -807,9 +1012,9 @@
             <img>
               <xsl:attribute name="src">
                 <xsl:value-of select="$CheminPicto"/>
-                <xsl:text>R</xsl:text>
+                <xsl:text disable-output-escaping="yes">R</xsl:text>
                 <xsl:value-of select="@RISQUEMAXI"/>
-                <xsl:text>_70.png</xsl:text>
+                <xsl:text disable-output-escaping="yes">_70.png</xsl:text>
               </xsl:attribute>
               <xsl:attribute name ="alt">
                 <xsl:call-template name ="texteRisque">
@@ -821,7 +1026,7 @@
         </xsl:for-each>
       </div>
       <div id="BSHenneigements">
-        <div class="BSHtitreRisque">Enneigement</div>
+        <div  style="width:85px;" class="BSHtitreRisque">Enneigement</div>
         <ul>
           <li id="BSHenneigements_tab_alt1">
             <a href="javascript:ChangeOnglet('alt1');" >
@@ -865,6 +1070,12 @@
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt1/Content"/>
             </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt1/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt1/@Width"/>
+            </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement</xsl:text>
             </xsl:attribute>
@@ -877,6 +1088,12 @@
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt2/@Format"/>
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt2/Content"/>
+            </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt2/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt2/@Width"/>
             </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement</xsl:text>
@@ -891,6 +1108,12 @@
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt3/Content"/>
             </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt3/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementAlt3/@Width"/>
+            </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement</xsl:text>
             </xsl:attribute>
@@ -903,6 +1126,12 @@
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementNord/@Format"/>
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementNord/Content"/>
+            </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementNord/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementNord/@Width"/>
             </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement Nord</xsl:text>
@@ -917,6 +1146,12 @@
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementSud/Content"/>
             </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementSud/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementSud/@Width"/>
+            </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement sud</xsl:text>
             </xsl:attribute>
@@ -929,6 +1164,12 @@
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementLimite/@Format"/>
               <xsl:text>;base64,</xsl:text>
               <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementLimite/Content"/>
+            </xsl:attribute>
+            <xsl:attribute name="height">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementLimite/@Height"/>
+            </xsl:attribute>
+            <xsl:attribute name="width">
+              <xsl:value-of select="ENNEIGEMENTS/ImageEnneigementLimite/@Width"/>
             </xsl:attribute>
             <xsl:attribute name="alt">
               <xsl:text>Enneigement sud</xsl:text>
@@ -949,6 +1190,8 @@
     </div>
   </xsl:template>
 
+
+
   <!-- BSH mode tableau-->
   <xsl:template match="BSH" mode="tableau">
     <div id="BSH_tableau">
@@ -959,6 +1202,11 @@
           </xsl:if>
         </xsl:attribute>
         <div class="BSH_tableau_titre_meteo">
+          <xsl:attribute name="style">
+            <xsl:if test="METEO/@ALTITUDEVENT2=9999">
+              width:180px;
+            </xsl:if>
+          </xsl:attribute>
           <div class="BSH_ww">
             <img src="{$CheminPicto}ww.png" alt="temps sensible"/>
           </div>
@@ -969,15 +1217,13 @@
             <img src="{$CheminPicto}iso0.png" alt="isotherme 0°C"/>
           </div>
           <div class="BSH_vent">
-            <img src="{$CheminPicto}vent.png" style="vertical-align: middle" alt="vent (km/h)"/>
-            <xsl:text> </xsl:text>
-            <xsl:value-of select="METEO/@ALTITUDEVENT1"/>
+            <img src="{$CheminPicto}vent.png" style="float:left; margin: 3px 0 0 0;" alt="vent (km/h)"/>
+            <xsl:value-of select="METEO/@ALTITUDEVENT1"/>m
           </div>
           <xsl:if test="METEO/@ALTITUDEVENT2!=9999">
             <div class="BSH_vent">
-              <img src="{$CheminPicto}vent.png" style="vertical-align: middle" alt="vent (km/h)"/>
-              <xsl:text> </xsl:text>
-              <xsl:value-of select="METEO/@ALTITUDEVENT2"/>
+              <img src="{$CheminPicto}vent.png" style="float:left; margin: 3px 0 0 0;" alt="vent (km/h)"/>
+              <xsl:value-of select="METEO/@ALTITUDEVENT2"/>m
             </div>
           </xsl:if>
         </div>
@@ -1029,14 +1275,14 @@
                     <xsl:value-of select="$CheminPicto"/>
                     <xsl:choose>
                       <xsl:when test="substring(substring-after(@DATE,'T'),1,2)='00'">
-                        <xsl:text>pr</xsl:text>
+                        <xsl:text disable-output-escaping="yes">pr</xsl:text>
                         <xsl:value-of select="@TEMPSSENSIBLE"/>
-                        <xsl:text>n.gif</xsl:text>
+                        <xsl:text disable-output-escaping="yes">n.gif</xsl:text>
                       </xsl:when>
                       <xsl:otherwise>
-                        <xsl:text>pr</xsl:text>
+                        <xsl:text disable-output-escaping="yes">pr</xsl:text>
                         <xsl:value-of select="@TEMPSSENSIBLE"/>
-                        <xsl:text>.gif</xsl:text>
+                        <xsl:text disable-output-escaping="yes">.gif</xsl:text>
                       </xsl:otherwise>
                     </xsl:choose>
 
@@ -1069,18 +1315,18 @@
                   <img>
                     <xsl:attribute name="src">
                       <xsl:value-of select="$CheminPicto"/>
-                      <xsl:text>V</xsl:text>
+                      <xsl:text disable-output-escaping="yes">/meteo/vent/V</xsl:text>
                       <xsl:value-of select="@DD1"/>
-                      <xsl:text>.png</xsl:text>
+                      <xsl:text disable-output-escaping="yes">.png</xsl:text>
                     </xsl:attribute>
                     <xsl:attribute name ="alt">
                       <xsl:value-of select="@DD1"/>
                     </xsl:attribute>
                     <xsl:attribute name ="style">
-                      <xsl:text>vertical-align: middle</xsl:text>
+                      <xsl:text>float:left; margin: 6px -5px 0 5px;</xsl:text>
                     </xsl:attribute>
                   </img>
-                  <xsl:text> </xsl:text>
+                  <xsl:text disable-output-escaping ="yes"> </xsl:text>
                   <xsl:value-of select="@FF1"/>
                 </xsl:if>
 				 <xsl:if test="@FF1=-1">
@@ -1093,18 +1339,18 @@
                     <img>
                       <xsl:attribute name="src">
                         <xsl:value-of select="$CheminPicto"/>
-                        <xsl:text>V</xsl:text>
+                        <xsl:text disable-output-escaping="yes">/meteo/vent/V</xsl:text>
                         <xsl:value-of select="@DD2"/>
-                        <xsl:text>.png</xsl:text>
+                        <xsl:text disable-output-escaping="yes">.png</xsl:text>
                       </xsl:attribute>
                       <xsl:attribute name ="alt">
                         <xsl:value-of select="@DD2"/>
                       </xsl:attribute>
                       <xsl:attribute name ="style">
-                        <xsl:text>vertical-align: middle</xsl:text>
+                        <xsl:text>float:left; margin:6px -5px 0 5px;</xsl:text>
                       </xsl:attribute>
                     </img>
-                    <xsl:text> </xsl:text>
+                    <xsl:text disable-output-escaping ="yes"> </xsl:text>
                     <xsl:value-of select="@FF2"/>
                   </xsl:if>
 				   <xsl:if test="@FF2=-1">
@@ -1138,13 +1384,13 @@
             Risque avalanche
           </div>
           <div>
-            Fraîche à <xsl:value-of select="NEIGEFRAICHE/@ALTITUDESS" />m
+            Fraîche à <xsl:value-of select="NEIGEFRAICHE/@ALTITUDESS" /> m
           </div>
           <div>
-            Limite neige
+            Limite enneigement
           </div>
           <div>
-            Neige à <xsl:value-of select="ENNEIGEMENTS/ENNEIGEMENT[1]/NIVEAU[2]/@ALTI" />m
+            Enneigement à <xsl:value-of select="ENNEIGEMENTS/ENNEIGEMENT[1]/NIVEAU[2]/@ALTI" /> m
           </div>
         </div>
         <div class="BSHdate">
@@ -1163,9 +1409,9 @@
                 <img>
                   <xsl:attribute name="src">
                     <xsl:value-of select="$CheminPicto"/>
-                    <xsl:text>R</xsl:text>
+                    <xsl:text disable-output-escaping="yes">R</xsl:text>
                     <xsl:value-of select="@RISQUEMAXI"/>
-                    <xsl:text>_70.png</xsl:text>
+                    <xsl:text disable-output-escaping="yes">_70.png</xsl:text>
                   </xsl:attribute>
                   <xsl:attribute name ="alt">
                     <xsl:call-template name ="texteRisque">
@@ -1197,7 +1443,7 @@
                 </div>
               </xsl:if>
               <xsl:if test="../@SECTEURSS2!=''">
-
+             
                   <div>
                     <br/>
                     <strong>
@@ -1229,7 +1475,7 @@
                         <xsl:value-of select="@SS242"/> cm
                       </xsl:otherwise>
                     </xsl:choose>
-                  </div>
+                  </div>          
               </xsl:if>
             </xsl:for-each>
           </div>
@@ -1314,10 +1560,10 @@
         <xsl:text>samedi</xsl:text>
       </xsl:when>
     </xsl:choose>
-    <xsl:text> </xsl:text>
+    <xsl:text disable-output-escaping="yes"> </xsl:text>
     <xsl:value-of select="$jour"/>
     <xsl:if test="$avecMois='oui'">
-      <xsl:text> </xsl:text>
+      <xsl:text disable-output-escaping="yes"> </xsl:text>
       <xsl:choose>
         <xsl:when test="$mois=1">
           <xsl:text>janvier</xsl:text>
@@ -1357,7 +1603,7 @@
         </xsl:when>
       </xsl:choose>
       <xsl:if test ="$avecAnnee='oui'">
-        <xsl:text> </xsl:text>
+        <xsl:text disable-output-escaping="yes"> </xsl:text>
         <xsl:value-of select="$an"/>
       </xsl:if>
     </xsl:if>
@@ -1399,10 +1645,10 @@
         <xsl:text>sam.</xsl:text>
       </xsl:when>
     </xsl:choose>
-    <xsl:text> </xsl:text>
+    <xsl:text disable-output-escaping="yes"> </xsl:text>
     <xsl:value-of select="$jour"/>
     <xsl:if test="$avecMois='oui'">
-      <xsl:text> </xsl:text>
+      <xsl:text disable-output-escaping="yes"> </xsl:text>
       <xsl:choose>
         <xsl:when test="$mois=1">
           <xsl:text>jan.</xsl:text>
@@ -1442,7 +1688,7 @@
         </xsl:when>
       </xsl:choose>
       <xsl:if test ="$avecAnnee='oui'">
-        <xsl:text> </xsl:text>
+        <xsl:text disable-output-escaping="yes"> </xsl:text>
         <xsl:value-of select="$an"/>
       </xsl:if>
     </xsl:if>
@@ -1533,5 +1779,61 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  <!-- texte des SAT-->
+  <xsl:template name ="texteSAT">
+    <xsl:param name="SAT"/>
+    <xsl:choose>
+      <xsl:when test="$SAT=6">
+        <xsl:text>Pas de situation avalancheuse prédominante</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=1">
+        <xsl:text>Neige fraîche</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=2">
+        <xsl:text>Neige ventée</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=4">
+        <xsl:text>Neige humide</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=5">
+        <xsl:text>Avalanches de fond</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=3">
+        <xsl:text>Couche fragile persistante</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text></xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  <xsl:template name ="ancreSAT">
+    <xsl:param name="SAT"/>
+    <xsl:choose>
+      <xsl:when test="$SAT=6">
+        <xsl:text></xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=1">
+        <xsl:text>neige_frache</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=2">
+        <xsl:text>wind_slab</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=4">
+        <xsl:text>neige_humide</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=5">
+        <xsl:text>gliding_snow</xsl:text>
+      </xsl:when>
+      <xsl:when test="$SAT=3">
+        <xsl:text>persistent_weak_layers</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text></xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+
+
 
 </xsl:stylesheet>

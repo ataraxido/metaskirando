@@ -1,0 +1,1434 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+    
+<head>
+    <!-- windows-1252-->
+    <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes">
+
+    <meta property="fb:app_id" content="1168053066936819" /> 
+    <meta property="og:title" content="Liste des dernières sorties en Ski de rando" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="bivouak.net" />
+    <meta property="og:url" content="https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1" />
+    <meta property="og:image" content="https://www.bivouak.net/img/guide_massif.jpg" />
+    <meta property="og:image:width" content="360px"/>
+    <meta property="og:image:heigth" content="240px"/>
+    <meta property="og:image:alt" content="Liste des dernières sorties en Ski de rando"/>
+    <meta property="og:description" content="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d'activités en plein air, des itinéraires et des conseils pour vos prochaines escapades." />
+    <link rel="canonical" href="https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1" />
+
+
+    <title>Liste des dernières sorties en Ski de rando</title>
+
+    <link rel="shortcut icon" href="../img/favicon.ico">
+
+    <META NAME="Author" CONTENT="bivouak.net">
+    <META NAME="Description" CONTENT="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades.">
+    <META NAME="Keywords" LANG="fr" CONTENT="sorties, Ski de rando, montagne, conseils, itinéraire">
+    <META NAME="Identifier-URL" CONTENT="https://www.bivouak.net">
+    <META NAME="Date-Creation-yyyymmdd" content="2024-12-18">
+    <META NAME="Date-Revision-yyyymmdd" content="2025-11-22">
+    <META NAME="Robots" CONTENT="index,follow,all">
+    <META NAME="revisit-after" CONTENT="7 days">
+    <META NAME="Category" CONTENT="Ski de rando">
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "name": "Liste des dernières sorties en Ski de rando",
+            "headline": "Liste des dernières sorties en Ski de rando",
+            "description": "Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades.",
+            "datePublished": "2024-12-18",
+            "dateModified": "2025-11-22",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.bivouak.net/img/guide_massif.jpg",
+                "width": "360px",
+                "height": "240px"
+                },
+            "url":"https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1"
+            },
+            "author": {
+                "@type": "Person",
+                "name":"bivouak.net"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "url": "https://www.bivouak.net/",
+                "name": "bivouak.net",
+                "logo": {
+                    "@type":"ImageObject",
+                    "url":"https://www.bivouak.net/img/bivouak_dorange_by_lynkx.svg",
+                    "width":"275"
+                }
+                }
+              }
+        </script>
+       
+    <!-- CSS -->
+
+    <link href="../js/jquery-ui-1.11.4.custom/jquery-ui.css" rel="stylesheet" media="all">
+    <link href="../js/bxslider/jquery.bxslider.css" rel="stylesheet" media="all"> 
+    <link href="../css/top.css" rel="stylesheet" media="all">
+    <link href="../css/vendors.css" rel="stylesheet" media="all">
+    <link href="../css/font_bivouak.css" rel="stylesheet" media="all">    
+    <link href="../css/footer.css" rel="stylesheet" media="all">    
+    <!-- <link href="../css/width-full.css" rel="stylesheet" title="default" media="all">-->
+    <link href="../css/style-dorange.css" rel="stylesheet" media="all" title="default">
+
+    <!-- <link href="../css/rating.css" rel="stylesheet" type="text/css" media="all"> -->
+
+    <!-- <script src="../js/rating_behavior.js"></script> -->
+    <script src="../js/char.js"></script>
+    <!-- <script src="../js/rating.js"></script> -->
+    <script src="../ajax/flag.js"></script>
+    <script src="../js/error.js"></script>
+    
+    <!-- <script src="../js/lf_tools.js"></script> -->
+    <script src="../js/vendors.js"></script>
+    <script src="../js/tools.js"></script>
+    <script src="../js/DropdownHover.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/holder.js"></script>
+    <script src="../ajax/form.js"></script>
+    <script src="../js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0KP4LXRGLS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0KP4LXRGLS');
+</script>
+
+<!-- Meta Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1153609335378621');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" alt="facebook pixel"
+    src="https://www.facebook.com/tr?id=1153609335378621&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
+
+</head>
+
+
+<body>
+
+
+
+<div id="sb-site">
+<div class="boxed">
+    
+<header id="header-full-top" class="hidden-xs header-full-dark hidden-print">
+    <div class="container">
+        <div class="header-full-title">
+            <div class="row">
+
+            <div class="col-sm-6">
+                <span class="nav-top animated fadeInRight"><b class="animated fadeInDown animation-delay-20"><a href="../accueil/index.php">
+                    <img src="../img/bivouakLogo.svg" width="300px" alt="Bivouak logo"></a></b>
+                    <a href="https://lynkx.eu/" target="_blank" rel="noopener" style="float:right;">
+                    <img src="../img/by lynkx.svg" width="100px" title="Lynkx" alt="by Lynkx logo"></a></b>
+                    </a>
+                </span>
+            </div>                       
+
+            <div class="col-sm-6" style="text-align: end;"><br>
+                <a title="Randonnée" href="./index.php?id_sport=2" class="button-sport " ><i class="biv biv-randonnee" style="font-size: 20px;"></i></a>
+                <a title="Raquettes" href="./index.php?id_sport=8" class="button-sport " ><i class="biv biv-raquettes" style="font-size: 20px;"></i></a>
+                <a title="Ski de randonnée" href="./index.php" class="button-sport active" ><i class="biv biv-ski_de_rando" style="font-size: 20px;"></i></a>
+                <a title="VTT" href="./index.php?id_sport=4" class="button-sport " ><i class="biv biv-vtt" style="font-size: 20px;"></i></a>
+                <a title="Parapente" href="./index.php?id_sport=16" class="button-sport " ><i class="biv biv-parapente" style="font-size: 20px;"></i></a>            
+            </div>     
+
+        </div>                  
+    </div>
+
+        <nav class="top-nav">
+            
+                        <div class="dropdown animated fadeInDown animation-delay-11">
+                <a href="../#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> 
+                        Login 
+                </a>
+                <div class="dropdown-menu dropdown-menu-right dropdown-login-box animated fadeInUp">
+                    <form role="form"  method="post" action="../accueil/index.php?id_sport=1">
+                        <span>Connexion</span>
+
+                        <div class="form-group">
+                            <div class="input-group login-input">
+                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                                <input type="text" class="form-control" placeholder="Username" name="username">
+                                <input type="hidden" name="redirect" value="/topos/liste_des_sorties.php?id_sport=1">
+                            </div>
+                            <br>
+                            <div class="input-group login-input">
+                                <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                                <input type="password" class="form-control" placeholder="Password" name="password" id="passwordField1">
+                                <span class="input-group-addon togglePassword">
+                                    <i style="background-color: none" class="fa fa-eye" id="eyeIcon1" onclick="togglePasswordVisibility('passwordField1','eyeIcon1')"></i>
+                                </span>
+                            </div>
+                            <br>
+                            <button type="submit" name="connection" value="connection" class="btn btn-ar btn-primary pull-left">Se connecter</button>
+                            <button name="create_account" value="creation" class="btn btn-warning btn-primary pull-right" onclick="window.location.href='../membres/edit_profile.php'">Créer un compte</button>
+                            
+                            <div class="clearfix"></div>
+                            
+                        </div>
+                    </form>
+                    <a href="../membres/psw.php?redir=/accueil/index.php" class="header-password-reset-link"></a>
+                    Mot de passe oublié...</a>
+                </div>
+            </div> <!-- dropdown -->
+            
+            <div class="dropdown animated fadeInDown animation-delay-13">
+                <a href="../#" class="dropdown-toggle" data-toggle="dropdown" 
+                    onclick='document.getElementById("search_global").focus();'><i class="fa fa-search"></i></a>
+                <div class="dropdown-menu dropdown-menu-right dropdown-search-box animated fadeInUp">
+                    <form role="form">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="search_global" id="search_global" placeholder="Rechercher..." oninput="searchGlobal(1)">
+                            <span class="input-group-btn">
+                                <button class="btn btn-ar btn-primary" type="button">Go!</button>
+                            </span>
+                        </div><!-- /input-group -->
+                    </form>
+                </div>
+            </div> <!-- dropdown -->
+        </nav>
+    </div> <!-- container -->
+</header> <!-- header-full -->
+
+<nav class="navbar navbar-static-top navbar-default navbar-header-full navbar-dark">
+            
+
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand hidden-lg hidden-md hidden-sm active" href="../accueil/index.php">
+                <img src="../img/bivouak_dorange_by_lynkx.svg" width="180px" alt="Bivouak by Lynkx logo">               
+            </a>
+        </div> <!-- navbar-header -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="pull-right hidden-lg hidden-md hidden-sm">
+            <a href="javascript:void(0);" class="sb-icon-navbar sb-toggle-right"><i class="fa fa-bars"></i></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle active" data-toggle="dropdown">ACCUEIL</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li>
+                                                            <a href="../accueil/index.php?id_sport=1" class="active">Bienvenue</a>
+                                                    </li>
+                        <!--<a href="../accueil/news.php?id_sport=1&sport=1" class="active">Dernières contributions</a></li>-->
+                                            <li><a href="../articles/article.php?id=386&id_sport=1">Ski de rando</a></li>
+                                            <li><a href="../accueil/contact.php?id_sport=1">Qui sommes nous ?</a></li>
+                        <!--<li class="dropdown-submenu">
+                            <a href="../javascript:void(0);" class="has_children">actualit&eacute;s</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../accueil/actu.php?id_sport=1">actualit&eacute;s</a></li>
+                                <li><a href="../accueil/ajout_date.php?id_sport=1">ajouter une date</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="../javascript:void(0);" class="has_children">ressources</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li>
+                                    <a href="../accueil/bibliotheque.php?id_sport=1">bibliothèque</a>
+                                </li>
+                                <li>
+                                    <a href="../javascript:void(0);" class="has_children">weboth&egrave;que</a>
+                                    <ul class="dropdown-menu dropdown-menu-left">
+                                        <li><a href="../accueil/webotheque.php?id_sport=1">parcourir la weboth&egrave;que</a></li>
+                                        <li><a href="../accueil/ajout_lien.php?id_sport=1">ajouter un lien</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>-->
+                                        </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="../javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">TOPOS</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a href="../topos/explorer-contribuer-sport-1.html">Explorer / Contribuer</a></li>
+                        <li><a href="../topos/preparer_sa_rando-sport-1.html">Créer un itinéraire GPS</a></li>
+                        <!-- <li><a href="../topos/ajout_topo1.php?id_sport=1">Ajouter un topo</a></li>-->
+                        <!--<li><a href="../topos/ajouter_sortie.php?id_sport=1">Ajouter une sortie</a></li>-->
+                        <li><a href="../topos/massif-sport-1.html">Les massifs</a></li>
+                        <li><a href="../topos/liste_des_topos.php?id_sport=1">Les topos</a></li>
+                        <li><a href="../topos/liste_des_sorties.php?id_sport=1">Les sorties</a></li>
+                                    <li><a href="../topos/randonner_avec_enfants-sport-1.html">Course avec les enfants</a></li>
+                                                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="../javascript:void(0);"class="dropdown-toggle" data-toggle="dropdown">RESSOURCES</a>
+                    <ul class="dropdown-menu dropdown-menu-left">
+                        <li class="dropdown-submenu">
+                            <a href="../agenda/index.php?id_sport=1">Agenda</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../agenda/index.php?id_sport=1">Agenda du montagnard</a></li>
+                                <li><a href="../agenda/index.php?id_sport=1&all=1">Toutes les dates</a></li>
+                                <li><a href="../agenda/ajout_agenda.php?id_sport=1">Ajouter une date</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="../articles/liste_des_articles.php?id_sport=1">Articles</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../articles/liste_des_articles.php?id_sport=1">Derniers articles</a></li>
+                                                                    <li><a href="javascript:void(0);" onclick="$('#articleModal').modal('show');">Ajouter un article</a></li>
+                                                            </ul>
+                        </li>
+                        <li class="dropdown-submenu">
+                            <a href="../refuges/liste_des_refuges.php?id_sport=1">Refuges</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../refuges/index.php?id_sport=1">Où dormir ?</a></li>
+                                <!-- <li><a href="../refuges/index.php?id_sport=1">Les plus beaux bivouacs</a></li> -->
+                                <li><a href="../refuges/liste_des_refuges.php?id_sport=1">Liste des refuges</a></li>
+                                <li><a href="../refuges/ajout_refuge.php?id_sport=1">Ajouter un refuge</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- <li class="dropdown-submenu">
+                            <a href="../refuges/liste_des_refuges.php?poi=1&id_sport=1">Points d&#039;intérêt</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../poi/liste_des_points_interet-sport-1.html">Liste des Points d&#039;intérêt</a></li>
+                                <li><a href="../poi/ajouter_point_interet-sport-1.html">Ajouter un Point d&#039;intérêt</a></li>
+                            </ul>
+                        </li> -->
+
+                        
+                        <!-- <li class="dropdown-submenu">
+                            <a href="javascript:void(0);" class="dropdown-toggle active" data-toggle="dropdown">Parcours</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../topos/preparer_sa_rando-sport-1.php" class="active">Créer un parcours</a></li>
+                                <li><a href="#" class="active">Voir un parcours (GPX)</a></li>
+                                <li><a href="../gps/liste_des_routes.php?id_sport=1" class="active">Liste des parcours</a></li>
+                                                            </ul>
+                        </li> -->
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">MEMBRES</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a href="../membres/index.php?id_sport=1">Les bivouakers</a></li>
+                        <li class="dropdown-submenu">
+                            <a href="../group/liste_des_groupes.php">Les clubs</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                <li><a href="../group/liste_des_groupes.php">Liste des clubs</a></li>
+                                <li><a href="../group/ajout_groupe.php">Ajouter un club</a></li>
+                            </ul>
+                        </li>
+                                            </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">FORUM</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a href="../forum/index.php">Derniers messages</a></li>
+                                                                                                                                                                        <li class="dropdown-submenu">
+                            <a href="../javascript:void(0);" class="has_children">Ski de Randonnée</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                                      <li><a href="../forum/index.php?id_forum=2">Discussions</a></li>                        
+                      
+                                                                                                                    <li><a href="../forum/index.php?id_forum=9">Neige</a></li>                        
+                      
+                                                                                                                    <li><a href="../forum/index.php?id_forum=8">Coéquipiers, Coéquipères</a></li>                        
+                      
+                                                                                                                    <li><a href="../forum/index.php?id_forum=5">La Grande Braderie</a></li>                        
+                      
+                                                                                                                                        </ul>
+                        </li>                        
+                                                                        <li class="dropdown-submenu">
+                            <a href="../javascript:void(0);" class="has_children">Bivouak.net</a>
+                            <ul class="dropdown-menu dropdown-menu-left">
+                                                      <li><a href="../forum/index.php?id_forum=11">Le site</a></li>                        
+                      
+                                                                                                                    <li><a href="../forum/index.php?id_forum=12">Commentaires</a></li>                        
+                      
+                                                                                                            </ul>
+                        </li>                                                            
+                    </ul>
+                </li>
+                                        
+
+             </ul>
+
+        
+        </div><!-- navbar-collapse -->
+
+    </div><!-- container -->
+</nav>
+<input type="hidden" id="id_sport" name="id_sport" value="1">
+
+<span id="result_search_global">
+</span>
+
+
+<script type="text/javascript">
+
+// Afficher les droits de l'utilisateur
+// console.log("0");
+
+var user_id = -1;
+
+function PopupWindow(source, strWindowToOpen, fullscreen="no", width=600, height=1000)
+    {
+    var strWindowFeatures = "toolbar=no,resize=yes,titlebar=no,menubar=no,maximize=null, scrollbars=auto";
+    if (fullscreen=="no")
+        strWindowFeatures += ",width="+width+",height="+height;
+    else
+        strWindowFeatures += ",fullscreen="+fullscreen;
+    window.open(strWindowToOpen, '', strWindowFeatures); 
+    } 
+
+function checknumber(x) {
+var anum=/(^\d+$)|(^\d+.\d+$)|(^-\d+$)|(^-\d+.\d+$)/
+if (anum.test(x))
+return true;
+else
+return false;
+}
+
+  function PrintD(object, title=''){
+        }
+
+</script>
+
+<!-- Modal Bootstrap -->
+<div class="modal fade" id="articleModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="modal-title" style="font-weight: bold;">Publication d'un article sur bivouak.net</p>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Afin de garantir notre ligne éditoriale, la rédaction d'articles sur bivouak.net est modérée. Merci de faire votre demande à contact@bivouak.net et nous reviendrons rapidement vers vous.</p>
+                <p>Au plaisir de vous lire.</p>
+                <p>L'équipe de bivouak.net</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div></div>
+<header class="main-header">
+    <div class="container">
+        <h1 class="page-title animated fadeInLeft animation-delay-11">
+                            Derni&egrave;res sorties
+                    </h1>
+
+        <ol class="breadcrumb pull-right animated fadeInLeft animation-delay-11">
+            <li><a href="../topos/index.php?id_sport=1">Topos</a></li>
+            
+        </ol>
+    </div>
+</header>
+
+
+<div class="container">
+
+                        <table class="table table-striped">
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Course</th>
+                        <th class="hidden-xs">Massif</th>
+          
+          
+          <th class="hidden-xs"><i class="fa fa-globe" title="Route"></i></th>
+          <th class="hidden-xs"><i class="fa fa-image" title="Nombre des photos"></i></th>
+          <th class="hidden-xs">Cot.</th>
+                                          <th class="hidden-xs">Denivel&eacute;</th>
+                                                <th>Auteur</th>
+                          </tr>
+  </thead>
+  <tbody>
+                              <tr>
+                  <td>22-11-2025</td>
+                  <td><a href="../topos/sortie-28866-scia-commence.html">Scia commence  (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>875 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>10-05-2025</td>
+                  <td><a href="../topos/sortie-27223-.html">Petit Van Couloir W (depuis le Col de la Botte)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.2</td>
+                                                                  <td>670 m</td>
+                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>18-03-2025</td>
+                  <td><a href="../topos/sortie-27114-but-cagire.html">But au Cagire (Tuc de Pan)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3/3</td>
+                                                                  <td>600 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>17-03-2025</td>
+                  <td><a href="../topos/sortie-27108-jamais-deux-sans-trois.html">Jamais deux sans trois (Cap de la Pène Soulit)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>800 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>16-03-2025</td>
+                  <td><a href="../topos/sortie-27112-poudreuse-espagnole.html">Poudreuse espagnole (Tuc Deth Rosari)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-279-espagne-encantats.html">Espagne (Encantats)</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.3</td>
+                                                                  <td>1000 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>15-03-2025</td>
+                  <td><a href="../topos/sortie-27113-poudre-blanche-a-vallee-blanche.html">Poudre blanche à la vallée blanche  (Cap de Moncaup)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">D2/V1/A2</td>
+                                                                  <td>1100 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>28-02-2025</td>
+                  <td><a href="../topos/sortie-26956-meilleure-descente-saison.html">La meilleure descente de la saison  (Roc Noir de Combeynot)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-5-ecrins.html">Ecrins</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.1</td>
+                                                                  <td>1100 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>27-02-2025</td>
+                  <td><a href="../topos/sortie-26955-changement-radical-conditions.html">Changement radical des conditions  (Col de l’étroit du Vallon)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-379-brianconnais.html">Briançonnais </a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>850 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>26-02-2025</td>
+                  <td><a href="../topos/sortie-26954-un-froid-siberien.html">Un froid sibérien  (Col de l&#039;Aiguillette)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-15-cerces-thabor-mont-cenis.html">Cerces - Thabor - Mont Cenis</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>850 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>21-02-2025</td>
+                  <td><a href="../topos/sortie-26851-pointe-rochers-charniers-3059-m.html">Pointe des Rochers Charniers 3059 m</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>750 m</td>
+                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>18-02-2025</td>
+                  <td><a href="../topos/sortie-26804-visite-vallee-etroite.html">Visite de la vallée Etroite</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>450 m</td>
+                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>16-02-2025</td>
+                  <td><a href="../topos/sortie-26778-col-galibier.html">Col du Galibier</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>950 m</td>
+                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>09-02-2025</td>
+                  <td><a href="../topos/sortie-26693-un-fromage.html">Un fromage … (Mont Fromage)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>400 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>07-02-2025</td>
+                  <td><a href="../topos/sortie-26654-petit-grand-vent-s.html">Petit &amp; Grand vent.s ! (Petit Van)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.2</td>
+                                                                  <td>550 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>07-02-2025</td>
+                  <td><a href="../topos/sortie-26661-orionde-retour-affaires.html">Orionde, retour aux affaires (Orionde)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>750 m</td>
+                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>06-02-2025</td>
+                  <td><a href="../topos/sortie-26653-.html">La Scia depuis Saint Pierre ...</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>875 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>05-02-2025</td>
+                  <td><a href="../topos/sortie-26633-10-000-pas-dans-feu-c-est-assez-long.html">10 000 pas dans le feu, c&#039;est assez long. (Cime de la Jasse)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>1300 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>04-02-2025</td>
+                  <td><a href="../topos/sortie-26632-poudre-cachee-grand-rocher.html">La poudre cachée du Grand Rocher (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>800 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>01-02-2025</td>
+                  <td><a href="../topos/sortie-26594-des-mushers-taillefer.html">Des mushers au Taillefer ! (Crête de Brouffier)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-22-matheysine-taillefer.html">Matheysine - Taillefer</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.1</td>
+                                                                  <td>980 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>29-01-2025</td>
+                  <td><a href="../topos/sortie-26593-dixit-dominus.html">Dixit Dominus (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>800 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>04-01-2025</td>
+                  <td><a href="../topos/sortie-26381-vite-profiter-poudreuse.html">Vite profiter de la poudreuse (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>530 m</td>
+                                                                                <td><a href="../membres/profile-703-muktinath.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/703.jpg" height="35px" width="35px">MUKTINATH</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>29-12-2024</td>
+                  <td><a href="../topos/sortie-26252-derniere-sortie-ski-annee.html">Dernière sortie de ski de l&#039;année  (Pic Saint Michel)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-3-vercors.html">Vercors</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.1</td>
+                                                                  <td>750 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>29-12-2024</td>
+                  <td><a href="../topos/sortie-26271-grd-colon-ne-w.html">Grd Colon NE&gt;W</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>26-12-2024</td>
+                  <td><a href="../topos/sortie-26232-comment-on-s-est-perdus-montant-a-scia.html">Comment on s&#039;est perdus en montant à la Scia  (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.2</td>
+                                                                  <td>830 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>25-12-2024</td>
+                  <td><a href="../topos/sortie-26231-zone-silence.html">La zone de silence (Col de la Ruchère)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">R1</td>
+                                                                  <td>1000 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>21-12-2024</td>
+                  <td><a href="../topos/sortie-26134-.html">Dent de Crolles par le Pas de l&#039;Oeille.</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">4.1</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>21-12-2024</td>
+                  <td><a href="../topos/sortie-26137-enfin-bonne-neige.html">Enfin de la bonne neige !  (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>900 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>18-12-2024</td>
+                  <td><a href="../topos/sortie-26106-balade-avec-guide.html">Balade avec le guide</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-8514-yann38.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/8514.jpg" height="35px" width="35px">Yann38</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>18-12-2024</td>
+                  <td><a href="../topos/sortie-26138-souvenirs-bacha-bouloud.html">Souvenirs de Bacha Bouloud (Croix de Chamrousse)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.2</td>
+                                                                  <td>700 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>17-12-2024</td>
+                  <td><a href="../topos/sortie-26139-ski-avec-cougnate.html">Ski avec le cougnate  (Col du Sabot)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-28-grandes-rousses-arves.html">Grandes Rousses - Arves</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.2</td>
+                                                                  <td>800 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                                                  </tbody>
+</table>
+        <div class="row pull-right  animated fadeInDown animation-delay-10">
+                        <ul class="pagination pagination-border">
+                                <li  class="active" ><a href="/topos/liste_des_sorties.php?id_sport=1&start=1">1</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=2">2</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=3">3</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=4">4</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=5">5</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=6">6</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=7">7</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=8">8</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=9">9</a></li>
+                        <li ><a href="/topos/liste_des_sorties.php?id_sport=1&start=10">10</a></li>
+                <li><a href="/topos/liste_des_sorties.php?id_sport=1&start=11">»</a></li>         
+        </ul>
+
+        </div>
+
+</div>
+<footer id="footer">
+  <div class="container footer">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="footer-info">
+          <a href="https://lynkx.eu/" target="_blank" rel="noopener"><img src="../img/LynkxFooter.svg" alt="Lynkx"></a>
+          <p>Bivouak est un site de <a href="https://lynkx.eu/" target="_blank" rel="noopener">LYNKX</a>. Startup alpine qui veille sur vous lors de vos sorties outdoor</p>
+          <div class="footer-socials">
+          <a href="https://www.facebook.com/LYNKX-102197092124199" target="_blank" rel="noopener" class="social-icon-ar circle facebook"><i class="fa fa-facebook"></i></a>
+          <a href="https://www.linkedin.com/company/lynkx/" target="_blank" rel="noopener" class="social-icon-ar circle linkedin"><i class="fa fa-linkedin"></i></a>
+          <a href="https://www.instagram.com/lynkx.official/" target="_blank"  rel="noopener" class="social-icon-ar circle instagram"><i class="fa fa-instagram"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="footer-info">
+          <p class="custom-paragraph"><strong>Informations</strong></p>
+          <div class="footer-twoRow">
+            
+              <i class="fa fa-map-marker icon-custom" title="Départ"></i>
+              <p>Route du Balcon, 38190 Les Adrets en Belledonne, France</p>
+            
+          </div>
+          <!-- 
+            <div class="footer-twoRow">
+            <i class="fa fa-envelope" title="Départ" style="color:white; font-size:18px;margin-right:10px;"></i>
+            <p>
+              
+               Button trigger modal 
+              <button style="background-color: transparent; border: none; padding: 0px;" class="btn btn-primary btn-lg btn-ar" data-toggle="modal" data-target="#myModal">
+                Contactez-nous
+              </button>
+              
+              Modal 
+              <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog" id="modal-dialog">
+                  <div class="modal-content" style="border-radius: 25px;" id="modal-content">
+                     Bouton "croix" pour fermer le modal 
+                    <button style="margin: 15px; color: #fff;" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <style>
+
+/* Style général pour le formulaire */
+.contact-us_form {
+    font-family: "Lato", sans-serif;
+    max-width: 600px; /* Largeur maximale du formulaire */
+    margin: 0 auto; /* Centrer le formulaire horizontalement */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #2d353c; /* Fond gris clair */
+}
+
+/* Style pour le titre du formulaire */
+.contact-us_form-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #fff; /* Couleur du texte */
+}
+
+/* Style pour les sections de formulaire (paire champ d'info et champ d'entrée) */
+.contact-us_form-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+/* Style pour les champs d'informations */
+.contact-us_form-info {
+    width: 25%; /* Largeur des champs d'infos */
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-weight: bold;
+    color: #fff; /* Couleur du texte des champs d'infos */
+}
+
+/* Style pour les champs d'entrée */
+.contact-us_form-input {
+    width: 75%; /* Largeur des champs d'entrée */
+}
+
+/* Style pour les éléments de formulaire */
+.contact-us_form input[type="text"],
+.contact-us_form textarea,
+.contact-us_form input[type="submit"],
+.contact-us_form input[type="button"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0; /* Espacement entre les éléments */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #2d353c; /* Fond blanc */
+}
+
+/* Style pour les boutons */
+.contact-us_form .buttons-container {
+    display: flex;
+    justify-content: space-around; /* Espacement égal entre les boutons */
+    margin-top: 20px;
+}
+
+.contact-us_form input[type="submit"],
+.contact-us_form input[type="button"] {
+    width: 25%;
+    background-color: #FF7900; /* Couleur de fond du bouton Envoyer */
+    color: #fff; /* Couleur du texte du bouton Envoyer */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: transparent;
+}
+
+
+/* Style pour le pied de page du formulaire */
+.contact-us_form .wb_logoCon {
+    text-align: center;
+    margin-top: 20px;
+}
+  </style>
+  
+  
+  <script src='https://js.zohostatic.eu/support/app/js/jqueryandencoder.ffa5afd5124fbedceea9.js'></script>
+  
+  <script>
+    function trimBoth(str) {
+      return jQuery.trim(str);
+    }
+    
+    function setAllDependancyFieldsMapping() {
+      var mapDependancyLabels = getMapDependenySelectValues(jQuery("[id='property(module)']").val(), "JSON_MAP_DEP_LABELS");
+      if (mapDependancyLabels) {
+        for (var i = 0; i < mapDependancyLabels.length; i++) {
+          var label = mapDependancyLabels[i];
+          var obj = document.forms['zsWebToCase_96573000001069069'][label];
+          if (obj) {
+            setDependent(obj, true);
+          }
+        }
+      }
+    }
+    
+    function getMapDependenySelectValues(module, key) {
+      var dependencyObj = jQuery.parseJSON(jQuery("[id='dependent_field_values_" + module + "']").val());
+      if (dependencyObj == undefined) {
+        return dependencyObj;
+      }
+      return dependencyObj[key];
+    }
+    
+    function setDependent(obj, isload) {
+      var name = obj.id || (obj[0] && obj[0].id) || "";
+      var module = jQuery("[id='property(module)']").val();
+      var val = "";
+      var myObject = getMapDependenySelectValues(module, "JSON_VALUES");
+      if (myObject != undefined) {
+        val = myObject[name];
+      }
+      var mySelObject = getMapDependenySelectValues(module, "JSON_SELECT_VALUES");
+      if (val != null && val != "" && val != "null" && mySelObject) {
+        var fields = val;
+        for (var i in fields) {
+          if (fields.hasOwnProperty(i)) {
+            var isDependent = false;
+            var label = i;
+            var values = fields[i];
+            if (label.indexOf(")") > -1) {
+              label = label.replace(/\)/g, '_____');
+            }
+            if (label.indexOf("(") > -1) {
+              label = label.replace(/\(/g, '____');
+            }
+            if (label.indexOf(".") > -1) {
+              label = label.replace(/\./g, '___');
+            }
+            var depObj = document.forms['zsWebToCase_96573000001069069'][label];
+            if (depObj && depObj.options) {
+              var mapValues = "";
+              var selected_val = depObj.value;
+              var depLen = depObj.options.length - 1;
+              for (var n = depLen; n >= 0; n--) {
+                if (depObj.options[n].selected) {
+                  if (mapValues == "") {
+                    mapValues = depObj.options[n].value;
+                  } else {
+                    mapValues = mapValues + ";;;" + depObj.options[n].value;
+                  }
+                }
+              }
+              depObj.value = "";
+              var selectValues = mySelObject[label];
+              for (var k in values) {
+                var rat = k;
+                if (rat == "-None-") {
+                  rat = "";
+                }
+                var parentValues = mySelObject[name];
+                if (rat == trimBoth(obj.value)) {
+                  isDependent = true;
+                  depObj.length = 0;
+                  var depvalues = values[k];
+                  var depLen = depvalues.length - 1;
+                  for (var j = 0; j <= depLen; j++) {
+                    var optionElement = document.createElement("OPTION");
+                    var displayValue = depvalues[j];
+                    var actualValue = displayValue;
+                    if (actualValue == "-None-") {
+                      optionElement.value = "";
+                      displayValue = "-None-";
+                    } else {
+                      optionElement.value = actualValue;
+                    }
+                    optionElement.text = displayValue;
+                    if (mapValues != undefined) {
+                      var mapValue = mapValues.split(";;;");
+                      var len = mapValue.length;
+                      for (var p = 0; p < len; p++) {
+                        if (actualValue == mapValue[p]) {
+                          optionElement.selected = true;
+                        }
+                      }
+                    }
+                    depObj.options.add(optionElement);
+                  }
+                }
+              }
+              if (!isDependent) {
+                depObj.length = 0;
+                var len = selectValues.length;
+                for (var j = 0; j < len; j++) {
+                  var actualValue = selectValues[j];
+                  var optionElement = document.createElement("OPTION");
+                  if (actualValue == "-None-") {
+                    optionElement.value = "";
+                  } else {
+                    optionElement.value = selectValues[j];
+                  }
+                  optionElement.text = selectValues[j];
+                  depObj.options.add(optionElement);
+                }
+                depObj.value = selected_val;
+              }
+              if (!isload) {
+                setDependent(depObj, false);
+              }
+              var jdepObj = jQuery(depObj);
+              if (jdepObj.hasClass('select2-offscreen')) {
+                jdepObj.select2("val", jdepObj.val());
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    var zctt = function () {
+      var tt, mw = 400, top = 10, left = 0, doctt = document;
+      var ieb = doctt.all ? true : false;
+      return {
+        showtt: function (cont, wid) {
+          if (tt == null) {
+            tt = doctt.createElement('div');
+            tt.setAttribute('id', 'tooltip-zc');
+            doctt.body.appendChild(tt);
+            doctt.onmousemove = this.setpos;
+            doctt.onclick = this.hidett;
+          }
+          tt.style.display = 'block';
+          tt.innerHTML = cont;
+          tt.style.width = wid ? wid + 'px' : 'auto';
+          if (!wid && ieb) {
+            tt.style.width = tt.offsetWidth;
+          }
+          if (tt.offsetWidth > mw) {
+            tt.style.width = mw + 'px'
+          }
+          h = parseInt(tt.offsetHeight) + top;
+          w = parseInt(tt.offsetWidth) + left;
+        },
+        hidett: function () {
+          tt.style.display = 'none';
+        },
+        setpos: function (e) {
+          var u = ieb ? event.clientY + doctt.body.scrollTop : e.pageY;
+          var l = ieb ? event.clientX + doctt.body.scrollLeft : e.pageX;
+          var cw = doctt.body.clientWidth;
+          var ch = doctt.body.clientHeight;
+          if (l < 0) {
+            tt.style.left = left + 'px';
+            tt.style.right = '';
+          } else if ((l + w + left) > cw) {
+            tt.style.left = '';
+            tt.style.right = ((cw - l) + left) + 'px';
+          } else {
+            tt.style.right = '';
+            tt.style.left = (l + left) + 'px';
+          }
+          if (u < 0) {
+            tt.style.top = top + 'px';
+            tt.style.bottom = '';
+          } else if ((u + h + left) > ch) {
+            tt.style.top = '';
+            tt.style.bottom = ((ch - u) + top) + 'px';
+          } else {
+            tt.style.bottom = '';
+            tt.style.top = (u + top) + 'px';
+          }
+        }
+      };
+    }();
+    
+    var zsWebFormMandatoryFields = new Array("Contact Name", "Email", "Subject", "Description");
+    var zsFieldsDisplayLabelArray = new Array("Prénom NOM", "Email", "Subject", "Message");
+    
+    function zsValidateMandatoryFields() {
+      var name = '';
+      var email = '';
+      var isError = 0;
+      for (var index = 0; index < zsWebFormMandatoryFields.length; index++) {
+        isError = 0;
+        var fieldObject = document.forms['zsWebToCase_96573000001069069'][zsWebFormMandatoryFields[index]];
+        if (fieldObject) {
+          if (((fieldObject.value).replace(/^\s+|\s+$/g, '')).length == 0) {
+            alert(zsFieldsDisplayLabelArray[index] + ' cannot be empty ');
+            fieldObject.focus();
+            isError = 1;
+            return false;
+          } else {
+            if (fieldObject.name == 'Email') {
+              if (!fieldObject.value.match(/^([\w_][\w\-_.+\'&]*)@(?=.{4,256}$)(([\w]+)([\-_]*[\w])*[\.])+[a-zA-Z]{2,22}$/)) {
+                isError = 1;
+                alert('Enter a valid email-Id');
+                fieldObject.focus();
+                return false;
+              }
+            }
+          }
+          if (fieldObject.nodeName == 'SELECT') {
+            if (fieldObject.options[fieldObject.selectedIndex].value == '-None-') {
+              alert(zsFieldsDisplayLabelArray[index] + ' cannot be none');
+              fieldObject.focus();
+              isError = 1;
+              return false;
+            }
+          }
+          if (fieldObject.type == 'checkbox') {
+            if (fieldObject.checked == false) {
+              alert('Please accept ' + zsFieldsDisplayLabelArray[index]);
+              fieldObject.focus();
+              isError = 1;
+              return false;
+            }
+          }
+        }
+      }
+      if (isError == 0) {
+        document.getElementById('zsSubmitButton_96573000001069069').setAttribute('disabled', 'disabled');
+      }
+    }
+    
+    document.addEventListener('readystatechange', function () {
+      if (document.readyState === 'complete' && window.zsRegenerateCaptcha) {
+        zsRegenerateCaptcha();
+      }
+      setAllDependancyFieldsMapping();
+      document.getElementById('zsSubmitButton_96573000001069069').removeAttribute('disabled');
+    });
+    
+    function zsResetWebForm(webFormId) {
+      document.forms['zsWebToCase_' + webFormId].reset();
+      document.getElementById('zsSubmitButton_96573000001069069').removeAttribute('disabled');
+      setAllDependancyFieldsMapping();
+    }
+
+  </script>
+
+  
+  <script src='https://cdn-eu.pagesense.io/js/lynkx38/931abb03723047539361705b25740f86.js'></script>
+
+</head>
+
+<body>
+  
+  <form class="contact-us_form" name='zsWebToCase_96573000001069069' id='zsWebToCase_96573000001069069' action='https://support.lynkx.eu/support/WebToCase' method='POST' onSubmit='return zsValidateMandatoryFields()' enctype='multipart/form-data'>
+    
+    <input type='hidden' name='xnQsjsdp' value='edbsn88c21e838836d9397a357af8b2519665'/>
+    <input type='hidden' name='xmIwtLD' value='edbsn17389fa2116f7b97b74ad7184f9b66e021e163473a15a569acea6841d53ba568'/>
+    <input type='hidden' name='xJdfEaS' value=''/>
+    <input type='hidden' name='actionType' value='Q2FzZXM='/>
+    <input type="hidden" id="property(module)" value="Cases"/>
+    <input type='hidden' id="dependent_field_values_Cases" value="&#x7b;&quot;JSON_VALUES&quot;&#x3a;&#x7b;&#x7d;,&quot;JSON_SELECT_VALUES&quot;&#x3a;&#x7b;&#x7d;,&quot;JSON_MAP_DEP_LABELS&quot;&#x3a;&#x5b;&#x5d;&#x7d;"/>
+    <input type='hidden' name='returnURL' value='&#x2a;'/>
+    
+    <h2 class="contact-us_form-title">  Formulaire de support Bivouak </h2>
+    
+    <div class="contact-us_form-container">
+
+        <div class="contact-us_form-section">
+            <div class='contact-us_form-info zsFontClass'> Nom et Prénom &nbsp;&nbsp;</div>
+            <div class='contact-us_form-input'><input type='text' maxlength='120' name='Contact Name' class='manfieldbdr'/></div>
+        </div>
+        
+        <div class="contact-us_form-section">
+            <div class='contact-us_form-info zsFontClass'> Email &nbsp;&nbsp;</div>
+            <div class='contact-us_form-input'><input type='text' maxlength='120' name='Email' value='' class='manfieldbdr'/></div>
+        </div>
+        
+        <div class="contact-us_form-section">
+            <div class='contact-us_form-info zsFontClass'> Subject &nbsp;&nbsp;</div>
+            <div class='contact-us_form-input'><input type='text' maxlength='255' name='Subject' value='' class='manfieldbdr'/></div>
+        </div>
+        
+        <div class="contact-us_form-section">
+            <div class='contact-us_form-info zsFontClass'> Message &nbsp;&nbsp;</div>
+            <div class='contact-us_form-input'><textarea name='Description' maxlength='3000' width='250' height='250' class='manfieldbdr'></textarea></div>
+        </div>
+        
+        <div class="contact-us_form-section buttons-container">
+            <input type='submit' id="zsSubmitButton_96573000001069069" class='zsFontClass' value='Envoyer'>
+            <input type='button' class='zsFontClass' value='Effacer' onclick="zsResetWebForm('96573000001069069')">
+        </div>
+    </div>
+    
+    <div style='text-align: center; margin-top: 20px;' class='wb_FtCon'>
+        <div class='wb_logoCon'> <a href='http://www.lynkx.eu' target='_blank'><img style="width: 150px; height: auto;" class='wb_logo' src="../img/LynkxFooter.svg"></a> </div>
+    </div>
+
+  </form>
+
+</body>
+
+</html>
+                  </div>
+                </div>
+              </div>
+              
+            </p>
+          </div> -->
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="footer-info">
+          <p class="custom-paragraph"><strong>Newsletter</strong></p>
+          <form id="newsletter" class="footer-info" onsubmit="WebhookZohoMaListe(this)">
+            <input type="text" name="newsletter-prenom" id="newsletter-prenom" placeholder="Votre prénom">
+            <input type="email" name="newsletter-email" id="newsletter-email" placeholder="Votre E-Mail" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+            <button type="submit" class="button button-pill button-flat-primary" id="newsletter-btn"><i id="newsletter-spinner"class="fa fa-spinner"></i> S'ABONNER</button>
+            <p id="newsletter-feedback"><i class="fa fa-check"></i> Votre demande d'abonnement à bien été envoyée !</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p style="text-align:center;">&copy; 2025 <b>bivouak.net</b>, ainsi que tous ses membres, ne sauraient être tenus responsables en cas d'incident. Sachez faire preuve de discernement et de prudence en toutes circonstances. Soyez responsables...</p>
+
+</footer>
+
+
+</div> <!-- boxed -->
+</div> <!-- sb-site -->
+
+<div class="sb-slidebar sb-right">
+    <div class="input-group">
+        <input type="text" class="form-control" id="search_global_right" placeholder="Rechercher..." oninput="searchGlobal(1, 'search_global_right')">
+        <span class="input-group-btn">
+            <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+        </span>
+    </div><!-- /input-group -->
+
+    <span id="result_search_global_right">
+    </span>
+    <br>
+    <span class="slidebar-header no-margin-bottom">Identification</span>
+        
+    <ul class="slidebar-menu">
+        <li><a href="../membres/identification.php?id_sport=1&redir=/topos/liste_des_sorties.php?id_sport=1" class="active">Se connecter</a></li>
+        <li><a href="../membres/edit_profile.php?id_sport=1&redir=/topos/liste_des_sorties.php?id_sport=1" class="active">Créer un compte</a></li>
+    </ul>
+        
+
+    
+    <ul class="slidebar-menu">
+        <li><a href="./index.php?id_sport=1" style="color:#0099da" class="active">Ski de rando</a></li>
+        <li><a href="./index.php?id_sport=8" style="color:#">Raquettes</a></li>
+        <li><a href="./index.php?id_sport=2" style="color:#21ba49">Rando</a></li>
+        <li><a href="./index.php?id_sport=4" style="color:#ffb644" >VTT</a></li>
+        <li><a href="./index.php?id_sport=16"  style="color:#e73c3c">Parapente</a></li>
+    </ul>
+
+    
+</div> <!-- sb-slidebar sb-right -->
+
+<div id="back-top">
+    <a href="../#header"><i class="fa fa-chevron-up"></i></a>
+</div>
+
+      <!-- Modal LoginRequired -->
+      <div class="modal fade" id="LoginRequired" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+        <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+              <h4 class="modal-title" id="myModalLabel">Oups ! Vous n'êtes pas connecté...</h4>
+            </div>
+            <div class="modal-body">
+              <img src="../img/bivouak_black_by_lynkx.webp" class="img-responsive" alt="Bivouak by Lynkx black logo">
+              <p><b>bivouak.net</b> est un site collaboratif de passionnés de sport de montagne qui ne peut exister que par la volonté d'échanger sur nos pratiques.
+                <br>Si vous n'avez pas encore de compte sur bivouak.net, d&eacute;pêchez vous de nous rejoindre pour pouvoir &eacute;changer sur vos pratiques, proposer de nouveaux topos, ajouter vos photos pour illustrer vos courses, commenter et d&eacute;crire vos sorties, voir les stats sur votre saison, annoncer des conf&eacute;rences pr&egrave;s de chez vous sur la montagne et bien plus!.
+              
+                </p>
+            </div>
+            <div class="modal-footer">
+              <button class="btn-ar btn-primary" type="button" onclick="window.location.href='../membres/identification.php?redirect=&id_sport=1'">Se connecter</button>
+              <button class="btn-ar btn-primary" type="button" onclick="window.location.href='../membres/edit_profile.php?redirect=&id_sport=1'">S'inscrire</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<!-- Scripts -->
+<script src="../js/slidebars.js"></script>
+<script src="../js/holder.js"></script>
+<script src="../js/styleswitcher.js"></script>
+
+
+<!-- Syntaxhighlighter -->
+<script src="../js/syntaxhighlighter/shCore.js"></script>
+<script src="../js/syntaxhighlighter/shBrushXml.js"></script>
+<script src="../js/syntaxhighlighter/shBrushJScript.js"></script>
+
+<script src="../js/app.js"></script>
+
+<script src="../js/index.js"></script>
+
+<script src="../js/carousels.js"></script>
+<script src="../js/html2canvas.js"></script>
+<script src="../js/canvas2image.js"></script>
+
+<!--
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Référencez les champs du formulaire
+    const nomPrenomInput = document.getElementById('nomPrenom');
+    const emailInput = document.getElementById('email');
+    const messageInput = document.getElementById('message');
+
+    // Référencez le bouton Effacer
+    const effacerBtn = document.getElementById('effacerBtn');
+
+    // Ajoutez un gestionnaire d'événement pour le bouton Effacer
+    effacerBtn.addEventListener('click', function () {
+      // Réinitialisez les valeurs des champs
+      nomPrenomInput.value = '';
+      emailInput.value = '';
+      messageInput.value = '';
+    });
+  });
+</script>
+-->
+
+<script type="text/javascript">
+    $(window).scroll(function (event) {
+    // A chaque fois que l'utilisateur va scroller (descendre la page)
+    var y = $(this).scrollTop(); // On récupérer la valeur du scroll vertical
+ 
+    //si cette valeur > à 200 on ajouter la class
+    if (y >= 200) {
+      $('.navbar-static-top').addClass('fixed');
+    } else {
+      // sinon, on l'enlève
+      $('.navbar-static-top').removeClass('fixed');
+    }
+  });
+
+
+
+    $("#newsletter").submit(function(e) {
+      e.preventDefault();
+  });
+  function WebhookZohoMaListe(e){
+    let prenom = document.getElementById("newsletter-prenom");
+    let email = document.getElementById("newsletter-email");
+    let spinner = document.getElementById("newsletter-spinner");
+    let btn = document.getElementById("newsletter-btn");
+    let feedback = document.getElementById("newsletter-feedback");
+    // Creating Our XMLHttpRequest object 
+    let xhr = new XMLHttpRequest();
+
+    let url = `../ajax/footer_newsletter.php?email=${email.value}&prenom=${prenom.value}` ;
+    xhr.open("GET", url, true);
+
+    prenom.disabled = true;
+    email.disabled = true;
+    btn.disabled = true;
+    spinner.style.display = 'inline-block';
+    feedback.style.display = "none";
+
+    // function execute after request is successful 
+    xhr.onreadystatechange = function () {
+      let prenom = document.getElementById("newsletter-prenom");
+      let email = document.getElementById("newsletter-email");
+      let spinner = document.getElementById("newsletter-spinner");
+      let feedback = document.getElementById("newsletter-feedback");
+      setTimeout(()=>{
+        if (this.readyState == 4 && this.status == 200) {
+          console.log(this.responseText);
+            if (this.responseText == '200'){
+              feedback.innerHTML = `<i class="fa fa-check" style="color:green;font-size:20px;"></i> Votre demande d'abonnement à bien été envoyée!`;
+            }
+            else {
+              feedback.innerHTML = `<i class="fa fa-xmark" style="color:red;font-size:20px;">&#10006;</i> Un problème est survenu, veuillez réessayer. `;
+            }
+            prenom.disabled = false;
+            prenom.value = '';
+            email.disabled = false;
+            email.value = '';
+            btn.disabled = false;
+            spinner.style.display = 'none';
+            feedback.style.display = "block";
+        }
+      },2000)
+    }
+    // Sending our request 
+    xhr.send();
+
+  }
+
+</script>
+
+</body>
+
+</html>

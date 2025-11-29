@@ -264,7 +264,7 @@ function update_Skitour($base = 'skitour')
 	$web  = $SETTINGS['odir'] . "/$base.web";
 	$txt  = $SETTINGS['odir'] . "/$base.txt";
 	$last = $SETTINGS['odir'] . "/$base.last";
-	$expire = 39*60;		// en secondes.
+	$expire = 40*60;		// en secondes.
 	$ftmp = "$txt.tmp";
 	if (!file_exists($last)) {
 		reset_Skitour();
@@ -275,12 +275,14 @@ function update_Skitour($base = 'skitour')
 		$canDownload = false;
   		if ( $fd = @fopen($ftmp,'x') ) {// update en cours ?
 			fclose($fd);
-			$textall = @file_get_contents($web);
+			$textall = file_get_contents($web);
 			if ($textall !== FALSE) {
-				$last_id = (int) trim(@file_get_contents($last));
+				$last_id = (int) trim(file_get_contents($last));
 				$new_id = parse_Skitour($textall,$last_id);
 				$fd=@fopen($last,'w');	@fwrite($fd,$new_id);	@fclose($fd);
-				$txttmp = @file_get_contents($txt);
+				$txttmp = file_get_contents($txt);
+echo "load " . strlen($txttmp) . " data<br/>";
+
 				$fd=@fopen($txt,'w');
 				@flock($fd,LOCK_EX);
 				@fwrite($fd,$textall);
@@ -322,15 +324,15 @@ function update_Gipfelbuch($base = 'gipfelbuch')
 	  if ( $fd = @fopen($ftmp,'x') )	// update en cours ?
 	  {
 		fclose($fd);
-		$textall = @file_get_contents($web);
+		$textall = file_get_contents($web);
 		if ($textall !== FALSE) // le site est HS ? on utilise le cache !
 		{
-			$last_id = (int) trim(@file_get_contents($last));
+			$last_id = (int) trim(file_get_contents($last));
 			$new_id = parse_Gipfelbuch($textall,$last_id);
 //			if ($new_id > $last_id)		// si on a du nouveau ...
 //			{
 				$fd=@fopen($last,'w');	@fwrite($fd,$new_id);	@fclose($fd);
-				$txttmp = @file_get_contents($txt);
+				$txttmp = file_get_contents($txt);
 				$fd=@fopen($txt,'w');
 				@flock($fd,LOCK_EX);
 				@fwrite($fd,$textall);
@@ -371,16 +373,16 @@ function update_Volopress($base = 'volo')
 	  if ( $fd = @fopen($ftmp,'x') )	// update en cours ?
 	  {
 		fclose($fd);
-		$textall = @file_get_contents($web);
+		$textall = file_get_contents($web);
 		if ($textall !== FALSE)
 		{
-			$last_id = trim(@file_get_contents($last));
+			$last_id = trim(file_get_contents($last));
 			$new_id = parse_Volopress($textall,$last_id);
-			$last_id = trim(@file_get_contents($last));		// relis le last_id, parse_xxx a pris du temps !
+			$last_id = trim(file_get_contents($last));		// relis le last_id, parse_xxx a pris du temps !
 //			if (strnatcmp($new_id,$last_id) > 0)
 //			{
 				$fd = @fopen($last,'w');	@fwrite($fd,$new_id);	@fclose($fd);
-				$txttmp = @file_get_contents($txt);
+				$txttmp = file_get_contents($txt);
 				$fd=@fopen($txt,'w');
 				@flock($fd,LOCK_EX);
 				@fwrite($fd,$textall);
@@ -425,12 +427,12 @@ function update_Skirando($base = 'c2c')
 	  if ( $fd = @fopen($ftmp,'x') )	// update en cours ?
 	  {
 		fclose($fd);
-		$textall = @file_get_contents($web);
+		$textall = file_get_contents($web);
 		if ($textall !== FALSE)
 		{
-			$last_id = (int) trim(@file_get_contents($last));
+			$last_id = (int) trim(file_get_contents($last));
 			$new_id = parse_Skirando($textall,$last_id);
-			$txttmp = @file_get_contents($txt);
+			$txttmp = file_get_contents($txt);
 			$fd=@fopen($txt,'w');
 			@flock($fd,LOCK_EX);
 			@fwrite($fd,$textall);
@@ -473,12 +475,12 @@ function update_Sto($base = 'sto')
 	  if ( $fd = @fopen($ftmp,'x') )	// update en cours ?
 	  {
 		fclose($fd);
-		$textall = @file_get_contents($web);
+		$textall = file_get_contents($web);
 		if ($textall !== FALSE)
 		{
-			$last_id = (int) trim(@file_get_contents($last));
+			$last_id = (int) trim(file_get_contents($last));
 			$new_id = parse_Sto($textall,$last_id);
-			$txttmp = @file_get_contents($txt);
+			$txttmp = file_get_contents($txt);
 			$fd=@fopen($txt,'w');
 			@flock($fd,LOCK_EX);
 			@fwrite($fd,$textall);
@@ -515,14 +517,14 @@ function update_Bivouak($base = 'bivouak')
 		echo "<p style='font-style:italic;font-size:0.7em'>";
 		echo "Données mises à jour le ".date('D j F Y à G:i:s',@filemtime($web))."</p>";	
 	}
-	$textall = @file_get_contents($web);
+	$textall = file_get_contents($web);
 	if ($textall !== FALSE) // le site est HS, on utilise le cache.
 	{
 		$last_id = file_get_contents($last);
 		if ($last_id == FALSE) {$last_id=0;}
 		$new_id = parse_Bivouak($textall,$last_id);
 		$fd = @fopen($last,'w');@fwrite($fd,$new_id);@fclose($fd);
-		$txttmp = @file_get_contents($txt);
+		$txttmp = file_get_contents($txt);
 		$fd=@fopen($txt,'w');
 		@flock($fd,LOCK_EX);
 		@fwrite($fd,$textall);
@@ -568,7 +570,7 @@ function update_Gulliver($base = 'gulliver')
 	$web  = $SETTINGS['odir'] . "/$base.sa.web";
 	$web2 = $SETTINGS['odir'] . "/$base.sr.web";
 	$txt  = $SETTINGS['odir'] . "/$base.txt";
-	$expire = 1*60;	// en secondes.
+	$expire = 40*60;	// en secondes.
 	$buffer = '';
 	$ftmp = "$txt.tmp";
 	$ok = FALSE;
@@ -626,7 +628,6 @@ function reset_Sto($nread = 120, $base = 'sto' ) {
 	if ( $fd = @fopen($ftmp,'x') )		// pas d'autre tentative ?
 	{
 		fclose($fd);
-		//$textall = file_get_contents($SETTINGS['odir'] . "/$base.web");
 		$textall = file_get_contents("https://skitourenportal.eu/");
 		$new_id = 0;
 		$new_id = parse_Sto($textall,$new_id);
@@ -1013,7 +1014,7 @@ function download_Skitour( $base = 'skitour' ) {
    global $SETTINGS;
 	$web  = $SETTINGS['odir'] . "/$base.web";
 	
-	$url = "https://skitour.fr/api/sorties?c=0&l=500";
+	$url = "https://skitour.fr/api/sorties?c=0&l=100";
 	$options = array(
 	  'http'=>array(
 		  'method'=>"GET",
@@ -1037,7 +1038,7 @@ function reset_Skitour($nread = 500, $base = 'skitour' )
 	if ( $fd = @fopen($ftmp,'x') )		// pas d'autre tentative ?
 	{
 		fclose($fd);
-		$url = "http://skitour.fr/api/sorties?c=0&l=500";
+		$url = "http://skitour.fr/api/sorties?c=0&l=800";
 		$options = array(
 		  'http'=>array(
 			  'method'=>"GET",

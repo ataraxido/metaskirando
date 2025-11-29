@@ -1,0 +1,36 @@
+Chablais|3|700|700|1
+Aravis|3|700|700|2
+Mont-Blanc|3|700|700|3
+Bauges|2|700|700|4
+Beaufortain|3|700|700|5
+Haute-Tarentaise|3|700|700|6
+Chartreuse|2|700|700|7
+Belledonne|3|800|800|8
+Maurienne|3|800|800|9
+Vanoise|3|700|700|10
+Haute-Maurienne|3|1000|1000|11
+Grandes-Rousses|3|1000|1000|12
+Thabor|3|1200|1400|13
+Vercors|2|800|800|14
+Oisans|3|1000|1000|15
+Pelvoux|3|1200|1400|16
+Queyras|2|1400|1600|17
+Devoluy|2|1400|1600|18
+Champsaur|3|1300|1500|19
+Embrunnais Parpaillon|2|1500|1700|20
+Ubaye|2|1400|1800|21
+Haut-Var Haut-Verdon|2|1500|1800|22
+Mercantour|2|1400|1800|23
+Cinto Rotondo|2|1000|1100|40
+Renoso Incudine|2|1000|1100|41
+Pays-Basque|2|1100|1300|64
+Aspe Ossau|3|1100|1300|65
+Haute-Bigorre|3|1100|1300|66
+Aure Louron|2|1200|1300|67
+Luchonnais|2|1200|1300|68
+Couserans|2|1200|1300|69
+Haute-Ariege|2|1200|1300|70
+Andorre|0|1300|1300|71
+Orlu St-Barthelemy|2|1200|1300|72
+Capcir Puymorens|2|1400|1500|73
+Cerdagne Canigou|2|1300|1500|74

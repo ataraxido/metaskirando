@@ -1,0 +1,602 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <meta property="og:image" content="" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <title>On-Ice.it - Report scialpinismo</title>
+  <meta name="keywords" content="" />
+  <link rel="stylesheet" href="./onice/css/onice.css?rand=1235433" type="text/css">
+  <link rel="stylesheet" href="./onice/css/lightbox.css" type="text/css">
+  <link rel="stylesheet" href="./onice/css/jquery.cookiebar.css" type="text/css">
+  <script type="text/javascript" src="./onice/onice.js"></script>
+  <script type="text/javascript" src="./onice/jquery-1.10.2.min.js"></script>
+  <script type="text/javascript" src="./onice/jquery.cookiebar.js"></script>
+  <script type="text/javascript" src="./onice/lightbox-2.6.min.js"></script>
+</head>
+
+<script>
+$(document).ready(function(){
+  $.cookieBar({
+	message: 'Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalit&agrave; e per inviarti pubblicit&agrave; e servizi in linea con le tue preferenze.<br> Chiudendo questo banner, scorrendo questa pagina o cliccando qualunque suo elemento acconsenti all\'uso dei cookie. <a style="color: #66FF00; font-weight: bold; text-decoration:underline;" href="./onice_privacy.php">Altre Informazioni</a> ',
+	acceptText: 'OK',
+	expireDays: 30
+  });
+});
+</script>
+
+<body text="#EEEEEE">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<table border="0" cellpadding="2" cellspacing="0" width="877">
+<tr>
+  <td colspan="2"><img src="./onice/img/shim.gif" height="5"></td>
+</tr>
+<tr>
+  <td><img src="./onice/img/logo_onice_red.gif"></td>
+  <td align="center"><script type="text/javascript"><!--
+		google_ad_client = "ca-pub-3928394831510206";
+		/* R03_GlobalReportListHeader */
+		google_ad_slot = "8166943347";
+		google_ad_width = 468;
+		google_ad_height = 60;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script></td>
+</tr>
+<tr>
+  <td colspan="2"><img src="./onice/img/shim.gif" height="15"></td>
+</tr>
+</table>
+
+  <table align="left" border="0" width="150" cellspacing="1" cellpadding="2">
+    <tr>
+      <td>
+      <table border="0"><tr><td><a class="menulink" href="./onice_home.php?rand=137692649"><font color="#66ff00">Home Gallery</font></a></td><td><img src="./onice/img/shim.gif" width="5"></td></tr><tr><td><a class="menulink" href="./onice_reports.php?type=0">Reports</a></td><td><img src="./onice/img/shim.gif" width="5"></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_reports.php?type=1">Scialpinismo</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_reports.php?type=2">Escursionismo</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_reports.php?type=3">Roccia</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_reports.php?type=4">Ghiaccio e Misto</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_reports.php?type=6">Mountain Bike</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_archivio.php">Archivio</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" height="2"></td></tr><tr><td><a class="menulink" href="./onice_itinerari.php?type=0">Itinerari</a></td><td><img src="./onice/img/shim.gif" width="5"></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_itinerari.php?type=1">Scialpinismo</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_itinerari.php?type=2">Escursionismo</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_itinerari.php?type=3">Roccia</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_itinerari.php?type=4">Ghiaccio e Misto</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" width="8"><a class="submenulink" href="./onice_itinerari.php?type=5">Fenio...menali</a></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" height="2"></td></tr><tr><td><a class="menulink" href="./index.php">Forum</a></td><td><img src="./onice/img/shim.gif" width="5"></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" height="2"></td></tr><tr><td><a class="menulink" href="#">Ricerca</a></td><td><img src="./onice/img/shim.gif" width="5"></td></tr><tr><td><form action="http://www.google.it/search"><input class="search" maxlength="1024" name="q" size="10" title="Cerca con Google" value=""></td><td valign="top"><input class="search" name=btnG type=image src="./onice/img/search.gif" title="Cerca con Google"><input type="hidden" name="q" value="site:www.on-ice.it"></form></td></tr><tr><td colspan="2"><img src="./onice/img/shim.gif" height="50"></td></tr><tr><td colspan="2"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3928394831510206";
+/* R01_LeftMenu */
+google_ad_slot = "8542046549";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr></table>
+      </td>
+    </tr>
+  </table>
+
+  <table border="0" width="700" cellspacing="1" cellpadding="4">
+    <tr>
+      <td colspan="3"><h3>&nbsp;Report scialpinismo</h3></td>
+      <td align="center" colspan="2"><a class="insertlink" href="./onice_add_report.php?type=1">Inserisci report</a></td>
+    </tr>
+    <tr>
+      <td><img src="./onice/img/shim.gif" height="5"></td>
+    </tr>
+    <tr><td height="30" class="rowlabel" colspan="5" align="center">Vai a <b>1</b>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=60&amp;sid=b9eef33eca0f699527203324108029df">2</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=120&amp;sid=b9eef33eca0f699527203324108029df">3</a> ... <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22080&amp;sid=b9eef33eca0f699527203324108029df">369</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22140&amp;sid=b9eef33eca0f699527203324108029df">370</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22200&amp;sid=b9eef33eca0f699527203324108029df">371</a>&nbsp;&nbsp;<a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=60&amp;sid=b9eef33eca0f699527203324108029df">Successivo</a></td></tr>
+    <tr class="header">
+      <td width="15%">Data</td>
+      <td width="37%">Gita</td>
+      <td width="18%">Regione</td>
+      <td width="8%">Disl.</td>
+      <td width="22%">Onicer</td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">17/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23054">VIDEO * Monte Guglielmo da Zone - Croce di Marone</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1354</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4891">Giulilov</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">17/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23053">Orscellera (Piani di Bobbio)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1130</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1477">dadeone</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">17/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23051">Pizzo Corzene da Rusio</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1300</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=821">giac</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23056">Ferrantino,  perso telefono </a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1800</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4995">Arki</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23055">Monte Alben, dalla Val Gerona</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1200</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=342">fabiomaz</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23052">Cornizzolo e limitrofi</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1000</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1542">sanellg</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23048">Cima Sufrina</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1300</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=133">Gattodimarmo</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23050">Passo Olone+Croce Signore dei Ghiaioni </a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1450</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=38">Fedora</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">16/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23049">Zucco Maesimo - C.Piazzo </a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2100</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1162">vale_cividini</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">15/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23034">Pizzo di Petto - Passo Fontanamora - Ferrantino</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1850</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=134">flavio</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">13/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23047">Cima di Grem spallone ovest</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1050</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1600">VIKARIUS</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">13/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23033">Corzene+Passo degli Agnelli+Moschel+Cima Omini</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">3200</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4992">eyes_miles</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">12/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23032">Corzene trovato chiavi</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1100</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=2196">offtrack 65</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">12/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23027">San Primo discesa sui Mount di Volt (info)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1450</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=862">corbe</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">12/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23026">Dosso della Cuna</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1130</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">11/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23025">Punta delle oche - Rambasi</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1150</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=164">Gabriele</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">11/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23022">Cima Cadì da Monno</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1220</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">11/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23020">Il Pizzo(Valcava)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">800</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1162">vale_cividini</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">11/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23019">M.Foldone - Sornadello e Molinasco</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1400</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1162">vale_cividini</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">11/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23017">Punta Campione (Doss Bilii)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1350</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=342">fabiomaz</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23021">Pizzo di Gino (Menone) 2.245m</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1250</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1833">ziopommo</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23016">Monte Golla, traversata</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1050</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=3">LorenzOrobico</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23014">Cima di Grem, da Zambla (versante W)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">950</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=38">Fedora</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23012">PERSO CASCO SUL GREM</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=133">Gattodimarmo</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23011">Punta delle Oche x2 + Rambasi</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1600</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4375">Orobicando</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23009">Cime di val Loga</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1600</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=3762">issà</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23008">Piz Olda da Garda</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1460</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">10/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23007">Resegone, da Morterone per il versante nord e la Costa del Pallio</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">840</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=157">ivanbue</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23018">Guglielmo chiaccherando di Vergini </a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2501</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=32">paglia</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23010">Resegone, da Brumano</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1350</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4375">Orobicando</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23005">Valgerola Scialpinismo, da Gerola Alta al Rif. Salmurano</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">900</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4902">GiorgioTmk</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23004">Sasna, Pizzo Tre Confini, Sasna</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2300</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=2084">skyebike</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23003">Sasna</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">930</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4593">TTTTT</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23002">Cimotto + salita al comolli, Da Pasturo, per il Pialeral</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1870</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=585">damià</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23000">Cima Cadì e Cima Verda</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1450</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=932">fabrizio.cappa</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22999">Piz Alben</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1115</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=157">ivanbue</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">09/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23001">Dosso della Cuna</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1000</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23013">VIDEO * - Monte Guglielmo - Dosso Pedalta da Zone</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1120</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4891">Giulilov</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22996">Timonio skiraid</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2050</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=134">flavio</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22995">Cima di Grem, da Oneta</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1290</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=164">Gabriele</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22993">Zucco Orscellera</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1150</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1458">gianni53</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22992">Cima Marnotto x 2</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2500</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=862">corbe</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22991">Marmagna</a></td>
+      <td class="row">Emilia Romagna</td>
+      <td align="center" class="row">1000</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=3045">manty57</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">08/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22990"> Cima Grem </a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1120</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=2654">BATTAGLIA</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23015">Monte Guglielmo, da Zone + varie discese</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2900</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=3">LorenzOrobico</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22998">Zucco Orscellera</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1160</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=157">ivanbue</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22994">Resegone Brumano Morterone</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1380</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=112">panurge</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22989">ALPE PESSINA</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">750</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=2439">ciaspo59</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22988">Monte Orsaro </a></td>
+      <td class="row">Emilia Romagna</td>
+      <td align="center" class="row">1100</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=3045">manty57</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">07/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22987">Motto della Scala da Monno</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1300</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">06/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23024">Colli di San Fermo, Monti Gremalto e Torrezzo</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1600</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=4439">luca.trovesi</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">06/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=23006">CORVEGGIA tentativo</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">810</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1521">CLACRE</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">06/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22986">Monte Calvo da Stadolina</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1200</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">06/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22985">Resegone da Brumano</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">900</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=585">damià</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22997">Cimone di Margno</a></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1035</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=157">ivanbue</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22983">Lesima ( quasi) </a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">480</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=995">mariosnow</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22982">Monte Tonale Occidentale da Ponte di Legno</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">1320</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=12">nesquik</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22981">Cima gavia (antecima)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">800</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=1542">sanellg</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22980">San Primo up &amp; down (info)</a>&nbsp;&nbsp;<img src="./onice/img/photocamera.gif"></td>
+      <td class="row">Lombardia</td>
+      <td align="center" class="row">2450</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=862">corbe</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" class="rowlabel">04/01/2021</td>
+      <td class="rowlabel"><a class="skireportlink" href="onice_view_report.php?type=1&amp;id=22979">Monte Penice x 2</a></td>
+      <td class="row">Emilia Romagna</td>
+      <td align="center" class="row">1120</td>
+      <td class="row"><a class="reportlink" href="./profile.php?mode=viewprofile&u=134">flavio</a></td>
+      <td></td>
+    </tr>
+    <tr><td height="30" class="rowlabel" colspan="5" align="center">Vai a <b>1</b>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=60&amp;sid=b9eef33eca0f699527203324108029df">2</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=120&amp;sid=b9eef33eca0f699527203324108029df">3</a> ... <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22080&amp;sid=b9eef33eca0f699527203324108029df">369</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22140&amp;sid=b9eef33eca0f699527203324108029df">370</a>, <a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=22200&amp;sid=b9eef33eca0f699527203324108029df">371</a>&nbsp;&nbsp;<a class="paginlink" href="./onice_reports.php?type=1&u=0&amp;start=60&amp;sid=b9eef33eca0f699527203324108029df">Successivo</a></td></tr>
+    <tr>
+      <td><img src="./onice/img/shim.gif" height="25"></td>
+    </tr>
+  </table>
+
+</body>
+</html>
+<br>
+<br>
+<br>
+<center>
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="utenti collegati" ><script  type="text/javascript" >
+try {Histats.start(1,1504041,4,200,270,23,"00010101");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com/viewstats/?act=2&sid=1504041" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1504041&101" alt="utenti collegati" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</center>
+<br>
+<br>
+<br>
+</body>
+</html>

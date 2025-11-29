@@ -1,0 +1,259 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+<head>
+<title>Sorties : ski de randonnée - Volopress</title>
+<meta name="description" content="Courses &#224; skis r&#233;alis&#233;es par les r&#233;dacteurs du site" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="SPIP" />
+
+<style type="text/css">@import url(styles/styles.css);</style>
+
+<link rel="shortcut icon" href="favicon.ico" />
+
+<!--	<link rel="stylesheet" href="styles/styles.css" type="text/css" title="oldschool" />	-->
+<!--	<link rel="alternate stylesheet" href="styles/styles_wide.css" type="text/css" title="wide" />	-->
+<!--	<script type="text/javascript" src="styles/styleswitcher.js"></script>	-->
+
+<!--[if IE]>
+  <link href="styles/patch-ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+<script type="text/javascript">/* <![CDATA[ */
+var mediabox_settings={"auto_detect":true,"ns":"box","tt_img":true,"sel_g":"#documents_portfolio a[type='image\/jpeg'],#documents_portfolio a[type='image\/png'],#documents_portfolio a[type='image\/gif'],.galerie","sel_c":".mediabox","str_ssStart":"Diaporama","str_ssStop":"Arr\u00eater","str_cur":"{current}\/{total}","str_prev":"Pr\u00e9c\u00e9dent","str_next":"Suivant","str_close":"Fermer","str_loading":"Chargement\u2026","str_petc":"Taper \u2019Echap\u2019 pour fermer","str_dialTitDef":"Boite de dialogue","str_dialTitMed":"Affichage d\u2019un media","splash_url":"","lity":{"skin":"_simple-dark","maxWidth":"90%","maxHeight":"90%","minWidth":"400px","minHeight":"","slideshow_speed":"2500","opacite":"0.9","defaultCaptionState":"expanded"}};
+/* ]]> */</script>
+<!-- insert_head_css -->
+<link rel="stylesheet" href="plugins-dist/mediabox/lib/lity/lity.css?1688134124" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/css/lity.mediabox.css?1688134124" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/skins/_simple-dark/lity.css?1688134124" type="text/css" media="all" /><link rel='stylesheet' type='text/css' media='all' href='plugins-dist/porte_plume/css/barre_outils.css?1688134124' />
+<link rel='stylesheet' type='text/css' media='all' href='local/cache-css/cssdyn-css_barre_outils_icones_css-ebe1f39b.css?1739999059' />
+<script src="prive/javascript/jquery.js?1688134124" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js?1688134124" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.autosave.js?1688134124" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.placeholder-label.js?1688134124" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js?1688134124" type="text/javascript"></script>
+
+<script src="prive/javascript/js.cookie.js?1688134124" type="text/javascript"></script>
+<!-- insert_head -->
+<script src="plugins-dist/mediabox/lib/lity/lity.js?1688134124" type="text/javascript"></script>
+<script src="plugins-dist/mediabox/lity/js/lity.mediabox.js?1688134124" type="text/javascript"></script>
+<script src="plugins-dist/mediabox/javascript/spip.mediabox.js?1688134124" type="text/javascript"></script><script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.markitup_pour_spip.js?1688134124'></script>
+<script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.previsu_spip.js?1688134124'></script>
+<script type='text/javascript' src='local/cache-js/jsdyn-javascript_porte_plume_start_js-5d2c4bd0.js?1739999059'></script>
+
+<!-- CS vide -->
+
+
+<!-- Debut CS -->
+<script type="text/javascript"><!--
+var cs_prive=window.location.pathname.match(/\/ecrire\/$/)!=null;
+jQuery.fn.cs_todo=function(){return this.not('.cs_done').addClass('cs_done');};
+if(window.jQuery) {
+var cs_sel_jQuery='';
+var cs_CookiePlugin="prive/javascript/js.cookie.js";
+}
+// --></script>
+
+<!-- Fin CS -->
+<link rel="alternate" type="application/rss+xml" title="volopress: courses" href="spip.php?page=rss_courses" />
+</head>
+
+<body id="rubriques">
+
+<div id="page">
+
+		<div id="entete" onclick="document.location.href='https://volopress.net'">
+<a href="https://volopress.net"><img src="styles/logo.jpg" alt="Editions Volopress : la collection Toponeige, l&#039;actualit&#233; du ski de rando, les infos montagne et neige dans les Alpes." /></a>
+</div>
+
+<div id="menu">
+
+<ul id="nav">
+	<!--<li class="rgt"><a href="/" title="Accueil"><img src="styles/home.gif" alt="home" /></a></li>-->
+	<li class="rgt"><a href="./ecrire/" title="Espace privé"><img src="styles/prive.gif" alt="prive" /></a>
+	<ul class="rgt">
+		<li class="ssmenu"><a href="spip.php?page=connect" onclick="window.open(this.href,'','scrollbars=yes,menubar=no,height=400,width=400,resizable=yes,toolbar=no,location=no,status=no'); return false">s'identifier</a></li>
+	</ul>
+	</li>
+</ul>
+
+<div id="menu_rub">
+<!--	<a href="./">Accueil</a>	-->
+<a href="/" title="Accueil"><img src="styles/home.gif" alt="home" /></a>
+
+	<a href="spip.php?rubrique3" title="Les topo-guides TOPONEIGE, d&#233;di&#233;s au ski de randonn&#233;e (de la balade d&#039;initiation au ski (...)">Librairie</a>
+	<a class="on" href="spip.php?rubrique2" title="Courses &#224; skis r&#233;alis&#233;es par les r&#233;dacteurs du site">Sorties</a>
+	<a href="spip.php?rubrique10" title="Nouveaux itin&#233;raires &#224; skis, t&#233;moignages, discussions sur les courses, les cotations etc.">Courses</a>
+	<a href="spip.php?rubrique9" title="Conditions d&#039;enneigement, &#233;tat des routes, ...">Neige</a>
+	<a href="spip.php?rubrique8" title="&#8211; Informations diverses particuli&#232;rement sur les questions g&#233;opolitiques o&#249; l&#039;on s&#039;efforce de (...)">Infos</a>
+	<a href="spip.php?rubrique13" title="Pour le ski de rando et la montagne.">Matériel</a>
+	<a href="spip.php?rubrique4" title="R&#232;gles du courrier">Courrier</a>
+	<a href="spip.php?rubrique5">Le site</a>
+	<a href="spip.php?rubrique28" title="Essentiellement des adresses pratiques autour du ski de rando, et des liens avec des sites (...)">Liens</a>
+</div>
+</div>	
+	<!--
+<div id="outils">
+</div>
+-->	
+<div id="courses">
+	<span class="date">[ <a href="spip.php?page=edit_course">nouvelle sortie</a> ]</span>
+
+	<div class="rubrique">
+
+		<div style="text-align:center;"><form method='get' action='/spip.php?rubrique2' name='search' class='formulaire_spip'>
+<input type='hidden' name='rubrique2'>
+<table class='wide'><tr style="background: rgb(214,226,238);">
+<td>
+	<b class='spip'>Recherche</b>: <input title="recherche sur tous les champs (massif, itinéraire, auteur, date ...)" type="text" SIZE="20" name="str">
+	<input type="submit" name="kz" value="Go" class="bouton">
+</td><td>
+<a href="spip.php?page=auteurs">INI</a> : <select name="INI" onchange="document.forms['search'].submit()">
+<option value=''>(Tous)</option>
+<option value="ABL" >ABL
+<option value="ADG" >ADG
+<option value="ANC" >ANC
+<option value="BGA" >BGA
+<option value="BOB" >BOB
+<option value="BOP" >BOP
+<option value="CBL" >CBL
+<option value="CBR" >CBR
+<option value="CEI" >CEI
+<option value="CES" >CES
+<option value="CGA" >CGA
+<option value="CGY" >CGY
+<option value="CHM" >CHM
+<option value="CTA" >CTA
+<option value="DBL" >DBL
+<option value="DEB" >DEB
+<option value="DEC" >DEC
+<option value="DME" >DME
+<option value="DPM" >DPM
+<option value="DRO" >DRO
+<option value="EBF" >EBF
+<option value="ELA" >ELA
+<option value="ENZ" >ENZ
+<option value="FDE" >FDE
+<option value="FTH" >FTH
+<option value="HCH" >HCH
+<option value="HFO" >HFO
+<option value="JAD" >JAD
+<option value="JBM" >JBM
+<option value="JBO" >JBO
+<option value="JBT" >JBT
+<option value="JCB" >JCB
+<option value="JCP" >JCP
+<option value="JDL" >JDL
+<option value="JEB" >JEB
+<option value="JFO" >JFO
+<option value="JFR" >JFR
+<option value="JIB" >JIB
+<option value="JLA" >JLA
+<option value="JOB" >JOB
+<option value="JPL" >JPL
+<option value="JUL" >JUL
+<option value="JVI" >JVI
+<option value="JVL" >JVL
+<option value="KEL" >KEL
+<option value="LAL" >LAL
+<option value="LLX" >LLX
+<option value="LPR" >LPR
+<option value="LSH" >LSH
+<option value="LTA" >LTA
+<option value="LUD" >LUD
+<option value="LVO" >LVO
+<option value="MAB" >MAB
+<option value="MAN" >MAN
+<option value="MBG" >MBG
+<option value="MBO" >MBO
+<option value="MKZ" >MKZ
+<option value="MLF" >MLF
+<option value="MNT" >MNT
+<option value="MOT" >MOT
+<option value="MRU" >MRU
+<option value="MTR" >MTR
+<option value="NAT" >NAT
+<option value="NIJ" >NIJ
+<option value="NIW" >NIW
+<option value="NMO" >NMO
+<option value="NPL" >NPL
+<option value="ODL" >ODL
+<option value="OLE" >OLE
+<option value="PBO" >PBO
+<option value="PBR" >PBR
+<option value="PBV" >PBV
+<option value="PHB" >PHB
+<option value="PPY" >PPY
+<option value="PRP" >PRP
+<option value="PTA" >PTA
+<option value="RBO" >RBO
+<option value="RED" >RED
+<option value="SMA" >SMA
+<option value="SPO" >SPO
+<option value="SSX" >SSX
+<option value="STB" >STB
+<option value="STK" >STK
+<option value="STV" >STV
+<option value="TAL" >TAL
+<option value="VFI" >VFI
+<option value="VIC" >VIC
+<option value="VRL" >VRL
+<option value="VSH" >VSH
+<option value="XAG" >XAG
+<option value="YAC" >YAC
+<option value="YPL" >YPL
+<option value="YVO" >YVO
+	</select>
+
+</td><td>
+<b> Massif : </b> <select name="zon" onchange="document.forms['search'].submit()">
+<option value="">(Tous)</option><option value="98" >Afrique</option><option value="53" >Alpes du Sud</option><option value="113" >Alpes Pennines</option><option value="54" >Ambin-Scolette</option><option value="96" >Amérique du nord</option><option value="97" >Amérique du sud</option><option value="20" >Aravis-Bornes</option><option value="89" >Argentera</option><option value="31" >Arves-Rousses</option><option value="99" >Asie</option><option value="111" >Autriche</option><option value="56" >Baronnies</option><option value="19" >Bauges</option><option value="24" >Beaufortain</option><option value="34" >Beaumont</option><option value="2" >Belledonne</option><option value="104" >Blanche</option><option value="44" >Cerces-Thabor</option><option value="112" >Chablais-Aig.Rouges</option><option value="114" >Chambeyron</option><option value="4" >Chartreuse</option><option value="128" >Corse</option><option value="18" >Devoluy</option><option value="3" >Ecrins</option><option value="57" >Encombres</option><option value="92" >Espagne</option><option value="95" >Europe</option><option value="86" >Golliat</option><option value="85" >Grand Paradis</option><option value="7" >Haute Maurienne</option><option value="40" >Haute Tarentaise</option><option value="116" >Italie</option><option value="90" >Jura Vosges</option><option value="115" >Lanzo-Canavese</option><option value="41" >Lauziere</option><option value="94" >Massif Central</option><option value="29" >Mercantour</option><option value="102" >Miravidi</option><option value="52" >Monges</option><option value="5" >Mont-Blanc</option><option value="109" >Norvège</option><option value="84" >Oberland</option><option value="100" >Oceanie</option><option value="103" >Parpaillon</option><option value="101" >Poles</option><option value="88" >Pyrénées</option><option value="23" >Queyras</option><option value="110" >Suède</option><option value="93" >Suisse</option><option value="21" >Taillefer</option><option value="22" >Ubaye</option><option value="8" >Vanoise</option><option value="9" >Vercors</option><option value="87" >Viso</option>	</select>
+</td></tr>
+</table>
+</form></div>
+
+<table class='wide'><tr class='row_first'><td width='18%'><b>date</b></td><td><b>sommet, voie</b></td><td width='15%'><b>massif</b></td><td><a href='spip.php?rubrique3'>topo</a></td><td><a href='spip.php?page=auteurs'>INI</a></td><td width='7%'><img src='styles/photo.png' alt='photo' /></td></tr>
+<tr class='row_even'><td>2025-04-05</td><td><a href="sortie6440.html"><span class='maj'>GRANDE LAUZIERE</span>, boucle ouest </a></td><td>Belledonne</td><td>BEL</td><td>DME</td><td>2</td></tr>
+<tr class='row_odd'><td>2025-04-03</td><td><a href="sortie6439.html"><span class='maj'>TOUR DE LA TSAVRE</span>, le Basset et col du Névé de la Rousse</a></td><td>Golliat</td><td></td><td>JBM</td><td>20</td></tr>
+<tr class='row_even'><td>2025-03-27</td><td><a href="sortie6437.html"><span class='maj'>MONT DE LA FOULY</span>, boucle combe de l'A-combe de la Petite</a></td><td>Golliat</td><td></td><td>JBM</td><td>20</td></tr>
+<tr class='row_odd'><td>2025-03-19</td><td><a href="sortie6436.html"><span class='maj'>BROUFFIER (crete)</span>, Sallères</a></td><td>Taillefer</td><td>ART</td><td>VSH</td><td>4</td></tr>
+<tr class='row_even'><td>2025-03-18</td><td><a href="sortie6435.html"><span class='maj'>CRETE DE LACHA</span>, versant nord-ouest</a></td><td>Cerces-Thabor</td><td>CTA</td><td>DME</td><td>4</td></tr>
+<tr class='row_odd'><td>2025-03-15</td><td><a href="sortie6434.html"><span class='maj'>CHAMECHAUDE</span>, ouest</a></td><td>Chartreuse</td><td>CDV</td><td>VSH</td><td>3</td></tr>
+<tr class='row_even'><td>2025-03-13</td><td><a href="sortie6433.html"><span class='maj'>CRETE DE LANS</span>, pistes</a></td><td>Vercors</td><td>CDV</td><td>VSH</td><td>2</td></tr>
+<tr class='row_odd'><td>2025-03-08</td><td><a href="sortie6432.html"><span class='maj'>AIGUILLES DE L'ERMITE</span>, rampe sud-ouest en boucle</a></td><td>Miravidi</td><td>MBL</td><td>JBM</td><td>17</td></tr>
+<tr class='row_even'><td>2025-03-07</td><td><a href="sortie6431.html"><span class='maj'>MONT NIX</span>, tour antihoraire</a></td><td>Miravidi</td><td>MBL</td><td>JBM</td><td>19</td></tr>
+<tr class='row_odd'><td>2025-03-06</td><td><a href="sortie6430.html"><span class='maj'>BALM'AIR</span>, Porte-Cottaves</a></td><td>Chartreuse</td><td>CDV</td><td>VSH</td><td>4</td></tr>
+<tr class='row_even'><td>2025-03-05</td><td><a href="sortie6429.html"><span class='maj'>PETIT RENAUD</span>, nord et sud</a></td><td>Ecrins</td><td>ENO</td><td>DME</td><td>2</td></tr>
+<tr class='row_odd'><td>2025-03-05</td><td><a href="sortie6428.html"><span class='maj'>SIX CARRO-GENEPI</span>, boucle nord-sud</a></td><td>Mont-Blanc</td><td>MBL</td><td>JBM</td><td>18</td></tr>
+<tr class='row_even'><td>2025-03-04</td><td><a href="sortie6427.html"><span class='maj'>POINTE DU MIDI</span>, boucle de Cuderi</a></td><td>Aravis-Bornes</td><td>ABB</td><td>JAD</td><td>5</td></tr>
+<tr class='row_odd'><td>2025-03-03</td><td><a href="sortie6426.html"><span class='maj'>SOMECEON DU DRU</span>, couloir SO du col de la Lys en boucle</a></td><td>Mont-Blanc</td><td>MBL</td><td>JBM</td><td>20</td></tr>
+<tr class='row_even'><td>2025-03-01</td><td><a href="sortie6425.html"><span class='maj'>Piolit</span>, sud-est, nord</a></td><td>Ecrins</td><td>ESU</td><td>JIB</td><td>6</td></tr>
+<tr class='row_odd'><td>2025-03-02</td><td><a href="sortie6424.html"><span class='maj'>GRAND GALBERT</span>, Voie normale SE</a></td><td>Taillefer</td><td>ART</td><td>VIC</td><td>8</td></tr>
+<tr class='row_even'><td>2025-03-02</td><td><a href="sortie6423.html"><span class='maj'>POINTE DE LA CROIX</span>, par l'arête nord en AR</a></td><td>Grand Paradis</td><td>GPA</td><td>JBM</td><td>8</td></tr>
+<tr class='row_odd'><td>2025-02-28</td><td><a href="sortie6422.html"><span class='maj'>TETE DES JEUNES</span>, couloir sud-ouest</a></td><td>Miravidi</td><td>MBL</td><td>JBM</td><td>20</td></tr>
+<tr class='row_even'><td>2025-02-24</td><td><a href="sortie6421.html"><span class='maj'>MIRAVIDI</span>, boucle de la Thuile par le col Forclaz</a></td><td>Miravidi</td><td>MBL</td><td>JBM</td><td>10</td></tr>
+<tr class='row_odd'><td>2025-02-24</td><td><a href="sortie6420.html"><span class='maj'>Pousterle</span>, couloir est</a></td><td>Ecrins</td><td>ESU</td><td>JIB</td><td>7</td></tr>
+<tr class='row_even'><td>2025-02-20</td><td><a href="sortie6419.html"><span class='maj'>CHAMROUSSE</span>, sud</a></td><td>Belledonne</td><td>BEL</td><td>VSH</td><td>3</td></tr>
+<tr class='row_odd'><td>2025-02-20</td><td><a href="sortie6418.html"><span class='maj'>CROCHUES (col sup) BERARD (brèche)</span>, traversée</a></td><td>Chablais-Aig.Rouges</td><td>CHA</td><td>JBM</td><td>14</td></tr>
+<tr class='row_even'><td>2025-02-16</td><td><a href="sortie6416.html"><span class='maj'>TOUR DU GRAND FOND</span>, circuit des cols</a></td><td>Beaufortain</td><td>BAZ</td><td>VIC</td><td>16</td></tr>
+<tr class='row_odd'><td>2025-02-09</td><td><a href="sortie6415.html"><span class='maj'>ARGUILLE</span>, bouclette</a></td><td>Chartreuse</td><td>CDV</td><td>VSH</td><td>4</td></tr>
+<tr class='row_even'><td>2025-02-06</td><td><a href="sortie6414.html"><span class='maj'>CHARMANT SOM</span>, bergeries</a></td><td>Chartreuse</td><td>CDV</td><td>VSH</td><td>4</td></tr>
+</table><a href="/spip.php?rubrique2&pg=0">d&eacute;but</a> | <a href="/spip.php?rubrique2&pg=1">page suivante</a>
+	</div>
+
+</div>
+
+	<div id="pied_de_page">
+		<a href="/">accueil</a> | <a href="./ecrire/">espace privé</a> | site sous <a href="https://www.spip.net/fr">SPIP</a>
+	</div></div><!-- fin page -->
+	
+</body>
+</html>

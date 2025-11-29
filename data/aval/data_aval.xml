@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='ava.xslt'?><ava xmlns="http://www.w3.org/2005/Atom" xmlns:avalanche="http://data-avalanche.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <title>Dernières avalanches saisies sur data-avalanche.org</title>
+  <link rel="alternate" href="http://www.data-avalanche.org" />
+  <subtitle>Atom Feed of last avalanches</subtitle>
+  <rights>data-avalanche.org</rights>
+  <updated>2025-11-28T21:06:34Z</updated>
+  <dc:creator>data-avalanche.org</dc:creator>
+  <dc:date>2025-11-28T21:06:34Z</dc:date>
+  <dc:language>fr</dc:language>
+  <dc:rights>data-avalanche.org</dc:rights>
+  <entry>
+    <title>Avalanche le 28/11/2025 : Haute Tarentaise, secteur Rocher de la Davie</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764337775105" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-28T21:06:34Z</updated>
+    <published>2025-11-28T21:06:34Z</published>
+    <summary type="html">Plaque partie accidentellement sous les skis du premier skieur. &#xD;
+C'est une fine couche fragile positionnée entre de la veille neige et la neige récente des derniers jours qui est à l'origine de cette propagation. &#xD;
+Très cohérent avec le test nivologique réalisé quelques instants plus tôt par les protagonistes dans un secteur très proche :&#xD;
+&lt;a href="https://www.data-avalanche.org/romansns-test/?1764328697452" target="_blank"&gt;Lien vers le profil stratigraphique et les tests nivologiques&lt;/a&gt;</summary>
+    <dc:date>2025-11-28T21:06:34Z</dc:date>
+    <geo:lat>45.51019654498558</geo:lat>
+    <geo:long>6.954174041748048</geo:long>
+    <avalanche:orientation>S</avalanche:orientation>
+    <avalanche:date_event>2025-11-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2855</avalanche:altitude_start>
+    <avalanche:altitude_stop>2630</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 28/11/2025 : Haute Tarentaise, secteur Tignes, Tufs entre tuf 7 et pente du râtelier</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764348566475" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-28T16:53:19Z</updated>
+    <published>2025-11-28T16:53:19Z</published>
+    <summary type="html">Avalanche de plaques, déclenchement provoqué par le passage du 1er skieur, sous ses pieds, propagation, cassure de 20-30cm jusqu'à l'ancienne neige, puis 2eme avalanche, idem, par le 2eme skieur.</summary>
+    <dc:date>2025-11-28T16:53:19Z</dc:date>
+    <geo:lat>45.45812459938363</geo:lat>
+    <geo:long>6.906840650459563</geo:long>
+    <avalanche:orientation>W</avalanche:orientation>
+    <avalanche:date_event>2025-11-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2400</avalanche:altitude_start>
+    <avalanche:altitude_stop>2150</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/11/2025 : Ecrins, secteur Puy Saint Vincent - la PENDINE</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764252311063" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-27T15:47:06Z</updated>
+    <published>2025-11-27T15:47:06Z</published>
+    <summary type="html">Plaque de neige sèche friable, déclenchée accidentellement (probablement à distance par des skieurs), sur couche fragile persistante formée à même le sol pendant le long épisode de beau temps du mois de novembre.</summary>
+    <dc:date>2025-11-27T15:47:06Z</dc:date>
+    <geo:lat>44.8052468919092</geo:lat>
+    <geo:long>6.456548919321925</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2550</avalanche:altitude_start>
+    <avalanche:altitude_stop>2380</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/11/2025 : Alpes Grées, secteur Tierce</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764266147901" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-27T17:55:47Z</updated>
+    <published>2025-11-27T17:55:47Z</published>
+    <summary type="html">Belles plaques friables partie sans doute hier, le dépôt n’était pas recouvert.&#xD;
+Peu de neige mobilisé mais longueur de cassure importante.</summary>
+    <dc:date>2025-11-27T17:55:47Z</dc:date>
+    <geo:lat>45.30580381059627</geo:lat>
+    <geo:long>7.016447924548094</geo:long>
+    <avalanche:orientation>E</avalanche:orientation>
+    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2900</avalanche:altitude_start>
+    <avalanche:altitude_stop>1800</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/11/2025 : Aravis, secteur Montagne de Sulens</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764289744867" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-28T08:10:38Z</updated>
+    <published>2025-11-28T08:10:38Z</published>
+    <summary type="html">Aperçu une coulée de plaque de fond sur une des faces ouest du Sulens. Départ spontanée, pas de trace de skieur.</summary>
+    <dc:date>2025-11-28T08:10:38Z</dc:date>
+    <geo:lat>45.83291994213588</geo:lat>
+    <geo:long>6.369892269727982</geo:long>
+    <avalanche:orientation>W</avalanche:orientation>
+    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>1650</avalanche:altitude_start>
+    <avalanche:altitude_stop>1600</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/11/2025 : Alpes Grées, secteur Grand Fond</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764266377957" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-27T17:59:37Z</updated>
+    <published>2025-11-27T17:59:37Z</published>
+    <summary type="html">Déclenchement sûrement durant les précipitations (dépôt recouvert)</summary>
+    <dc:date>2025-11-27T17:59:37Z</dc:date>
+    <geo:lat>45.341626006452984</geo:lat>
+    <geo:long>7.065597619588019</geo:long>
+    <avalanche:orientation>NW</avalanche:orientation>
+    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>3200</avalanche:altitude_start>
+    <avalanche:altitude_stop>3000</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/11/2025 : Haute Tarentaise, secteur Aiguille Percée, 3murs</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764347934225" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-28T16:45:31Z</updated>
+    <published>2025-11-28T16:45:31Z</published>
+    <summary type="html">Avalanche de plaque, partie jusqu'à l'ancienne neige</summary>
+    <dc:date>2025-11-28T16:45:31Z</dc:date>
+    <geo:lat>45.49122972098383</geo:lat>
+    <geo:long>6.896980470107278</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2450</avalanche:altitude_start>
+    <avalanche:altitude_stop>2300</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/11/2025 : Queyras, secteur Ceillac, Pics de la Font Sancte, Piste Girardin</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764186951048" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-26T20:13:39Z</updated>
+    <published>2025-11-26T20:13:39Z</published>
+    <summary type="html">Plaque de neige à canon sur la piste de Girardin</summary>
+    <dc:date>2025-11-26T20:13:39Z</dc:date>
+    <geo:lat>44.64145585383932</geo:lat>
+    <geo:long>6.79821143050072</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2025</avalanche:altitude_start>
+    <avalanche:altitude_stop>2000</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/11/2025 : Ubaye, secteur Tête de Crouès, Riou de Crouès</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764174101910" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-26T16:21:41Z</updated>
+    <published>2025-11-26T16:21:41Z</published>
+    <summary type="html">Déclenchent à distance, environ 250m de distance, d'une plaque, après quelques "whoufs" et un "clac" final, lors du départ de l'avalanche.&#xD;
+le BERA est de niveau 3. Donc, pas de grande surprise de voir un départ à cet endroit, vu la pente, l'altitude et l'exposition.</summary>
+    <dc:date>2025-11-26T16:21:41Z</dc:date>
+    <geo:lat>44.44681423686968</geo:lat>
+    <geo:long>6.685653353601891</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/11/2025 : Parpaillon, secteur les plastres</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764167327202" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-26T15:25:35Z</updated>
+    <published>2025-11-26T15:25:35Z</published>
+    <summary type="html">Observation de coulée qui s'étend sur toute la face. Déclenchement inconnu, pas de trace de skieurs</summary>
+    <dc:date>2025-11-26T15:25:35Z</dc:date>
+    <geo:lat>44.45055824864225</geo:lat>
+    <geo:long>6.683132980225289</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2800</avalanche:altitude_start>
+    <avalanche:altitude_stop>2600</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 25/11/2025 : Ecrins, secteur Aiglière, vallon de Narreyroux</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764185149705" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-26T19:25:49Z</updated>
+    <published>2025-11-26T19:25:49Z</published>
+    <summary type="html">Plaque friable, probablement sur couche fragile persistante, partie spontanément pendant ou juste après le dernier épisode perturbé (entre dimanche 23 novembre au soir et mardi 25 novembre au matin).</summary>
+    <dc:date>2025-11-26T19:25:49Z</dc:date>
+    <geo:lat>44.811967514411265</geo:lat>
+    <geo:long>6.425163195340687</geo:long>
+    <avalanche:orientation>E</avalanche:orientation>
+    <avalanche:date_event>2025-11-24T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2800</avalanche:altitude_start>
+    <avalanche:altitude_stop>2680</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 25/11/2025 : Ubaye, secteur Super Sauze,  Chapeau-de-Gendarme</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764139249587" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-26T06:44:24Z</updated>
+    <published>2025-11-26T06:44:24Z</published>
+    <summary type="html">"deux skieurs de randonnée emportés et ensevelis, ils échappent de justesse à la mort"&#xD;
+"Le peloton de gendarmerie de haute-montagne de Jausiers est intervenu mardi 25 novembre vers 10 h 30 sur la face nord du Chapeau-de-Gendarme, dans la commune d’Enchastrayes, pour évacuer deux skieurs de randonnée. Emportés par une avalanche, les deux ont été ensevelis, mais l’un des deux uniquement de manière partielle."&#xD;
+"La gendarmerie tient à rappeler aux skieurs et autres que la neige n’est pas encore bien fixée et que les conditions sont pour l’instant assez dangereuses."</summary>
+    <dc:date>2025-11-26T06:44:24Z</dc:date>
+    <geo:lat>44.340302</geo:lat>
+    <geo:long>6.668257</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2025-11-24T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2500</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 24/11/2025 : Vanoise, secteur Aussois, Bord de piste</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764001685805" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-24T18:05:57Z</updated>
+    <published>2025-11-24T18:05:57Z</published>
+    <summary type="html">Plaque de neige à canon en aval de la piste forestière. Illustre la très grande gamme de types de neige pouvant constituer des "plaques" (c'est à dire qu'il est impossible de reconnaitre une plaque à sa consistance, son humidité, etc. Contrairement à ce qui est encore communément admis).&#xD;
+Fait anecdotique par rapport à ce qui se passe probablement plus à l'Ouest (ou qui va se passer). Les précipitations abondantes après l'épisode de froid intense et durable que nous avons connu ne peuvent que donner lieu à des situations instables.&#xD;
+Quelques événements de grande ampleur signalés en cette fin de journée de lundi (Vanoise)</summary>
+    <dc:date>2025-11-24T18:05:57Z</dc:date>
+    <geo:lat>45.241562</geo:lat>
+    <geo:long>6.732543</geo:long>
+    <avalanche:orientation>SW</avalanche:orientation>
+    <avalanche:date_event>2025-11-23T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>1872</avalanche:altitude_start>
+  </entry>
+</ava>
+

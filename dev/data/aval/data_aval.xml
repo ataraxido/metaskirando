@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='ava.xslt'?><ava xmlns="http://www.w3.org/2005/Atom" xmlns:avalanche="http://data-avalanche.org" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <title>Dernières avalanches saisies sur data-avalanche.org</title>
+  <link rel="alternate" href="http://www.data-avalanche.org" />
+  <subtitle>Atom Feed of last avalanches</subtitle>
+  <rights>data-avalanche.org</rights>
+  <updated>2025-11-03T14:25:56Z</updated>
+  <dc:creator>data-avalanche.org</dc:creator>
+  <dc:date>2025-11-03T14:25:56Z</dc:date>
+  <dc:language>fr</dc:language>
+  <dc:rights>data-avalanche.org</dc:rights>
+  <entry>
+    <title>Avalanche le 03/11/2025 : Haute Maurienne, secteur Ouille Allegra</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1762177667850" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-03T14:25:56Z</updated>
+    <published>2025-11-03T14:25:56Z</published>
+    <summary type="html">Cassure épaisseur 1m20, largeur 80m, longueur 40m. Déclenchement à distance à la montée. &#xD;
+Plusieurs plaques déclenchées : attention à la propagation de rupture très active dans la couche fragile. Très cohérent avec le test nivologique réalisé au même moment sur Bonneval.&#xD;
+&lt;a href="https://www.data-avalanche.org/romansns-test/?1762163022517" target="_blank"&gt;détail du profil et des tests&lt;/a&gt;</summary>
+    <dc:date>2025-11-03T14:25:56Z</dc:date>
+    <geo:lat>45.32789999057148</geo:lat>
+    <geo:long>7.046195173747722</geo:long>
+    <avalanche:orientation>S</avalanche:orientation>
+    <avalanche:date_event>2025-11-02T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2700</avalanche:altitude_start>
+    <avalanche:altitude_stop>2750</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 03/11/2025 : Haute Maurienne</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1762200015679" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-11-03T20:00:15Z</updated>
+    <published>2025-11-03T20:00:15Z</published>
+    <summary type="html">Départ spontané d'une plaque de neige récente</summary>
+    <dc:date>2025-11-03T20:00:15Z</dc:date>
+    <geo:lat>45.329676</geo:lat>
+    <geo:long>6.959409</geo:long>
+    <avalanche:orientation>SE</avalanche:orientation>
+    <avalanche:date_event>2025-11-02T23:00:00Z</avalanche:date_event>
+  </entry>
+  <entry>
+    <title>Avalanche le 30/10/2025 : Haute Maurienne</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1761855851353" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-10-30T20:24:11Z</updated>
+    <published>2025-10-30T20:24:11Z</published>
+    <summary type="html">Glissement de plusieurs plaques de fond d'ampleur modeste entre 10:30 et 13:30</summary>
+    <dc:date>2025-10-30T20:24:11Z</dc:date>
+    <geo:lat>45.332988</geo:lat>
+    <geo:long>6.97391</geo:long>
+    <avalanche:orientation>S</avalanche:orientation>
+    <avalanche:date_event>2025-10-29T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2700</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 28/10/2025 : Haute Maurienne, secteur Croix de Dom Jean Maurice</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1761651206080" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-10-28T12:46:42Z</updated>
+    <published>2025-10-28T12:46:42Z</published>
+    <summary type="html">Rupture de plaque, bel aérosol</summary>
+    <dc:date>2025-10-28T12:46:42Z</dc:date>
+    <geo:lat>45.34470363580436</geo:lat>
+    <geo:long>6.997594388306851</geo:long>
+    <avalanche:orientation>S</avalanche:orientation>
+    <avalanche:date_event>2025-10-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>3100</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 28/10/2025 : Haute Maurienne, secteur Bessans - Claret</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1761659827710" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-10-28T13:59:45Z</updated>
+    <published>2025-10-28T13:59:45Z</published>
+    <summary type="html">Départ spontané (entre 11:00 et 12:00) de quelques plaques de fond de faible ampleur, suite aux précipitations des jours passés puis au redoux en cours.</summary>
+    <dc:date>2025-10-28T13:59:45Z</dc:date>
+    <geo:lat>45.333225</geo:lat>
+    <geo:long>6.979758</geo:long>
+    <avalanche:orientation>SE</avalanche:orientation>
+    <avalanche:date_event>2025-10-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2500</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/10/2025 : Beaufortain, pointe de la grande journée</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1761654615663" />
+    <author>
+      <name />
+    </author>
+    <updated>2025-10-28T13:06:36Z</updated>
+    <published>2025-10-28T13:06:36Z</published>
+    <summary type="html">gros amas de boules (40-50cm de diamètre), dans le couloir du torrent. long 100m, larg 5m</summary>
+    <dc:date>2025-10-28T13:06:36Z</dc:date>
+    <geo:lat>45.67777058312681</geo:lat>
+    <geo:long>6.521660978687578</geo:long>
+    <avalanche:orientation>S</avalanche:orientation>
+    <avalanche:date_event>2025-10-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>1550</avalanche:altitude_start>
+    <avalanche:altitude_stop>1460</avalanche:altitude_stop>
+  </entry>
+</ava>
+

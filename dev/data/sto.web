@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width: device-width, initial-scale=1">
+        <meta name="csrf-token" content="QtuaVfdDh7ErBO3QIdUwigj2XHpDTzyqjrhTM3IH">
+
+        <title>Tourenforum</title>
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+              integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+              crossorigin=""/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-geonames@0.4.9/L.Control.Geonames.css"/>
+        <link rel="stylesheet" href="//unpkg.com/leaflet-gesture-handling/dist/leaflet-gesture-handling.min.css" type="text/css">
+        <link rel="stylesheet" href="https://skitourenportal.eu/css/redactor.min.css">
+        <link rel="stylesheet" href="/css/app.css?id=6a4873008bf2e15f26e8">
+
+
+        <!-- Scripts -->
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+                integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+                crossorigin=""></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/leaflet-geonames@0.4.9/L.Control.Geonames.min.js"></script>
+        <script src="//unpkg.com/leaflet-gesture-handling"></script>
+        <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+    </head>
+    <body class="font-sans antialiased">
+        <div class="w-full h-auto flex justify-center bg-gray-100">
+            <ul class="hidden md:flex w-full h-auto justify-center">
+                <li class="py-1 px-3"><a href="https://skitourenportal.eu" class="font-semibold text-blue-600">Alle</a></li>
+                                    <li class="py-1 px-3"><a href="https://skitourenportal.eu/salzburg" class="">Salzburg</a></li>
+                                    <li class="py-1 px-3"><a href="https://skitourenportal.eu/oberoesterreich" class="">Oberösterreich</a></li>
+                                    <li class="py-1 px-3"><a href="https://skitourenportal.eu/niederoesterreich" class="">Niederösterreich</a></li>
+                                    <li class="py-1 px-3"><a href="https://skitourenportal.eu/kaernten" class="">Kärnten</a></li>
+                                    <li class="py-1 px-3"><a href="https://skitourenportal.eu/steiermark" class="">Steiermark</a></li>
+                            </ul>
+            <div class="block md:hidden w-auto h-auto">
+                <select name="select-state" data-link-collection class="my-1.5 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm rounded-md">
+                    <option data-href="https://skitourenportal.eu" selected>Alle</option>
+                                            <option data-href="https://skitourenportal.eu/salzburg" >Salzburg</option>
+                                            <option data-href="https://skitourenportal.eu/oberoesterreich" >Oberösterreich</option>
+                                            <option data-href="https://skitourenportal.eu/niederoesterreich" >Niederösterreich</option>
+                                            <option data-href="https://skitourenportal.eu/kaernten" >Kärnten</option>
+                                            <option data-href="https://skitourenportal.eu/steiermark" >Steiermark</option>
+                                    </select>
+            </div>
+        </div>
+
+        <div class="md:container mx-auto">
+            <header class="mt-4">
+                <nav class="" x-data="{ open: false, mobileOpen: false }">
+    <div class="flex items-center sm:hidden">
+        <!-- Mobile menu button -->
+        <button @click="mobileOpen = ! mobileOpen" type="button" class="bg-white inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 focus:outline-none" aria-controls="mobile-menu" aria-expanded="false">
+            <span class="sr-only">Hauptmenü öffnen</span>
+            <!--
+              Heroicon name: outline/menu
+
+              Menu open: "hidden", Menu closed: "block"
+            -->
+            <svg class="block h-6 w-6" :class="{ block: ! mobileOpen, hidden: mobileOpen }" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+            <!--
+              Heroicon name: outline/x
+
+              Menu open: "block", Menu closed: "hidden"
+            -->
+            <svg class="hidden h-6 w-6" :class="{ hidden: ! mobileOpen, block:  mobileOpen }" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+        </button>
+    </div>
+    <ul class="hidden sm:flex flex-start border-b border-blue-600 text-gray-500">
+        
+                    <li class="ml-auto py-1 px-3"><a href="https://skitourenportal.eu/login" class="text-sm">Login</a></li>
+                        <li class="py-1 px-3"><a href="https://skitourenportal.eu/informationen" class="font-bold text-blue-600">Information</a></li>
+                    </ul>
+    <!-- Mobile menu, show/hide based on menu state. -->
+    <div class="sm:hidden" :class="{ hidden: ! mobileOpen, block:  mobileOpen }" id="mobile-menu">
+        <div class="pt-2 pb-3 space-y-1">
+                    </div>
+        <div class="pt-4 pb-3 border-t border-gray-200">
+            <div class="mt-3 space-y-1">
+                                    <a href="https://skitourenportal.eu/login" class="block px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-800 hover:bg-gray-100">Anmelden</a>
+                                            <a href="https://skitourenportal.eu/informationen" class="block px-4 py-2 text-base font-medium text-gray-500 hover:text-gray-800 hover:bg-gray-100">Information</a>
+                                                                </div>
+        </div>
+    </div>
+</nav>
+            </header>
+
+            <main class="flex flex-col md:flex-row gap-2 py-6">
+                <div class="w-full">
+        
+                <div class="w-full mb-6" x-data="{ open: false }">
+            <h1 class="w-full p-1 text-sm text-white bg-blue-600">letzte Kommentare</h1>
+            <ul class="flex flex-col space-y-1">
+                            <li class="comment cursor-pointer " data-href="https://skitourenportal.eu/beitrag/35288">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">06.04.2025 17:26</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">Andreas S.</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Bösenstein-Nordlandschaft</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Oh, danke für die Blumen, noch dazu aus so berufenem Mund!
+Ich muss aber sagen,...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35288" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                <li class="flex justify-center" id="more-comments-list-item">
+                    <button type="button" @click="open = true; $root.querySelectorAll('.foldable-comment').forEach(comment => comment.classList.remove('hidden')); document.getElementById('more-comments-list-item').classList.remove('flex'); document.getElementById('more-comments-list-item').classList.add('hidden'); document.getElementById('less-comments-list-item').classList.remove('hidden'); document.getElementById('less-comments-list-item').classList.add('flex')" class="inline-flex items-center px-3 py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                        <svg class="-ml-0.5 mr-2 h-4 w-4" id="more-comments-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+                        </svg>
+                        Mehr Kommentare anzeigen
+                    </button>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35288">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">05.04.2025 04:59</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">sugarless</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Bösenstein-Nordlandschaft</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Tolle Eindrücke!</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35288" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35278">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">30.03.2025 16:34</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">Sepp Auer</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Skihochtourenwoche Ötztaler Alpen</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Servus Michael, da hätt ma uns fast getroffen. Wir waren in Kurzras, Touren Bell...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35278" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35258">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">22.03.2025 14:43</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">geri82</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Sonntagskogel 2229 m</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Danke für die Antwort. Lg</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35258" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35265">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">22.03.2025 09:24</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">Edi Mörtl</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Hocheiser</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Den Tunnelausgang perfekt in Szene gesetzt - R.E.S.P.E.C.T.</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35265" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35265">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">21.03.2025 20:51</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">Peter Stoll</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Hocheiser</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">P.S. nochmal Danke an die Uta :-)</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35265" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35258">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">21.03.2025 15:38</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">xeisclochard</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Sonntagskogel 2229 m</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Man kann vom Gipfel des Geierkogels zum Skigebiet Hohentauern abfahren, das müss...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35258" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35255">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">21.03.2025 06:21</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">Harald Schober</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Moschkogel 1916 m</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Chris, danke für deinen Kommentar. Wirklich schade, dass wir uns nicht getroffen...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35255" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35255">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">20.03.2025 21:24</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">chris wolki</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Moschkogel 1916 m</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Leider habe ich den alt-ehrwürdigen Herrn Harald Schober gestern knapp verpasst...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35255" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                            <li class="comment cursor-pointer foldable-comment hidden" data-href="https://skitourenportal.eu/beitrag/35258">
+                    <ul class="flex content-center px-2 py-1 text-sm bg-blue-100 hover:bg-blue-200">
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Datum</h3>
+                            <p class="text-blue-600">20.03.2025 18:23</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Verfasser</h3>
+                            <p class="text-blue-600">geri82</p>
+                        </li>
+                        <li class="mr-8 w-1/6">
+                            <h3 class="font-bold text-blue-600">Tour</h3>
+                            <p class="text-blue-600">Sonntagskogel 2229 m</p>
+                        </li>
+                        <li class="mr-8">
+                            <h3 class="font-bold text-blue-600">Kommentar</h3>
+                            <p class="text-blue-600">Wie schaut die Abfahrt westlich vom Weingruberkar aus?
+Kommt man bis zur Bundes...</p>
+                        </li>
+                        <!-- li class="text-right">
+                            <a href="https://skitourenportal.eu/beitrag/35258" class="inline-flex items-center px-2.5 py-1.5 border border-blue-700 shadow-sm text-xs font-medium rounded text-blue-700 bg-transparent hover:bg-blue-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                                Details
+                            </a>
+                        </li -->
+                    </ul>
+                </li>
+                                                <li class="hidden justify-center" id="less-comments-list-item">
+                    <button type="button" @click="open = false; $root.querySelectorAll('.foldable-comment').forEach(comment => comment.classList.add('hidden')); document.getElementById('more-comments-list-item').classList.remove('hidden'); document.getElementById('more-comments-list-item').classList.add('flex'); document.getElementById('less-comments-list-item').classList.remove('flex'); document.getElementById('less-comments-list-item').classList.add('hidden')" class="inline-flex items-center px-3 py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+                        <svg class="-ml-0.5 mr-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"></path>
+                        </svg>
+                        Weniger Kommentare anzeigen
+                    </button>
+                </li>
+                                        </ul>
+        </div>
+        
+        <div id="filter-bar-target" class="w-full mb-6">
+
+        </div>
+
+        <div class="flex flex-col md:flex-row gap-2">
+            <div class="w-full md:w-5/12">
+                <section>
+                    <div class="flex p-1 bg-blue-600" data-filter-app>
+                        <div class="flex-shrink-0 mr-4">
+                            <form action="https://skitourenportal.eu" method="get">
+                            <label for="search" class="sr-only">Suche</label>
+                            <input type="text" name="search" id="search" class="px-1 block w-full sm:text-sm" value="" placeholder="Suche in Touren/Autoren">
+                            </form>
+                        </div>
+                        <posts-filter action="https://skitourenportal.eu" label="Filter"
+                                                                                                                                                                                                                                                                           >
+                        </posts-filter>
+                    </div>
+                    <div id="mapid" class="w-full h-96" style="height: 479.5px"></div>
+                    <script>
+                        document.getElementById('mapid').addEventListener('clickedTour', function (e) {
+                            console.log("Clicked on tour #", e.detail);
+                            fetch('/beitrag/' + e.detail + '/detail').then(function (response) {
+                                return response.text();
+                            }).then(function (html) {
+                                document.getElementById('details').innerHTML = html;
+                                refreshFsLightbox();
+                            }).catch(function (err) {
+                                console.warn('Something went wrong.', err);
+                            });
+                        }, false);
+
+                        var mymap = L.map('mapid', {
+                            gestureHandling: true
+                        }).setView([47.291386, 13.973466], 8);
+
+                        var photoIcon = L.icon({
+                            iconUrl: '/images/icons/camera@2x.png',
+                            iconSize:     [24, 24], // size of the icon
+                            iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location
+                            popupAnchor:  [0, 12] // point from which the popup should open relative to the iconAnchor
+                        })
+                        // L.tileLayer('//map.geo.univie.ac.at/TMS/LAWIS_2021_512/{z}/{x}/{y}.png', {
+                        //     tms : true,
+                        //     reuseTiles : true,
+                        //     unloadInvisibleTiles : true,
+                        //     isBaseLayer : false,
+                        //     bounds: [[29.0, -31.0], [81.0, 51.0]],
+                        //     minZoom: 5,
+                        //     // maxZoom: 9,
+                        //     maxZoom: 12,
+                        //     // maxNativeZoom: 8,
+                        //     maxNativeZoom: 12,
+                        //     visible : true,
+                        //     attribution : "Universität Wien",
+                        //     keepBuffer: 10,
+                        //     updateWhenIdle: false
+                        // }).addTo(mymap);
+                        L.tileLayer('//map.geo.univie.ac.at/TMS/LAWIS_CM_2023-24/{z}/{x}/{y}.png', {
+                            tms : true,
+                            reuseTiles : true,
+                            unloadInvisibleTiles : true,
+                            isBaseLayer : false,
+                            bounds: [[29.0, -31.0], [81.0, 51.0]],
+                            minZoom: 5,
+                            maxZoom: 9,
+                            maxNativeZoom: 8,
+                            visible : true,
+                            attribution : "Universität Wien",
+                            keepBuffer: 10,
+                            updateWhenIdle: false
+                        }).addTo(mymap);
+                        L.tileLayer('//map.geo.univie.ac.at/TMS/LAWIS_CM_2023-24/{z}/{x}/{y}.png', {
+                            tms : true,
+                            reuseTiles : true,
+                            unloadInvisibleTiles : true,
+                            isBaseLayer : false,
+                            bounds: [[44.95,6.15],[50.33,20.5]],
+                            minZoom: 9,
+                            maxZoom: 12,
+                            visible : true,
+                            attribution : "Universität Wien",
+                            keepBuffer: 10,
+                            updateWhenIdle: false
+                        }).addTo(mymap);
+
+                        L.tileLayer('https://lawis.at/tile_proxy/index.php?r=opentopomap&x={x}&y={y}&z={z}', {
+                            // minZoom: 10,
+                            minZoom: 12,
+                            maxZoom: 15,
+                            bounds: false,
+                            transparent: false,
+                            attribution: "opentopomap.org, OSM"
+                        }).addTo(mymap);
+
+                        // L.tileLayer("//{s}.wien.gv.at/basemap/bmapgrau/normal/google3857/{z}/{y}/{x}.png", {
+                        //     subdomains : ['maps', 'maps1', 'maps2', 'maps3', 'maps4'],
+                        //     minZoom : 10,
+                        //     maxZoom: 14,
+                        //     bounds: [[46.358770, 8.782379], [49.037872, 17.189532]],
+                        //     attribution: "basemap.at"
+                        // }).addTo(mymap);
+                        L.tileLayer("//{s}.wien.gv.at/basemap/bmapgrau/normal/google3857/{z}/{y}/{x}.png", {
+                            subdomains : ['maps', 'maps1', 'maps2', 'maps3', 'maps4'],
+                            minZoom : 12,
+                            maxZoom: 15,
+                            bounds: [[46.358770, 8.782379], [49.037872, 17.189532]],
+                            attribution: "basemap.at"
+                        }).addTo(mymap);
+
+                        
+                        var ready = (callback) => {
+                            if (document.readyState != "loading") callback();
+                            else document.addEventListener("DOMContentLoaded", callback);
+                        }
+
+                        ready(() => {
+                            var timeout = null;
+                            var markers = new L.LayerGroup();
+                            markers.addTo(mymap);
+                            document.querySelector("#search").addEventListener("input", (e) => {
+                                if (e.target.value.length > 3) {
+                                    if (timeout !== null) clearTimeout(timeout);
+
+                                    timeout = setTimeout(function () {
+                                        fetch("http://crossrisk.test/api/geonames/search/" + e.target.value)
+                                            .then(data => {
+                                                return data.json();
+                                            })
+                                            .then(data => {
+                                                console.log(data.data);
+
+                                                markers.clearLayers();
+                                                data.data.forEach(location => {
+                                                    var popup = L.popup().setContent('<h3 style="font-weight: bold; margin:0 0 3px 0;">' + location.name + '</h3><p style="margin: 0;">Höhe: ' + ((parseInt(location.elevation) > 0) ? location.elevation : '--') + '</p>');
+                                                    markers.addLayer(L.marker([location.latitude, location.longitude], {
+                                                        clickable: true
+                                                    }).bindPopup(popup, {
+                                                        showOnMouseOver:true
+                                                    }))
+                                                });
+
+                                                var bounds = new L.latLngBounds(data.data.map(location => [location.latitude, location.longitude]));
+                                                mymap.fitBounds(bounds, {
+                                                    padding: [50, 50]
+                                                });
+                                            })
+                                            .catch(error => {
+                                                console.error(error);
+                                            });
+                                    }, 1000);
+                                }
+                            });
+
+                            var markers = [];
+                            var markerCluster = L.markerClusterGroup({
+                                spiderfyOnMaxZoom: true,
+                            });
+                            var photoMarkerClusters = {};
+                                                                                            markerCluster.addLayer(L.marker([47.463819404143, 13.633851762386])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35295
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Schitourenschaukel Edelgrieß-obere Schwadering</h1><div class="font-normal text-sm mt-0">am 09.04.2025</div><div class="font-normal text-sm mt-0">von martin, karo gaisl</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35295">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35295] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/nLYN1rko0lXX7LtW5JOdxyyMjcAtdp4ZzclW5imz.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/XaKTm1v0yCxGbI76aNIs4Fsv0M1QUUYBMzzeD4HF.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/NUvogK8WDJLKnErGujcisgSSNSpo8OttvPChuZi3.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/Z1Sc83GceyNBghBt6byVcVMqVvvSUtx6YSi5mKiv.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/v1VImZk4BxYS0nwnWyRlystO8NwBcGWO3PHH3yOd.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/2OMKc0JN8PHT4BUGIU8oafkDPeinYUwuB0wuV8yy.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/6FORW0riaBTQ785xdngRrOimr1hoT9TkU0dSsN7V.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/Sp9diRmaRvEQAXE8d0N3btfBw3kHsjqgohsb6p1n.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35295].addLayer(L.marker([47.463819404143, 13.633851762386], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/puf7I11EVit1EBwUCeJKomhWO5dfzjPZImyaze1s.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.313136974509, 14.271347522736])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35294
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Scharnitzfeld</h1><div class="font-normal text-sm mt-0">am 09.04.2025</div><div class="font-normal text-sm mt-0">von sugarless</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35294">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35294] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35294].addLayer(L.marker([47.313136974509, 14.271347522736], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35294/thumbnails/j8rGGfAwvDLWjGhTlcmdXJ85sGzSLn22dzse9osX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35294].addLayer(L.marker([47.313136974509, 14.271347522736], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35294/thumbnails/usAPsB0nRslk6kad5HUKFIR70F0eBNruEXahz4Qh.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35294].addLayer(L.marker([47.313136974509, 14.271347522736], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35294/thumbnails/K2DqVcZAXeYL3AY73BSqemyWAfIBS2vRwWEivmI6.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35294].addLayer(L.marker([47.313136974509, 14.271347522736], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35294/thumbnails/6uL9NhJSI8d68tNg4s7FBIUds5pVbDn8tAxaGOzn.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.173086318027, 12.138433456421])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35293
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Wildkarspitze, 3073m</h1><div class="font-normal text-sm mt-0">am 08.04.2025</div><div class="font-normal text-sm mt-0">von uta Philipp</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35293">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35293] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/PfAtYzm7ffCxfRJcxbljLTclkFJYc2seBEs0znQq.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/hjIi6KXUCcTLgUe1qrFYSl4w0FAMNaNjeKLJl96Y.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/WscnaK7WttfdZHH54RZCRCfLyKShOkvsFUEDesYr.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/bcj51qEw96KUB1zppdqh6CQAdP9WpGicbwt2vbvF.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/IIJitlaqJARnDfHYDDquoNTSrlayEd7S43D3qFyh.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/w03Qgb8BEnGyZ39Y62cPig1xm2m6KL3u5iFUIse7.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/cvLHVFHMBpwgsT61CXQ8YITHQXO7u83KYAdrZwti.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/2toPbhIpWGd9HYekZPWhzPTCsdQdl4Mt82zbt7tO.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35293].addLayer(L.marker([47.173086318027, 12.138433456421], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35293/thumbnails/a0IuCVq65dUjiHtzDdqsi8iHDL28DvK33PkUuZL8.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.234279819474, 13.501750943688])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35292
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Glöcknerin, Vordere Großwandspitze</h1><div class="font-normal text-sm mt-0">am 07.04.2025</div><div class="font-normal text-sm mt-0">von Georg Abler</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35292">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35292] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35292].addLayer(L.marker([47.234279819474, 13.501750943688], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35292/thumbnails/2S3HqdMi1JMdZliZOszYoCTlKdbMYREejghJKzxA.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35292].addLayer(L.marker([47.234279819474, 13.501750943688], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35292/thumbnails/hhJ5QgOmHjJxIFIB2SWevGhJzCGOl0bZ7dianrSz.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35292].addLayer(L.marker([47.234279819474, 13.501750943688], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35292/thumbnails/DodX3p0OLvoeFKNM6RuJNK1JKyb5ZFnzXpdwwcg1.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35292].addLayer(L.marker([47.234279819474, 13.501750943688], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35292/thumbnails/U2oOgkTEDLBzjsE6BMUqssKjNbzw5WNVKdpEF14m.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35292].addLayer(L.marker([47.234279819474, 13.501750943688], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35292/thumbnails/aWBEQvRQzAqqotbrZtnPSbhJnqqSBcobwEsbqVDN.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.223051148249, 12.677192687988])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35291
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Rettinger, 2637m</h1><div class="font-normal text-sm mt-0">am 07.04.2025</div><div class="font-normal text-sm mt-0">von uta Philipp</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35291">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35291] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/vbZefB6wRGT1NizfgIs1DA9e8ngCkHaAOPkcSQ5e.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/IJ8bcYXQtC1s9p9Orlz2gcP8zrX6xek4xHNXTdiF.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/XJ61jRcGXPzLRk9pRs7BhfDreVfNCdUl1TZtA3FM.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/IzdKj8Vb6vPeeQSVjE5fmcPcPrhMhZLRkOJdXNyT.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/F1INafmS5I5WdnTYjyD9eFano94404dYxfaanLlX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/E6bGMpUBaF15wtCu7TIBdcbzv8V4hCfZIWCLwtrT.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/sLMx8SMDJ8KLZ7Qj1nxFXyRxMdpn5u4QHb8Wa4Et.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/hzKgoLDpBu7w8CwYyZTfKF6UdgBk7HqX8CKqUfCC.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35291].addLayer(L.marker([47.223051148249, 12.677192687988], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35291/thumbnails/Wr2B8B9taUsjSBNfBPJSWaLGUt1uzc1IzKN8KyGF.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.152256426181, 12.521438596887])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35290
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Hochgasser</h1><div class="font-normal text-sm mt-0">am 05.04.2025</div><div class="font-normal text-sm mt-0">von Klaus Einmayr</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35290">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35290] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/2AvzGuOfChI1mczKSu2Ulpn1AZ6TSLDJYgAKCsug.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/8fy6w66UIgY2iKaU6bRONfZzy7bvAxMDKfh2Zu7l.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/JAxsgDhWsfm8pKN8NxWbg0BNQtd5zPfjQBx11AId.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/e1q5jiQhixELv17WDmkYgrMIecbhW1Kh6pk3UOq9.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/zn6abMaQWiJMrfCK3mqieVMkmD1Bj1PbJgzrmlB1.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/b20qfKlY6vabCvbs6zGGsvMwmDgVRnkxoNd8l5f2.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/40zT8JwtIp3l3U5ZL5P46iLJdSF8Qq1BTHNuyAmp.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/b3l4apkbtggOfRNCybUnstismHu2twE6qVKrOBkF.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35290].addLayer(L.marker([47.152256426181, 12.521438596887], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35290/thumbnails/nC0wJ8GiohuEz3QNiUWmCbZ20J4ukKMgG8ya2Tfi.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.618972711449, 14.03163886127])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35289
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Großes Tragl (Totes Gebirge) 2184 m</h1><div class="font-normal text-sm mt-0">am 04.04.2025</div><div class="font-normal text-sm mt-0">von Johann Mitterhuber</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35289">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35289] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/ujnGPEx5Eh45hbSWJ21ynoIPoPcRcm7YdD3daHjJ.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/Y0GQaEWNU3f3tYQEZdIGma7xuzghM5ssPyodn4RY.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/FoYbokDASVJkltRtuxKSncQgroLSLFY4bMrUgI35.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/OTohvK7ils994dYdMq00RdAVlEOGqHET0CCUhwco.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/tzrVCwlkDgl4lDwxzIcgSbHkS3mNj5kDXEUhn9c7.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/oEO5qjGVgSKDllOtbWLcuJw6PA7dmNvoejXwvSUj.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/ZAC3TWNS874ywbrOedgXMqdrM36IAAa3TU4uqybe.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35289].addLayer(L.marker([47.618972711449, 14.03163886127], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35289/thumbnails/n2LJfmniouWG3voeoBIlVercdqbLeaWFsx0IexVK.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.447651792422, 14.402132034302])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35288
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Bösenstein-Nordlandschaft</h1><div class="font-normal text-sm mt-0">am 04.04.2025</div><div class="font-normal text-sm mt-0">von Andreas S.</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35288">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35288] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/KyKXFGTwFBQXGDc95Mh1iWBQwi8cUzB0uPHrTe5u.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/vOOPIIfbbJMoO3lV8ffa6kccrFB96DL0scrWKoeX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/yG0K7TFkUK4etz9hzFVX4J4SKMWHcnOlemOKJgco.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/FQoV1luoLskUtDDVfv426ohPtgVSuitsN9PDl5Kq.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/iwVS7FvVuCSgtCHnEv0NUaSfxOEjT7t1S2Kka28h.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/3s9qE1jZbOoKONn8Jpu9Vk9qmtmysRBZqvg8pWFx.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/SlWuNR8ZiLUyLRzkTSAGyxB461r6m58y2h46naFx.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35288].addLayer(L.marker([47.447651792422, 14.402132034302], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35288/thumbnails/nO0nSrYPI48pwAFGnd1YBiAHLZT6LC1vYxoLXWil.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.611070100577, 15.304624554155])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35287
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Karlkögerl, nordwestlicher Vorgipfel vom Hochanger bei Seewiesen</h1><div class="font-normal text-sm mt-0">am 04.04.2025</div><div class="font-normal text-sm mt-0">von Harald Schober</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35287">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35287] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/spKNdTXQV5qCkVLL94st1lAUNdMpKnTilpKeaCY3.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/JcU1K14VLfz8zn4epSwadEMamMNNX39UXHzhNUPz.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/UBvVfXf2rFLUBGcRdIxVbFZ4ocJxf2oh8ajYnO4c.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/l62mPBnCaLgea5adevpqrtTq0dI5jNkk8cN3NaJI.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/yr8bdUMCxOETJWGyGB6UbguFYozztUCHymgF0Hir.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/Av7PPg2ThVaCCc67Z7vrh1l9LAY5RRvK54Z9OJnZ.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/eKceX4MS3ph8IVbyODPcf5RZoOpFV3Fyyv3y5hcO.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/lm3nJ7T8UIMRAezTa4JHFmmv0Xkn6WCrAIBGT9A2.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35287].addLayer(L.marker([47.611070100577, 15.304624554155], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35287/thumbnails/lNuz0RLLpqmZdQ2BvGJFbMvmdS3HEKr5qj1klh9F.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.36715576444, 13.073293268681])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35286
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Schneebergrunde</h1><div class="font-normal text-sm mt-0">am 03.04.2025</div><div class="font-normal text-sm mt-0">von Hölzlwimmer Hermann</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35286">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35286] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/lPLh2pF08P0YNByLfn1qaxL6xzTS5iTo7YJIDV0g.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/TyBh2FiQNwI1XPqOs745I3YjlqIdm2Mg0g5UrCYn.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/V8WZfxpIkP3pmQoWH8iGD66yOEZmNY4abYjGwiHp.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/h9HFOXDECWuUqenfmFxTXQYx38vvSZhgI7wLcAtV.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/Xz9ii8eUR4xfu4ln4zUM4twiIBzG6h9Ssvhu4Fid.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/lTsdmV4MmByNX0mY4wzqzQEXItowcQkoQlJvPuhM.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/Ftc9XGfmu5u4GkaPBrIHjVFspbE6jYNPYbNP17KW.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/MAImLX0D2C130kzNraSStri9LM9bJWX9QbKLYxw5.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35286].addLayer(L.marker([47.36715576444, 13.073293268681], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35286/thumbnails/gggQSuCZ50Fd8pVhadktQYYxa0LPsZHB0x5bD8U9.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.682263239923, 13.214664459229])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35285
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Schlenken</h1><div class="font-normal text-sm mt-0">am 03.04.2025</div><div class="font-normal text-sm mt-0">von Vogl Helmut</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35285">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35285] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35285].addLayer(L.marker([47.682263239923, 13.214664459229], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35285/thumbnails/nTxbXHavbVBV0JsFD5oorWjyJpWv6YjLzlGyDnCB.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35285].addLayer(L.marker([47.682263239923, 13.214664459229], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35285/thumbnails/x4xRAa9uCHFborsIN2U3KNOosBHcQfqQ4MNjMOnT.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35285].addLayer(L.marker([47.682263239923, 13.214664459229], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35285/thumbnails/F6m7eZzK8SQZOgTQvsUh5qYtOVFETowHAtqJyz58.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.680645248138, 12.694648048841])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35280
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Sonntagshorn und Beidlkopf</h1><div class="font-normal text-sm mt-0">am 02.04.2025</div><div class="font-normal text-sm mt-0">von Helge Tschiedl</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35280">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35280] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/a8TM7WWCaMj0bcuorEJznyNvFuf8SNBbFmftpVem.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/UApgLnZDmVm5rS5ZICy6aioXfdhdwqiKlmLeQnGX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/vUdsflLSeyOmopr0Pz7XWomk5kBxr3Gq5f6XuFDP.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/PwD97kz5ZluvnriCJ3ZSzagerctNZHLjd596ljrb.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/angRHAsOCpcHy6bEktWZ196wTrma5gCoO3lWrAeB.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/ZDH57ZJAZYoHkvuubXXF8KJVVJknUj7PKQgaGIMw.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/gF70nyIeLUbLmHN0T9p59bDCtjVXetk2cjDJZWVy.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/cRVm4uTyo1mMC9m0SajGOAduofXEQVsDzW2vCPCP.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35280].addLayer(L.marker([47.680645248138, 12.694648048841], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35280/thumbnails/I1IpRkjzOUSXkhwyEckJMGD7Ih9MVq0ouWNk7cUq.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([46.825529640133, 14.991668679431])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35281
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Moschkogel 1916 m</h1><div class="font-normal text-sm mt-0">am 02.04.2025</div><div class="font-normal text-sm mt-0">von Harald Schober</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35281">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35281] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/069PSVDt6RkTJwpOKqEHLP4t1rL1lGsGgDWnrqql.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/OewXdHDg5IKLTGJMqXRWymnTwWCjYrbcicExaSa0.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/rpycsgEJ9CEiko3o7PkvnIUZ3Wv4fP5DVL2hot3e.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/3mBWuXwtcHDnST3Rhq0AaklOq0fZUOzZrJlcvFqR.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/RobCAoNDxanwjRJgXIGOWIa586ecE6dplomJQXCX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/XjB7CEe1guhBzgE0BdnEoZYpSnVIqtY7VZkgq4ea.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/L5GeqgXtoxWX9E0xIX53wfNEFN1dJ7jCoy7LEQmJ.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/cRIMBNQM6tFCqMV4TBYk85eFQf0hWk0Kcrpx39Jv.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35281].addLayer(L.marker([46.825529640133, 14.991668679431], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/kaernten/2025/35281/thumbnails/vulSGN9db9AZPz1WDNMsx897oBjirgw3v4yHZu2h.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.3304609352, 12.602412700653])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35282
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Medalkogel, 2123m</h1><div class="font-normal text-sm mt-0">am 02.04.2025</div><div class="font-normal text-sm mt-0">von uta Philipp</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35282">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35282] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/8t2YsTG9VcvwiUXlYftVK2cJbDOaJo07lOPf5yEM.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/lgDPQjfsOq2KNP1LAgDNcw3HOZjHhK6Bh12WKpjK.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/qYRJY3zDDq8xFMapxBuiM5LJy0CePxTjwVoF6DNn.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/VXUS2jMsceHVoFfwXpizgyt1W4m7uUr0lvSyG0J9.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/TL0zVz16l4ASaOv6jdnFHAnfokoffOOZf3n633S4.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/wJrdbxOCou2geL2tirqmjmrw2tjeVNzGoDr9TS7e.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/d14kFTcGT0N9X9c9N3UXNXqN4h9YU07Mgj7rWKeU.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/ZQIOBdtZzxkDXSWpSa0f4iDJdq05MeBUifp4PUYR.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35282].addLayer(L.marker([47.3304609352, 12.602412700653], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/salzburg/2025/35282/thumbnails/DhU1U55B27YZhDm7NCMzxpLJhc0T6iY58qrFvD8C.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.483595251523, 13.610204934137])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35284
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Randkluft Dachstein - oberer Eissee</h1><div class="font-normal text-sm mt-0">am 02.04.2025</div><div class="font-normal text-sm mt-0">von martin, karo gaisl</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35284">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35284] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/I3Jx84k4Tofth1X6ojweudP5He0LKX7IIOQFKb94.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/PAui3ZwxdRsAMUoBObxvyDEjDlVoK2yeRyWPBAtB.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/8JIFfMhMxKKX1YNTnLGve782GsDHD789xlaVJySN.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/kmdujLsUi2uuFaMXNIearha669DkMNjqYHxxc16a.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/RRyDbpns2cou5OCHzGWuO2EHTwmdAfaBSu7zKyC0.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/Rgtg3hI0d9dO6vRWfWa4dooZl0M1IbyibC2Ad8vh.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35284].addLayer(L.marker([47.483595251523, 13.610204934137], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/oberoesterreich/2025/35284/thumbnails/eRt7OOwQDKRCHgezrAOLoZiBiBCmWmYN4drwQgEz.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                                                            markerCluster.addLayer(L.marker([47.268381628575, 11.742553707445])
+                                    .on('click', function (event) {
+                                        var clickedTour = new CustomEvent('clickedTour', {
+                                            detail: 35283
+                                        });
+                                        event.originalEvent.currentTarget.dispatchEvent(clickedTour);
+                                    })
+                                    .bindPopup('<h1 class="font-medium text-sm mt-0">Gilfert</h1><div class="font-normal text-sm mt-0">am 02.04.2025</div><div class="font-normal text-sm mt-0">von Klaus Einmayr</div><div class="font-normal text-sm mt-0"><a class="cursor-pointer" data-toggle-layer="35283">Bilder auf Karte zeigen</a></div>')
+                                );
+                                photoMarkerClusters[35283] = L.markerClusterGroup({
+                                    spiderfyOnMaxZoom: true,
+                                });
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/gwsGMNqa3RWCfV7bh6LbYrCHBwNLKJPq78ftEfJ3.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/55qFwGA4zENwqbaLmuFEPpqXk48m8Js5Hm0TqsK7.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/luFs4YtN7P3rcrQQFlus3tsbT18Box1pCdxZS9gX.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/kNuiXKobhvyJB3i6BKcM9wS0NI9PhwN997b6dTd9.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/a48T3sclWVXOGLTtuSasTSP5w7QB0JYPF1kBM5Vj.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/vLjAZV6AUFRalCP5FoTdGmFNtvLmsGYNJQZ0fPXq.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/XUd90HUlAPvRHqqJHcPrNknzQivlmbKyCB5gwDWW.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/TABlRmFsM6rxMojSPysxT6pisvfj18Sc6twla5f6.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                photoMarkerClusters[35283].addLayer(L.marker([47.268381628575, 11.742553707445], {icon: photoIcon}).bindPopup('<figure class="w-full h-auto"><div class="aspect-w-3 aspect-h-2"><img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/others/2025/35283/thumbnails/2ZV1BKe5qMdOA6ZHLdrvp66IJhjUghn3bW2Gw2Yz.jpg" class="w-full h-full object-contain"></a></div><figcaption class="mt-1 text-xs font-light text-center">Keine GPS Daten!</figcaption></figure>', {minWidth : 150}));
+                                                                                                                        mymap.addLayer(markerCluster);
+
+                            document.getElementById('mapid').addEventListener('click', (e) => {
+                                e.currentTarget.querySelectorAll('[data-toggle-layer]').forEach(function (possibleTarget) {
+                                    if (possibleTarget == e.target) {
+                                        e.preventDefault();
+                                        console.log("Clicked on show images", e.target);
+                                        var markerId = e.target.dataset.toggleLayer
+                                        console.log("Marker ID", markerId);
+                                        mymap.removeLayer(markerCluster);
+                                        mymap.addLayer(photoMarkerClusters[markerId]);
+
+                                        L.Control.ToggleBack = L.Control.extend({
+                                            options: {
+                                                position: 'bottomleft',
+                                            },
+
+                                            onAdd: function(map) {
+                                                var button = L.DomUtil.create('button');
+
+                                                button.type = 'button';
+                                                button.classList.add('rounded-sm');
+                                                button.classList.add('bg-white');
+                                                button.classList.add('p-1');
+                                                button.textContent = 'Zurück zu den Touren';
+
+                                                var that = this;
+                                                L.DomEvent
+                                                    .addListener(button, 'click', L.DomEvent.stopPropagation)
+                                                    .addListener(button, 'click', L.DomEvent.preventDefault)
+                                                    .addListener(button, 'click', function () {
+                                                        console.log("Clicked on back button", that.options.current_layer);
+
+                                                        map.removeLayer(that.options.current_layer);
+                                                        map.addLayer(markerCluster);
+                                                        map.removeControl(that);
+                                                    });
+
+                                                return button;
+                                            },
+
+                                            onRemove: function(map) {
+                                            }
+                                        });
+
+                                        L.control.toggleBack = function(opts) {
+                                            return new L.Control.ToggleBack(opts);
+                                        }
+
+                                        L.control.toggleBack({ position: 'bottomleft', current_layer: photoMarkerClusters[markerId] }).addTo(mymap);
+                                    }
+                                });
+                            });
+                        });
+                    </script>
+                </section>
+
+                <section class="mt-0">
+                    <div class="overflow-y-auto h-96">
+                        <table class="w-full border-collapse border-none text-sm">
+                            <thead>
+                            <tr>
+                                <th class="px-1.5 border-none font-bold text-left text-white bg-blue-600">Datum</th>
+                                <th class="px-1.5 border-none font-bold text-left text-white bg-blue-600">Bundesland</th>
+                                <th class="px-1.5 border-none font-bold text-left text-white bg-blue-600">Verfasser</th>
+                                <th class="px-1.5 border-none font-bold text-left text-white bg-blue-600">Tour</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer bg-blue-400 text-white" data-href="https://skitourenportal.eu/beitrag/35295">
+                                    <td class="px-1.5">09.04.2025</td>
+                                    <td class="px-1.5">Steiermark</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/703" title="Alle Touren von martin, karo gaisl anzeigen" data-href-excluded>martin, karo gaisl</a></td>
+                                    <td class="px-1.5">Schitourenschaukel Edelgrieß-obere Schwadering</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35294">
+                                    <td class="px-1.5">09.04.2025</td>
+                                    <td class="px-1.5">Steiermark</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/3594" title="Alle Touren von sugarless anzeigen" data-href-excluded>sugarless</a></td>
+                                    <td class="px-1.5">Scharnitzfeld</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35293">
+                                    <td class="px-1.5">08.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/184" title="Alle Touren von uta Philipp anzeigen" data-href-excluded>uta Philipp</a></td>
+                                    <td class="px-1.5">Wildkarspitze, 3073m</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35292">
+                                    <td class="px-1.5">07.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/2286" title="Alle Touren von Georg Abler anzeigen" data-href-excluded>Georg Abler</a></td>
+                                    <td class="px-1.5">Glöcknerin, Vordere Großwandspitze</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35291">
+                                    <td class="px-1.5">07.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/184" title="Alle Touren von uta Philipp anzeigen" data-href-excluded>uta Philipp</a></td>
+                                    <td class="px-1.5">Rettinger, 2637m</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35290">
+                                    <td class="px-1.5">05.04.2025</td>
+                                    <td class="px-1.5"></td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/1069" title="Alle Touren von Klaus Einmayr anzeigen" data-href-excluded>Klaus Einmayr</a></td>
+                                    <td class="px-1.5">Hochgasser</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35289">
+                                    <td class="px-1.5">04.04.2025</td>
+                                    <td class="px-1.5">Steiermark</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/1241" title="Alle Touren von Johann Mitterhuber anzeigen" data-href-excluded>Johann Mitterhuber</a></td>
+                                    <td class="px-1.5">Großes Tragl (Totes Gebirge) 2184 m</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35288">
+                                    <td class="px-1.5">04.04.2025</td>
+                                    <td class="px-1.5">Steiermark</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/3736" title="Alle Touren von Andreas S. anzeigen" data-href-excluded>Andreas S.</a></td>
+                                    <td class="px-1.5">Bösenstein-Nordlandschaft</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35287">
+                                    <td class="px-1.5">04.04.2025</td>
+                                    <td class="px-1.5">Steiermark</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/3648" title="Alle Touren von Harald Schober anzeigen" data-href-excluded>Harald Schober</a></td>
+                                    <td class="px-1.5">Karlkögerl, nordwestlicher Vorgipfel vom Hochanger bei Seewiesen</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35286">
+                                    <td class="px-1.5">03.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/1748" title="Alle Touren von Hölzlwimmer Hermann anzeigen" data-href-excluded>Hölzlwimmer Hermann</a></td>
+                                    <td class="px-1.5">Schneebergrunde</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35285">
+                                    <td class="px-1.5">03.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/2369" title="Alle Touren von Vogl Helmut anzeigen" data-href-excluded>Vogl Helmut</a></td>
+                                    <td class="px-1.5">Schlenken</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35280">
+                                    <td class="px-1.5">02.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/2816" title="Alle Touren von Helge Tschiedl anzeigen" data-href-excluded>Helge Tschiedl</a></td>
+                                    <td class="px-1.5">Sonntagshorn und Beidlkopf</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35281">
+                                    <td class="px-1.5">02.04.2025</td>
+                                    <td class="px-1.5">Kärnten</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/3648" title="Alle Touren von Harald Schober anzeigen" data-href-excluded>Harald Schober</a></td>
+                                    <td class="px-1.5">Moschkogel 1916 m</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35282">
+                                    <td class="px-1.5">02.04.2025</td>
+                                    <td class="px-1.5">Salzburg</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/184" title="Alle Touren von uta Philipp anzeigen" data-href-excluded>uta Philipp</a></td>
+                                    <td class="px-1.5">Medalkogel, 2123m</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35284">
+                                    <td class="px-1.5">02.04.2025</td>
+                                    <td class="px-1.5">Oberösterreich</td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/703" title="Alle Touren von martin, karo gaisl anzeigen" data-href-excluded>martin, karo gaisl</a></td>
+                                    <td class="px-1.5">Randkluft Dachstein - oberer Eissee</td>
+                                </tr>
+                                                            <tr class="hover:bg-blue-400 hover:text-white cursor-pointer even:bg-blue-50" data-href="https://skitourenportal.eu/beitrag/35283">
+                                    <td class="px-1.5">02.04.2025</td>
+                                    <td class="px-1.5"></td>
+                                    <td class="px-1.5"><a href="https://skitourenportal.eu/benutzer/1069" title="Alle Touren von Klaus Einmayr anzeigen" data-href-excluded>Klaus Einmayr</a></td>
+                                    <td class="px-1.5">Gilfert</td>
+                                </tr>
+                                                        </tbody>
+                        </table>
+                    </div>
+                    <nav role="navigation" aria-label="Pagination Navigation" class="mt-2 p-2 flex justify-between bg-blue-100">
+        
+                    <span class="relative inline-flex items-center px-4 text-sm font-medium text-gray-500 cursor-default leading-5">
+                &laquo; Zurück
+            </span>
+        
+        
+                    <a href="https://skitourenportal.eu?page=2" rel="next" class="relative inline-flex items-center px-4 text-sm font-medium text-gray-700 leading-5 hover:text-gray-500 focus:outline-none active:text-gray-700 transition ease-in-out duration-150">
+                Weiter &raquo;
+            </a>
+            </nav>
+
+                </section>
+            </div>
+            <div class="w-full md:w-7/12" id="details">
+                                    <section>
+    <h1 class="w-full p-1 text-sm text-white bg-blue-600 flex items-center" x-data="{}"><span class="inline-block">Schitourenschaukel Edelgrieß-obere Schwadering, 09.04.2025, martin, karo gaisl</span></h1>
+    <div class="flex flex-wrap mt-1 -mx-0.5">
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Edelgrieß"
+                        data-description="bestens ausgeschneit"
+                        data-caption="Edelgrieß: bestens ausgeschneit"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/CuhHVJNyiww1SNGCLKYm0Xb03jZ9DfauWKmtpKaT.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/nLYN1rko0lXX7LtW5JOdxyyMjcAtdp4ZzclW5imz.jpg" class="w-full h-full object-contain" alt="Edelgrieß">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Edelgrieß</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            bestens ausgeschneit
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="hinterer Türlspitz"
+                        data-description="bei NW Wind"
+                        data-caption="hinterer Türlspitz: bei NW Wind"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/8HWDSfmE8Jpob0ODH6SQOjFuy6Q4t1K0tCIfKAl3.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/XaKTm1v0yCxGbI76aNIs4Fsv0M1QUUYBMzzeD4HF.jpg" class="w-full h-full object-contain" alt="hinterer Türlspitz">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">hinterer Türlspitz</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            bei NW Wind
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Abfahrtsvariante Schwadering"
+                        data-description="erscheint eher ruppig"
+                        data-caption="Abfahrtsvariante Schwadering: erscheint eher ruppig"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/KggBvy0awtAnzltjFqs7bTVG7JcJ5gZLl8kDRDWl.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/NUvogK8WDJLKnErGujcisgSSNSpo8OttvPChuZi3.jpg" class="w-full h-full object-contain" alt="Abfahrtsvariante Schwadering">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Abfahrtsvariante Schwadering</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            erscheint eher ruppig
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="zweite Abfahrtsvariante Schwadering"
+                        data-description="schattseitig noch Pulverreste, nach der Rinne herauskreuzen in die Firnhänge unter der Seilbahn"
+                        data-caption="zweite Abfahrtsvariante Schwadering: schattseitig noch Pulverreste, nach der Rinne herauskreuzen in die Firnhänge unter der Seilbahn"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/B6qWSgyPLoO7Ukmhk9Z0RvObNrjcVTIcxz8opJQM.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/Z1Sc83GceyNBghBt6byVcVMqVvvSUtx6YSi5mKiv.jpg" class="w-full h-full object-contain" alt="zweite Abfahrtsvariante Schwadering">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">zweite Abfahrtsvariante Schwadering</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            schattseitig noch Pulverreste, n&hellip;
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Butterfirn"
+                        data-description="unter der Seilbahn"
+                        data-caption="Butterfirn: unter der Seilbahn"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/krpsheVjrCR8fY22lryyepNfKwTGZNRuvXUFPpEk.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/v1VImZk4BxYS0nwnWyRlystO8NwBcGWO3PHH3yOd.jpg" class="w-full h-full object-contain" alt="Butterfirn">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Butterfirn</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            unter der Seilbahn
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Wanderweg Südwandhütte"
+                        data-description="lädt zum schattigen Verweilen ein"
+                        data-caption="Wanderweg Südwandhütte: lädt zum schattigen Verweilen ein"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/WOyNrwYlQ0oHgfSvK01k3yY1vTgjLe4D8aGEM6N8.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/2OMKc0JN8PHT4BUGIU8oafkDPeinYUwuB0wuV8yy.jpg" class="w-full h-full object-contain" alt="Wanderweg Südwandhütte">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Wanderweg Südwandhütte</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            lädt zum schattigen Verweilen ein
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Schneesituation Lahnfriedtal, Koppenkar"
+                        data-description=""
+                        data-caption="Schneesituation Lahnfriedtal, Koppenkar: "
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/aVpfXlS0r271PsIrG3bhyZixABq3TaGqYNLIT8sI.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/6FORW0riaBTQ785xdngRrOimr1hoT9TkU0dSsN7V.jpg" class="w-full h-full object-contain" alt="Schneesituation Lahnfriedtal, Koppenkar">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Schneesituation Lahnfriedtal, Koppenkar</h3>
+                        
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="Kramllahn"
+                        data-description="Knolllawine im oberen Bereich"
+                        data-caption="Kramllahn: Knolllawine im oberen Bereich"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/DqKZGnib1EgdLDdmsfR3YXEqn496KMO5X66rjIkW.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/Sp9diRmaRvEQAXE8d0N3btfBw3kHsjqgohsb6p1n.jpg" class="w-full h-full object-contain" alt="Kramllahn">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">Kramllahn</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            Knolllawine im oberen Bereich
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+                    <figure class="w-1/3 mb-2 px-0.5">
+                <div class="aspect-w-3 aspect-h-2">
+                    <a
+                        class="gallery"
+                        data-title="eine Art Büßerschnee"
+                        data-description="bereits nahe Edelbrunn"
+                        data-caption="eine Art Büßerschnee: bereits nahe Edelbrunn"
+                        href="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/lightbox/lXNJQn691oZpsNlyZJIefAHweJEpiNCEbcLAgTuA.jpg"
+                    >
+                        <img src="https://skitourenportal.s3.eu-central-1.amazonaws.com/steiermark/2025/35295/thumbnails/puf7I11EVit1EBwUCeJKomhWO5dfzjPZImyaze1s.jpg" class="w-full h-full object-contain" alt="eine Art Büßerschnee">
+                    </a>
+                </div>
+                    <figcaption class="mt-1 text-xs font-light" data-rating-app>
+                                                    <h3 class="text-sm font-semibold overflow-hidden">eine Art Büßerschnee</h3>
+                        
+                                                <p class="text-sm overflow-hidden">
+                            bereits nahe Edelbrunn
+                        </p>
+                        
+                                            </figcaption>
+            </figure>
+            </div>
+</section>
+<section class="mt-2">
+        <h1 class="mb-1 text-base font-bold">Tourenbeschreibung</h1>
+        <div class="text-sm leading-tight text-justify space-y-1">
+        <p>Aufbruch aufgrund der schlechten Wetterprognose bereits um 0830 an der Talstation. Kurzer Fußweg zum ersten Schnee im Brandkar, ab dann durchgehend Schnee.&nbsp;Erste Steilstufe pickelhart, somit, wie so oft, lieber gemütlich mit Steigeisen als in Absturzgefahr mit Schi. Zweite Steilstufe problemlos, da bereits in der Sonne, Osthang teilweise noch (trieb-)pulvrig, aber komplett im (Lee-)Nebel, gut gespurt. Abfahrt Schwadering ein Genuss, schattseitig noch hart. Kurzer Unterbrecher bei (versicherter) Stelle ansonst durchgehende Abfahrt bis Talstation.&nbsp;Bei Wiederanstieg zum Gasserl ist eine Abfahrt bis nahe Edelbrunn (10min) über die Lawinenstriche der&nbsp;Kramllahn möglich.</p>
+    </div>
+</section>
+<section class="mt-2">
+    <h1 class="mb-1 text-base font-bold">Schnee- und Lawinensituation</h1>
+    <div class="text-sm leading-tight text-justify space-y-1">
+        <p>Nach dem zweiten (!) größeren Schneefall in diesem Winter&nbsp;hat sich der Pulver sonnseitig, auch ohne Unterlage,&nbsp;bei kalten Temperaturen in tragfähigen Firn umgewandelt und ist nicht wie sonst um diese Jahreszeit üblich, gleich dahingeschmolzen. Tagesgang der süd und westseitigen Lawinen, wenngleich es heute aufgrund der Abschattung ab Mittag gefahrlos&nbsp;blieb.</p>
+    </div>
+</section>
+<section class="mt-3 text-sm" x-data="{ editComment: null }">
+    <h1 class="p-1 text-sm text-white bg-blue-600">Kommentare</h1>
+        </section>
+                            </div>
+        </div>
+    </div>
+            </main>
+
+            <footer class="mt-12 mb-6 p-8 bg-gray-50 rounded-lg space-y-8">
+                                    <ul class="flex flex-wrap justify-center items-center">
+    <li class="m-2"><a href="https://skitourenportal.eu/salzburg" target="_blank"><img height="50" src="/images/coat-of-arms/sbg_wap.png" alt="Salzburg"></a></li>
+    <li class="m-2"><a href="https://skitourenportal.eu/oberoesterreich" target="_blank"><img height="70" src="/images/coat-of-arms/ooe_wap.png" alt="Oberösterreich"></a></li>
+    <li class="m-2"><a href="https://skitourenportal.eu/niederoesterreich" target="_blank"><img height="60" src="/images/coat-of-arms/noe_wap.png" alt="Niederösterreich"></a></li>
+    <li class="m-2"><a href="https://skitourenportal.eu/kaernten" target="_blank"><img height="40" src="/images/coat-of-arms/ktn_wap.png" alt="Kärnten"></a></li>
+    <li class="m-2"><a href="https://skitourenportal.eu/steiermark" target="_blank"><img height="50" src="/images/coat-of-arms/stmk_wap.png" alt="steiermark"></a></li>
+</ul>
+                
+                <p class="text-center">
+                    <a href="https://skitourenportal.eu/impressum" class="text-sm" title="Datenschutz &amp;amp; Impressum">Datenschutz &amp; Impressum</a>
+                </p>
+            </footer>
+        </div>
+        <script src="/js/app.js?id=d889a16ac210d08921ca" defer></script>
+    </body>
+</html>
