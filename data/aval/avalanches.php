@@ -5,7 +5,7 @@
 
 		for ($i=1; $i<75; ++$i)
 		{
-			$textall=file_get_contents("https://rpcache-aa.meteofrance.com/internet2018client/2.0/snow?massif=$i&token=$token");
+			$textall=file_get_contents("https://rwg.meteofrance.com/internet2018client/2.0/snow?massif=$i&token=$token");
 			$obj = json_decode($textall, true);
 			$massif = $obj['properties']['massif_name'];
 			if($massif != '')
@@ -26,12 +26,21 @@
 	}
 
 	$fichier = __DIR__ . '/donnees.txt';
-	$fi = stat($fichier);
-	// si le data existe est a plus d'une heure on fait un update
-	if($fi[9] == 0 || time()-$fi[9]>3600) {$lignes = updateMF();echo "<p style='text-align:right;font-style:italic;font-size:0.7em'>Mise à jour du ". date('D j F Y à G:i:s',time()) ."</p>";}
-	else {$lignes = file($fichier);echo "<p style='text-align:right;font-style:italic;font-size:0.7em'>Mise à jour du ". date('D j F Y à G:i:s',$fi[9]) ."</p>";}
-	echo '<div class="x2x"><div class="tab">';
+	$lastM = (int) filemtime($fichier);
+	$now = time();
+	$hour = date('G');
 
+	if ($lastM == 0 || ($now - $lastM >= 3600 && ($hour < 12 || $hour >= 16))) {
+		$lignes = updateMF();
+		$updateTime = $now;
+	}
+	else {
+		$lignes = file($fichier);
+		$updateTime = $lastM;
+	}
+
+	echo "<p style='text-align:right;font-style:italic;font-size:0.7em'>Mise à jour du ". date('l j F Y à G:i:s', $updateTime)."</p>";
+	echo '<div class="x2x"><div class="tab">';
 	echo '<table class="nivo">';
 	echo '<tr><th>Alpes</th><th>Risque</th><th>Nord</th><th>Sud</th></tr>';
 
