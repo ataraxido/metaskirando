@@ -86,7 +86,7 @@ Les stations automatiques de Météo France sont disséminées dans les montagne
 
 <?php
   function getNivoseLink($tag, $full = false) {
-  	$link = 'https://rpcache-aa.meteofrance.com/internet2018client/2.0/files/mountain/observations/';
+  	$link = 'https://rwg.meteofrance.com/internet2018client/2.0/files/mountain/observations/';
   	$link .= strtoupper($tag);
   	$link .= $full ? '' : 'S';
   	$link .= '.gif';
