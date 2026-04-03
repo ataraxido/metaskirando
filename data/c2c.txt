@@ -1,954 +1,1842 @@
-c2c 1851578
-2025-11-28 3.1
-Traversée d'anthologie Rochers de Naye - La Tine
-https://www.camptocamp.org/outings/1851578
+c2c 1890518
+2026-04-03 nc
+Monte Lastroni : Da S
+https://www.camptocamp.org/outings/1890518
+Alpes Carniques et Alpes de Gailtal
+Stefano Flamia
+c2c 1890475
+2026-04-03 3.2
+Pène Blanque et pic d'Oncet
+https://www.camptocamp.org/outings/1890475
+Bigorre - Ordesa
+yann44
+c2c 1890426
+2026-04-03 3.1
+Le Tarent : Versant N (Voie normale), descente par les Becques
+https://www.camptocamp.org/outings/1890426
 Alpes Vaudoises
-Eva
-c2c 1851576
-2025-11-28 4.2
-Pène det Pouri : Depuis Sers
-https://www.camptocamp.org/outings/1851576
-Bigorre - Ordesa
-Molopolo
-c2c 1851566
-2025-11-28 2.2
-Mont Flassin : Per le baite di Montagna Flassin e il pendio W
-https://www.camptocamp.org/outings/1851566
-Valais W - Alpes Pennines W
-Fabrizio Mantovani
-c2c 1851552
-2025-11-28 4.1
-Montagne de Sous-Dine : Les couennes du Monthieu
-https://www.camptocamp.org/outings/1851552
-Bornes - Aravis
-Laurent
-c2c 1851517
-2025-11-28 4.1
-Pic du Tourmalet : Couloir W
-https://www.camptocamp.org/outings/1851517
-Bigorre - Ordesa
-Jean Roule
-c2c 1851512
-2025-11-28 4.3
-Grand Barbat : Couloir Est Breche du Barbat sur lac d’Ilheou
-https://www.camptocamp.org/outings/1851512
-Bigorre - Ordesa
-Ours.pyreneen
-c2c 1851511
-2025-11-28 3.2
-Carraye : Depuis Cretton par le Pas des Moutons
-https://www.camptocamp.org/outings/1851511
+Evi
+c2c 1890413
+2026-04-03 2.3
+Tête de Lapras : Face S par le Vallon du Mas
+https://www.camptocamp.org/outings/1890413
+Dévoluy
+Acharnay
+c2c 1890394
+2026-04-03 5.1
+Roc de Tavaneuse : Couloir NW & Face NW de l'arête N
+https://www.camptocamp.org/outings/1890394
+Chablais
+steph3668
+c2c 1890368
+2026-04-03 4.3
+Monts Jovet : Couloir W de la Pointe S (2368m)
+https://www.camptocamp.org/outings/1890368
 Mont-Blanc
-Philip N
-c2c 1851510
-2025-11-28 nc
-Crête des Plagnes : depuis le Collet d'Allevard
-https://www.camptocamp.org/outings/1851510
-Belledonne
-Acharnay
-c2c 1851498
-2025-11-28 2.1
-Crête de Brouffier : Versant W
-https://www.camptocamp.org/outings/1851498
-Taillefer - Armet
-Mathieu des Noes
-c2c 1851497
-2025-11-28 3.3
-Crête des Îlettes : Versant W par le Col de l'Aigleton
-https://www.camptocamp.org/outings/1851497
-Belledonne
-Martin Gerbaux
-c2c 1851469
-2025-11-28 4.1
-Bel Oiseau : Couloir NE
-https://www.camptocamp.org/outings/1851469
-Haut Giffre - Aiguilles Rouges - Fiz
-Damien Theytaz
-c2c 1851468
-2025-11-28 3.1
-Cape au Moine (des Verraux) : En traversée, Les Cases > Les Avants
-https://www.camptocamp.org/outings/1851468
-Alpes Vaudoises
-aspahr
-c2c 1851446
-2025-11-28 3.3
-Belle Etoile S->E et Crête des Ilettes E->W depuis Prabert
-https://www.camptocamp.org/outings/1851446
-Belledonne
-agnes H
-c2c 1851425
-2025-11-28 4.1
-Rocheboc : Couloirs ENE
-https://www.camptocamp.org/outings/1851425
-Beaufortain
-hosanniere
-c2c 1851417
-2025-11-28 3.1
-Col d'Aoube Bédéra La Grande Combe
-https://www.camptocamp.org/outings/1851417
-Bigorre - Ordesa
-janic
-c2c 1851412
-2025-11-28 1.3
-Dôme de Vaugelaz : Versant W
-https://www.camptocamp.org/outings/1851412
-Beaufortain
-Patrice Davoine
-c2c 1851456
-2025-11-27 2.2
-Cima della Fascia : Vallone del Cross
-https://www.camptocamp.org/outings/1851456
-Alpes Ligures
-Paolo74
-c2c 1851387
-2025-11-27 2.3
-Aiguillette des Houches : Depuis le Bettey
-https://www.camptocamp.org/outings/1851387
-Haut Giffre - Aiguilles Rouges - Fiz
-Christian
-c2c 1851367
-2025-11-27 2.1
-Garten : Depuis Jaun
-https://www.camptocamp.org/outings/1851367
+chaouen
+c2c 1890361
+2026-04-03 2.1
+Petit Pic des Moines et boucle autour d'Astún
+https://www.camptocamp.org/outings/1890361
+Béarn - Balaïtous - Partacua
+Julien
+c2c 1890358
+2026-04-03 4.1
+Teysachaux : Couloir S
+https://www.camptocamp.org/outings/1890358
 Préalpes Fribourgeoises - Bernoises
-Thierry Van Mol
-c2c 1851352
-2025-11-27 2.1
-La Dôle : En zig et zag
-https://www.camptocamp.org/outings/1851352
-Jura
-Bourdot
-c2c 1851347
-2025-11-27 nc
-Touyaroles
-https://www.camptocamp.org/outings/1851347
-Bigorre - Ordesa
-Tanguy tango
-c2c 1851343
-2025-11-27 3.3
-Sondage sous Pene Blanque  (vallée de Badet)
-https://www.camptocamp.org/outings/1851343
-Bigorre - Ordesa
-Météo-France Tarbes
-c2c 1851331
-2025-11-27 2.1
-Haut-Crêt N : En boucle  SE - NE
-https://www.camptocamp.org/outings/1851331
-Préalpes Fribourgeoises - Bernoises
-Patrick Vuilleumier
-c2c 1851324
-2025-11-27 4.1
-Gassère d'Aoube : Premier couloir E - Pasikon et face SW Bonida
-https://www.camptocamp.org/outings/1851324
-Bigorre - Ordesa
-Molopolo
-c2c 1851306
-2025-11-27 nc
-Soum de Lascours : Combe NW
-https://www.camptocamp.org/outings/1851306
-Bigorre - Ordesa
-thibault 64
-c2c 1851297
-2025-11-27 3.1
-Pic d'Ourdégon : Couloir E + Pic de Moutara
-https://www.camptocamp.org/outings/1851297
-Bigorre - Ordesa
-Ours.pyreneen
-c2c 1851296
-2025-11-27 1.3
-Col de la forclaz depuis Arêches par la Tête de Cuvy
-https://www.camptocamp.org/outings/1851296
-Beaufortain
-Acharnay
-c2c 1851281
-2025-11-27 3.2
-Mont Colombier : Versant W par le col de la Cochette
-https://www.camptocamp.org/outings/1851281
-Bauges
-Benoît Landeche
-c2c 1851242
-2025-11-27 nc
-Tour de l'Alpe du Grand Serre (Grand Serre, Pérollier,...)
-https://www.camptocamp.org/outings/1851242
-Taillefer - Armet
-agnes H
-c2c 1851241
-2025-11-27 2.1
-Pointe d'Andey : boucle depuis le plateau de solaison
-https://www.camptocamp.org/outings/1851241
-Bornes - Aravis
-Sophie Ferlin
-c2c 1851236
-2025-11-27 2.2
-Re pointe du Château x2
-https://www.camptocamp.org/outings/1851236
-Bornes - Aravis
-meije_23
-c2c 1851235
-2025-11-27 1.1
-Mont Bisanne : La Légette
-https://www.camptocamp.org/outings/1851235
-Beaufortain
-christian73
-c2c 1851228
-2025-11-27 2.1
-Monts Chevreuils : Versant N
-https://www.camptocamp.org/outings/1851228
-Alpes Vaudoises
-René Schwitzguebel
-c2c 1851227
-2025-11-27 1.2
-Tricotage au Gros Morond
-https://www.camptocamp.org/outings/1851227
-Jura
-m.minary
-c2c 1851198
-2025-11-27 nc
-Alba al San Primo
-https://www.camptocamp.org/outings/1851198
-Bündner Oberland - Adula - Tessin E
-Riccardo Ugo
-c2c 1851196
-2025-11-27 nc
-ski en station
-https://www.camptocamp.org/outings/1851196
-Bigorre - Ordesa
-yann44
-c2c 1851187
-2025-11-27 2.2
-Croisse Baulet : Depuis Megève ou Combloux
-https://www.camptocamp.org/outings/1851187
-Bornes - Aravis
-powder74
-c2c 1851134
-2025-11-27 4.1
-Grand Châtelet - Sommet S : Couloir W en boucle
-https://www.camptocamp.org/outings/1851134
-Beaufortain
-hosanniere
-c2c 1851133
-2025-11-27 3.1
-Pic Wilson : Traversée S-N
-https://www.camptocamp.org/outings/1851133
-Bigorre - Ordesa
-Clement Marcel
-c2c 1851119
-2025-11-27 2.1
-Le Taoulet et variantes autour de la Mongie
-https://www.camptocamp.org/outings/1851119
-Bigorre - Ordesa
-misscharlie
-c2c 1851101
-2025-11-27 1.2
-Cargo-ski Palezieux Le Niremont
-https://www.camptocamp.org/outings/1851101
-Préalpes Fribourgeoises - Bernoises
-Bertrand
-c2c 1851100
-2025-11-27 1.1
-Tuc des Arribans & Escalabor
-https://www.camptocamp.org/outings/1851100
-Bigorre - Ordesa
-janic
-c2c 1851094
-2025-11-27 2.1
-Pointe de Pelluaz : Par les pistes
-https://www.camptocamp.org/outings/1851094
+Camillo
+c2c 1890357
+2026-04-03 4.1
+Pizzo Diei : Bocchetta di Diei / Monte Cistella da Esigo
+https://www.camptocamp.org/outings/1890357
+Alpes Tessinoises - Conches - Goms
+Raffaello Scavini
+c2c 1890353
+2026-04-03 5.1
+Pointe de Chalune : Couloir du Thermos (Face W directe)
+https://www.camptocamp.org/outings/1890353
 Chablais
-sylvain brondex
-c2c 1851295
-2025-11-26 2.1
-Cap de Pales : Depuis Peyresourde
-https://www.camptocamp.org/outings/1851295
-Luchon - Posets - Maladeta - Aigüestortes
-william
-c2c 1851046
-2025-11-26 2.2
-Les Matelas depuis Romme
-https://www.camptocamp.org/outings/1851046
-Bornes - Aravis
-powder74
-c2c 1851041
-2025-11-26 3.1
-Col de l'Ayré : Couloir du Chinois
-https://www.camptocamp.org/outings/1851041
-Bigorre - Ordesa
-yann44
-c2c 1851029
-2025-11-26 1.2
-Chasseron - Petites Roches - Mont de la Maya
-https://www.camptocamp.org/outings/1851029
-Jura
-Apoutsiak
-c2c 1851022
-2025-11-26 1.3
-Presque Pointe de Veran : Par les pistes depuis Sommand
-https://www.camptocamp.org/outings/1851022
+Monod ch
+c2c 1890352
+2026-04-03 5.1
+Pointe de la Chavache : Couloir NW
+https://www.camptocamp.org/outings/1890352
 Chablais
-Sophie Ferlin
-c2c 1850972
-2025-11-26 2.2
-Pointe du Château : depuis Brion
-https://www.camptocamp.org/outings/1850972
-Bornes - Aravis
-meije_23
-c2c 1850960
-2025-11-26 2.2
-Cime de Touyarolles
-https://www.camptocamp.org/outings/1850960
+Schelsohn
+c2c 1890340
+2026-04-03 3.2
+Brèche du Bloc Coincé Pas de la Crabe Col de Beauté
+https://www.camptocamp.org/outings/1890340
 Bigorre - Ordesa
 janic
-c2c 1850887
-2025-11-26 4.2
-Chasseron : Couloir NW
-https://www.camptocamp.org/outings/1850887
-Jura
-arnaudS
-c2c 1850895
-2025-11-25 1.2
-Première neige.
-https://www.camptocamp.org/outings/1850895
+c2c 1890517
+2026-04-01 nc
+Tour des Rouies : Tour horaire
+https://www.camptocamp.org/outings/1890517
+Écrins
+Sébastien Hublart
+c2c 1890439
+2026-04-02 2.2
+Rocher de Corne : Traversée Héroïque + Plateau de Bure
+https://www.camptocamp.org/outings/1890439
+Dévoluy
+Acharnay
+c2c 1890404
+2026-04-02 nc
+Pic de Château Renard : Couloir central
+https://www.camptocamp.org/outings/1890404
+Queyras S - Parpaillon - Ubaye - Orrenaye
+ReDe
+c2c 1890351
+2026-04-01 4.3
+Mont Pelvoux - Pointe Puiseux : Traversée du Pelvoux S→N
+https://www.camptocamp.org/outings/1890351
+Écrins
+Adrien LASNE
+c2c 1890316
+2026-03-31 3.1
+Pointe Gnifetti : Par le glacier de Lys
+https://www.camptocamp.org/outings/1890316
+Valais E - Alpes Pennines E
+Gaetan N
+c2c 1890262
+2026-04-02 3.3
+Tour du Grand Capelet et sommet.
+https://www.camptocamp.org/outings/1890262
 Mercantour - Argentera
 skiroad
-c2c 1850861
-2025-11-25 1.1
-Les paccots by night
-https://www.camptocamp.org/outings/1850861
+c2c 1890245
+2026-04-02 4.3
+Festival de poudre au Mont d'Or, descente du couloir NW par la variante directe
+https://www.camptocamp.org/outings/1890245
+Alpes Vaudoises
+Patrick Vuilleumier
+c2c 1890224
+2026-04-02 3.1
+Ayré : Couloir du Chinois + couloir adjacent et +
+https://www.camptocamp.org/outings/1890224
+Bigorre - Ordesa
+Jean Roule
+c2c 1890216
+2026-04-02 2.3
+Combin de Boveire : Par le glacier de Boveire, depuis Bourg-St-Pierre
+https://www.camptocamp.org/outings/1890216
+Valais W - Alpes Pennines W
+winch
+c2c 1890196
+2026-04-02 2.2
+Pointe Ronde et gavée
+https://www.camptocamp.org/outings/1890196
+Mont-Blanc
+Camillo
+c2c 1890184
+2026-04-02 3.3
+Fochsenflue : Couloir W
+https://www.camptocamp.org/outings/1890184
 Préalpes Fribourgeoises - Bernoises
-dereuxromain
-c2c 1850798
-2025-11-25 1.2
-Le Chatelard
-https://www.camptocamp.org/outings/1850798
+goul
+c2c 1890160
+2026-04-02 nc
+Cima di Val Pianella : per la Val Tronellina e discesa per la Val Salmurano
+https://www.camptocamp.org/outings/1890160
+Alpes Bergamasques
+berus
+c2c 1890142
+2026-04-02 3.2
+Rochers à l’Ours (1940m) petit couloir NE et les Arpilles : Depuis l'Étivaz
+https://www.camptocamp.org/outings/1890142
+Alpes Vaudoises
+Evi
+c2c 1890138
+2026-04-02 2.1
+Spitzhorli : Versant E depuis le col du Simplon
+https://www.camptocamp.org/outings/1890138
+Valais E - Alpes Pennines E
+Serge Naoux
+c2c 1890116
+2026-04-02 3.1
+Trou de la Mouche : Par la Combe de Grand Crêt en A/R
+https://www.camptocamp.org/outings/1890116
 Bornes - Aravis
-meije_23
-c2c 1850791
-2025-11-25 1.2
-La Laquette Recto/Verso
-https://www.camptocamp.org/outings/1850791
+patyves74
+c2c 1890115
+2026-04-02 5.1
+Pointe d'Areu : Couloir W
+https://www.camptocamp.org/outings/1890115
+Bornes - Aravis
+powder74
+c2c 1890114
+2026-04-02 2.2
+Crête de la Plane : Par la croupe NE (voie normale)
+https://www.camptocamp.org/outings/1890114
+Dévoluy
+bernard guérin
+c2c 1890104
+2026-04-02 2.3
+Ayré dôme du pluviomètre : Depuis le Lienz
+https://www.camptocamp.org/outings/1890104
+Bigorre - Ordesa
+JlB64
+c2c 1890078
+2026-04-02 5.1
+Pointe d'Arvouin: Couloir de la Dent de requin 🦈
+https://www.camptocamp.org/outings/1890078
+Chablais
+sylvain brondex
+c2c 1890051
+2026-04-01 4.3
+Coumatta : Couloir Ouest, Le Boa
+https://www.camptocamp.org/outings/1890051
+Alpes Vaudoises
+dereuxromain
+c2c 1890012
+2026-04-01 nc
+Pas du Reverdillon : Tour du Grand Bérard - depuis Ste Anne la Condamine
+https://www.camptocamp.org/outings/1890012
+Queyras S - Parpaillon - Ubaye - Orrenaye
+TI_BOOL
+c2c 1889992
+2026-04-01 3.2
+Mäderhorn : Couloir NW - depuis Egge
+https://www.camptocamp.org/outings/1889992
+Alpes Tessinoises - Conches - Goms
+Serge Naoux
+c2c 1889979
+2026-04-01 2.3
+Col de Labby  en A/R depuis Aussois (Fournache)
+https://www.camptocamp.org/outings/1889979
+Vanoise
+gnain
+c2c 1889966
+2026-04-01 2.3
+Cima Maciarone e Maciarì: Da Parco Montano Rorà da Pian Frollero per il pendio NE
+https://www.camptocamp.org/outings/1889966
+Queyras N - Briançonnais - Alpes Cottiennes
+Paolo74
+c2c 1889934
+2026-04-01 3.2
+Becca Motta : Versant NW
+https://www.camptocamp.org/outings/1889934
+Vanoise
+Novaplanet
+c2c 1889873
+2026-04-01 2.3
+Mont Rogneux : De Lourtier, descente par la Comba de Becca Miedzo
+https://www.camptocamp.org/outings/1889873
+Valais W - Alpes Pennines W
+arnaudS
+c2c 1889789
+2026-04-01 5.2
+Octathlon du MONT BLANC 4849 m : de la Grotte Cosquer au sommet du Mont Blanc
+https://www.camptocamp.org/outings/1889789
+Belledonne
+Apoutsiak
+c2c 1889818
+2026-03-31 2.1
+Passage de la Grande Forclaz : Combe de la Grande Forclaz
+https://www.camptocamp.org/outings/1889818
+Bornes - Aravis
+spub
+c2c 1889739
+2026-03-31 5.2
+NE de la Cime du Piron et Couloir NW de la Chavache
+https://www.camptocamp.org/outings/1889739
+Chablais
+Yann S
+c2c 1889736
+2026-03-31 nc
+Pont-du-Fossé : Cascade de droite de l'Autane
+https://www.camptocamp.org/outings/1889736
+Écrins
+alpineis
+c2c 1889695
+2026-03-31 4.3
+Clocher des Pères : Couloir en I
+https://www.camptocamp.org/outings/1889695
+Belledonne
+Ilona
+c2c 1889689
+2026-03-31 2.2
+Wyssbodehorn : Versant SE, de Egga
+https://www.camptocamp.org/outings/1889689
+Valais E - Alpes Pennines E
+Serge Naoux
+c2c 1889687
+2026-03-31 2.1
+Cuyalaret : Par le Col du Pourtalet
+https://www.camptocamp.org/outings/1889687
+Béarn - Balaïtous - Partacua
+Julien
+c2c 1889675
+2026-03-31 1.1
+Soum d'Arriou Né : Depuis la station de Luz Ardiden
+https://www.camptocamp.org/outings/1889675
+Bigorre - Ordesa
+yann44
+c2c 1889664
+2026-03-31 nc
+Piau : leVallon de Badet
+https://www.camptocamp.org/outings/1889664
+Bigorre - Ordesa
+André Cluzet
+c2c 1889645
+2026-03-31 2.3
+L’affaire est Cloze
+https://www.camptocamp.org/outings/1889645
 Bigorre - Ordesa
 janic
-c2c 1850770
-2025-11-24 2.2
-Tête du Torraz :  depuis le hameau du Plan
-https://www.camptocamp.org/outings/1850770
-Bornes - Aravis
-Thierry Jeandel
-c2c 1850868
-2025-11-23 nc
-Alpage de La Fouly: voie normale
-https://www.camptocamp.org/outings/1850868
-Valais W - Alpes Pennines W
-Sapphorain Pétermann
-c2c 1850755
-2025-11-23 2.1
-Serra de Comials: volta des de la Peülla pels clots de Rialba i la collada de Muntanyó
-https://www.camptocamp.org/outings/1850755
-Luchon - Posets - Maladeta - Aigüestortes
-Cesc Grau
-c2c 1850585
-2025-11-22 nc
-Plateau des glaciers de la Vanoise depuis Pralognan
-https://www.camptocamp.org/outings/1850585
+c2c 1889448
+2026-03-30 5.1
+Tête du Pelvas : Directe S
+https://www.camptocamp.org/outings/1889448
+Queyras N - Briançonnais - Alpes Cottiennes
+Timothée.H
+c2c 1889353
+2026-03-30 5.2
+Pointes du Mouchillon : Couloir NE Central
+https://www.camptocamp.org/outings/1889353
+Belledonne
+Théophile Bublot
+c2c 1889270
+2026-03-30 4.1
+Soum d'Eres Blanques Couloir Brèche en coin
+https://www.camptocamp.org/outings/1889270
+Bigorre - Ordesa
+janic
+c2c 1890393
+2026-03-29 nc
+Col du Grand Vallon : Traversée S >> N
+https://www.camptocamp.org/outings/1890393
 Vanoise
-laurentz03
-c2c 1850583
-2025-11-23 nc
-Pic de Tarbésou : Depuis Pailhères
-https://www.camptocamp.org/outings/1850583
-Haute Ariège - Andorre
-FERRER
-c2c 1850543
-2025-11-23 3.1
-Aiguille des Calvaires : Par le Crêt du Loup
-https://www.camptocamp.org/outings/1850543
+gouze
+c2c 1890175
+2026-03-29 2.1
+Chli Aubrig : Über SW Flanke
+https://www.camptocamp.org/outings/1890175
+Alpes Glaronaises
+Edoardo Satiro
+c2c 1889993
+2026-03-27 3.2
+Autours du refuge Wallon
+https://www.camptocamp.org/outings/1889993
+Bigorre - Ordesa
+HugoViot
+c2c 1889798
+2026-03-27 nc
+Lyskamm / Liskamm W : Tour du Lyskamm depuis Klein Matterhorn par les 4000
+https://www.camptocamp.org/outings/1889798
+Valais E - Alpes Pennines E
+sarahpedeutour
+c2c 1889761
+2026-03-29 2.1
+Col de Bostan
+https://www.camptocamp.org/outings/1889761
+Haut Giffre - Aiguilles Rouges - Fiz
+GlycoGene
+c2c 1889749
+2026-03-29 2.1
+Petit Croisse Baulet : Depuis Cordon par le Col de Jaillet
+https://www.camptocamp.org/outings/1889749
+Bornes - Aravis
+Lolo
+c2c 1889678
+2026-03-29 5.1
+Couloir Holzer, par le val Lasties
+https://www.camptocamp.org/outings/1889678
+Dolomites centrales
+rabutt
+c2c 1889603
+2026-03-29 2.1
+Le Tabor : Versant W (voie normale)
+https://www.camptocamp.org/outings/1889603
+Taillefer - Armet
+Quertyx
+c2c 1889489
+2026-03-28 2.3
+Piz Ursera e Piz Cunfin
+https://www.camptocamp.org/outings/1889489
+Engadine - Disgrazia
+Maurizio DZ
+c2c 1889438
+2026-03-29 nc
+Col d'Emy : Versant E
+https://www.camptocamp.org/outings/1889438
+Grandes Rousses - Arves
+ptitludo
+c2c 1889346
+2026-03-29 2.3
+Haut de Marlens : Versant NW
+https://www.camptocamp.org/outings/1889346
 Bornes - Aravis
 lologallo
-c2c 1850481
-2025-11-23 2.1
-Marmolada - Punta Rocca : dal lago di Fedaia
-https://www.camptocamp.org/outings/1850481
-Dolomites centrales
-Fabrizio Mantovani
-c2c 1850473
-2025-11-23 1.2
-Charmant Som : Par Canaple (ancienne piste)
-https://www.camptocamp.org/outings/1850473
-Chartreuse
-Loïc Perrin
-c2c 1850326
-2025-11-23 2.3
-Le Verdy (Pointe de Tosse) : Depuis Im Fang
-https://www.camptocamp.org/outings/1850326
-Préalpes Fribourgeoises - Bernoises
-sissssou
-c2c 1850769
-2025-11-22 2.2
-Aiguillette des Posettes : Voie normale
-https://www.camptocamp.org/outings/1850769
+c2c 1889341
+2026-03-29 4.1
+Hohneck : Couloir à droite du Falimont
+https://www.camptocamp.org/outings/1889341
+Vosges
+Fojere
+c2c 1889321
+2026-03-29 3.1
+Testa della Costabella e Vallon Del Piz con GSA
+https://www.camptocamp.org/outings/1889321
+Mercantour - Argentera
+Riccardo Ugo
+c2c 1889302
+2026-03-29 2.3
+Eau de Javelle: par la Reuse de l’A Neuve
+https://www.camptocamp.org/outings/1889302
 Mont-Blanc
-Thierry Jeandel
-c2c 1850767
-2025-11-22 1.1
-Chasseral : Par le pré aux Auges
-https://www.camptocamp.org/outings/1850767
-Jura
-Fabien Bourgeois
-c2c 1850747
-2025-11-22 nc
-Noarre: des de Quanca
-https://www.camptocamp.org/outings/1850747
-Couserans - Aran N
-Cesc Grau
-c2c 1850736
-2025-11-22 3.2
-Mont Rosset : Versant NE
-https://www.camptocamp.org/outings/1850736
-Beaufortain
-pau2pau
-c2c 1850711
-2025-11-22 3.2
-Val Ferret : un couloir de la barre des Angroniettes et Six Blanc Combe SE -> Combe NE par le point 2603
-https://www.camptocamp.org/outings/1850711
+Sapphorain Pétermann
+c2c 1889223
+2026-03-29 2.2
+Tête de Milon
+https://www.camptocamp.org/outings/1889223
 Valais W - Alpes Pennines W
-Ian Lavalou
-c2c 1850603
-2025-11-22 1.2
-Tricotage à Peyragudes
-https://www.camptocamp.org/outings/1850603
-Luchon - Posets - Maladeta - Aigüestortes
-etoile
-c2c 1850586
-2025-11-22 2.3
-Mys Derrey : En boucle autour du Pralet par les Paccots
-https://www.camptocamp.org/outings/1850586
-Préalpes Fribourgeoises - Bernoises
-dereuxromain
-c2c 1850578
-2025-11-22 nc
-Pic Fourcat : Depuis Croquié
-https://www.camptocamp.org/outings/1850578
-Haute Ariège - Andorre
-FERRER
-c2c 1850536
-2025-11-22 nc
-Pic du Tourmalet : Coume Lounque
-https://www.camptocamp.org/outings/1850536
-Bigorre - Ordesa
-Tanguy tango
-c2c 1850487
-2025-11-22 2.2
-Pic Chaussy : bâtons oubliés
-https://www.camptocamp.org/outings/1850487
-Alpes Vaudoises
-Acharnay
-c2c 1850347
-2025-11-22 2.1
-Gros Morond (Mont d'Or) : Morond par pistes de Metabief
-https://www.camptocamp.org/outings/1850347
-Jura
-EliottDehors
-c2c 1850328
-2025-11-22 2.3
-Grande Aiguille Rousse : Versant NW (voie normale)
-https://www.camptocamp.org/outings/1850328
-Alpes Grées - Charbonnel
-hosanniere
-c2c 1850325
-2025-11-22 nc
-Casse Rousse : La trav sans retour
-https://www.camptocamp.org/outings/1850325
-Belledonne
-Noshy
-c2c 1850305
-2025-11-22 1.2
-Mont aux Oies : Versant NW du Villaret
-https://www.camptocamp.org/outings/1850305
-Préalpes Fribourgeoises - Bernoises
-Patrick Vuilleumier
-c2c 1850278
-2025-11-22 2.3
-Allalinhorn : Versant N et crête W  (Voie Normale)
-https://www.camptocamp.org/outings/1850278
-Valais E - Alpes Pennines E
-Damien Theytaz
-c2c 1850245
-2025-11-22 3.1
-Cape au Moine (des Verraux) : en traversée, les Cases - Les Avants
-https://www.camptocamp.org/outings/1850245
-Préalpes Fribourgeoises - Bernoises
-Guillaume Emaresi
-c2c 1850244
-2025-11-22 1.2
-Croix de Chamrousse : Depuis Chamrousse - Le Recoin
-https://www.camptocamp.org/outings/1850244
-Belledonne
-Mathieu des Noes
-c2c 1850239
-2025-11-22 2.1
-Dôme des Oudis et Pointe de l'Oursière
-https://www.camptocamp.org/outings/1850239
-Belledonne
-Acharnay
-c2c 1850232
-2025-11-22 2.1
-La Saulire : Par les pistes de Courchevel
-https://www.camptocamp.org/outings/1850232
+Ride Away
+c2c 1889186
+2026-03-29 2.3
+Chamechaude : Versant W
+https://www.camptocamp.org/outings/1889186
+Chartreuse
+Benoit Lemaignan
+c2c 1889164
+2026-03-29 3.1
+Grand Serre : Par le refuge Vittorio Sella - depuis Valnontey
+https://www.camptocamp.org/outings/1889164
+Grand Paradis
+Juls74
+c2c 1889119
+2026-03-29 3.2
+Dôme des Nants : traversée N > S des dômes par le col de Labby
+https://www.camptocamp.org/outings/1889119
 Vanoise
-Juuuuuuuulien
-c2c 1850229
-2025-11-22 2.3
-Balade sur les hauts de Megève, Stger et Stnic
-https://www.camptocamp.org/outings/1850229
-Beaufortain
-David Bochot
-c2c 1850221
-2025-11-22 nc
-Ochse : Les 3 Mousquemottes + Descente couloir NW
-https://www.camptocamp.org/outings/1850221
-Préalpes Fribourgeoises - Bernoises
-chrizmay
-c2c 1850201
-2025-11-22 2.2
-Col du Loup en véloski
-https://www.camptocamp.org/outings/1850201
+Bruno Besson
+c2c 1889118
+2026-03-29 3.2
+Grand Château et Trou de Bougnonne
+https://www.camptocamp.org/outings/1889118
+Alpes Vaudoises
+Damien Theytaz
+c2c 1889086
+2026-03-28 nc
+Grande Lauzière : Traversée Chamrousse >> Refuge de la Pra
+https://www.camptocamp.org/outings/1889086
 Belledonne
-Lococomotive
-c2c 1850159
-2025-11-22 nc
-Cima degli impianti della Val Gerola : dal parcheggio di Pescegallo
-https://www.camptocamp.org/outings/1850159
-Alpes Bergamasques
-TommasoMM
-c2c 1850151
-2025-11-22 nc
-Pic de Tarbésou : Depuis Pailhères
-https://www.camptocamp.org/outings/1850151
-Haute Ariège - Andorre
-anakreenskyrider
-c2c 1850139
-2025-11-22 2.1
-Roc & Dôme d'Arguille (Pravouta) : Face SE du Dôme - depuis le Baure
-https://www.camptocamp.org/outings/1850139
+titiim73
+c2c 1889066
+2026-03-29 2.1
+Straffulgrat (Sommet W) : depuis  Niederdalp
+https://www.camptocamp.org/outings/1889066
+Valais E - Alpes Pennines E
+Serge Naoux
+c2c 1889063
+2026-03-29 4.2
+Chaux de Mont : Face SW & Chaux de Tompey : face S
+https://www.camptocamp.org/outings/1889063
+Alpes Vaudoises
+steph3668
+c2c 1889051
+2026-03-29 1.3
+Canaple : tricotage N et E
+https://www.camptocamp.org/outings/1889051
 Chartreuse
 Loïc Perrin
-c2c 1850136
-2025-11-22 2.3
-Pic de Barbe
-https://www.camptocamp.org/outings/1850136
-Bigorre - Ordesa
-yann44
-c2c 1850128
-2025-11-22 2.1
-Pic de l'Étang Rébenty - première sortie ski de rando à Bonascre
-https://www.camptocamp.org/outings/1850128
-Haute Ariège - Andorre
-fred_31
-c2c 1850127
-2025-11-22 nc
-À la recherche des combes de poudre à Bonascre
-https://www.camptocamp.org/outings/1850127
-Haute Ariège - Andorre
-misscharlie
-c2c 1850114
-2025-11-22 nc
-Ski station - Touyaroles
-https://www.camptocamp.org/outings/1850114
-Bigorre - Ordesa
-Jager Igor
-c2c 1850104
-2025-11-22 4.1
-Comme une délicieuse salade mal lavée à Arolla
-https://www.camptocamp.org/outings/1850104
+c2c 1889023
+2026-03-29 nc
+Roc Noir : Goulotte du Roc Noir
+https://www.camptocamp.org/outings/1889023
 Valais W - Alpes Pennines W
-Bertrand
-c2c 1850091
-2025-11-22 nc
-Tuc de l'Étang : Depuis le Mourtis
-https://www.camptocamp.org/outings/1850091
-Couserans - Aran N
-Jean-Marc
-c2c 1850082
-2025-11-22 1.2
-Pointe de Bellevue et Bec du Corbeau, depuis Morgins
-https://www.camptocamp.org/outings/1850082
+Corentin Barro
+c2c 1889016
+2026-03-29 2.2
+Pointe de Bazel / Calabre : Versant N (Glacier de la Tsanteleina)
+https://www.camptocamp.org/outings/1889016
+Alpes Grées - Charbonnel
+Ilona
+c2c 1889013
+2026-03-29 3.1
+Bec Charvet : Combe N en boucle
+https://www.camptocamp.org/outings/1889013
+Chartreuse
+DorianAeg
+c2c 1888999
+2026-03-29 nc
+Pointe de Savolaire : Depuis Abondance
+https://www.camptocamp.org/outings/1888999
 Chablais
-schoulep2
-c2c 1850081
-2025-11-22 1.2
-Croix de Chamrousse : Depuis Chamrousse - Le Recoin
-https://www.camptocamp.org/outings/1850081
-Belledonne
-skieur0206
-c2c 1850074
-2025-11-22 2.1
-Vanil Blanc : Versant E
-https://www.camptocamp.org/outings/1850074
-Préalpes Fribourgeoises - Bernoises
-Julien Vallet
-c2c 1850045
-2025-11-22 1.2
-Tête du Pré des Saix : Versant S
-https://www.camptocamp.org/outings/1850045
-Haut Giffre - Aiguilles Rouges - Fiz
-Sophie Ferlin
-c2c 1850582
-2025-11-21 1.2
-Le Folly gavage de poudre
-https://www.camptocamp.org/outings/1850582
-Préalpes Fribourgeoises - Bernoises
-dereuxromain
-c2c 1849981
-2025-11-21 2.3
-Ayré dôme du pluviomètre : Depuis le Lienz
-https://www.camptocamp.org/outings/1849981
-Bigorre - Ordesa
-yann44
-c2c 1849973
-2025-11-21 1.2
-Croix de Chamrousse : Depuis Chamrousse - Le Recoin
-https://www.camptocamp.org/outings/1849973
-Belledonne
-Zéphyrin DENONFOUX
-c2c 1849970
-2025-11-21 2.1
-Monts Chevreuils : Versant N
-https://www.camptocamp.org/outings/1849970
-Alpes Vaudoises
-René Schwitzguebel
-c2c 1849969
-2025-11-21 1.1
-Tricotage aux Paccots
-https://www.camptocamp.org/outings/1849969
-Préalpes Fribourgeoises - Bernoises
-aspahr
-c2c 1849887
-2025-11-20 3.2
-Pointe de Barasson : Face W en boucle
-https://www.camptocamp.org/outings/1849887
+lechoucas
+c2c 1888990
+2026-03-29 3.1
+Becca de Lovégno : De Suen
+https://www.camptocamp.org/outings/1888990
 Valais W - Alpes Pennines W
-chrizmay
-c2c 1849843
-2025-11-20 2.1
-Pic Entre les Ports et pic de Tentes
-https://www.camptocamp.org/outings/1849843
-Bigorre - Ordesa
-yann44
-c2c 1849778
-2025-11-20 4.3
-Roc du Bécoin : Couloir NW
-https://www.camptocamp.org/outings/1849778
-Vanoise
-hosanniere
-c2c 1849732
-2025-11-19 2.2
-Crêt du rey : Antécime ouest 2530
-https://www.camptocamp.org/outings/1849732
-Beaufortain
-Acharnay
-c2c 1849684
-2025-11-19 3.1
-Aiguilles de la Pennaz : Pointe des Bancs, face E
-https://www.camptocamp.org/outings/1849684
-Beaufortain
-anzer
-c2c 1849590
-2025-11-19 nc
-Tour de Tête Pelouse
-https://www.camptocamp.org/outings/1849590
+Evi
+c2c 1888982
+2026-03-29 2.3
+Croix de la Frête : Par les Praz de Commune
+https://www.camptocamp.org/outings/1888982
 Haut Giffre - Aiguilles Rouges - Fiz
 meije_23
-c2c 1849508
-2025-11-18 3.1
-Pigne d'Arolla : Par les Vignettes (Voie Normale)
-https://www.camptocamp.org/outings/1849508
-Valais W - Alpes Pennines W
-jonsylaride
-c2c 1849498
-2025-11-18 3.1
-Oldenhorn / Becca d'Audon : Croupe SE
-https://www.camptocamp.org/outings/1849498
+c2c 1888974
+2026-03-29 nc
+Tête de Charousse : par les chalets de Neuteu
+https://www.camptocamp.org/outings/1888974
+Chablais
+schoulep2
+c2c 1888967
+2026-03-29 2.3
+Croix de Javerne : Versant N depuis Léoutre
+https://www.camptocamp.org/outings/1888967
 Alpes Vaudoises
-dereuxromain
-c2c 1849470
-2025-11-18 3.1
-Tête N des Fours : Couloir à Zub
-https://www.camptocamp.org/outings/1849470
+sissssou
+c2c 1888898
+2026-03-29 4.3
+Niche d 'Ardens
+https://www.camptocamp.org/outings/1888898
+Chablais
+sylvain brondex
+c2c 1888897
+2026-03-29 4.3
+Pointe de Chalune : Couloir Central de la Face W
+https://www.camptocamp.org/outings/1888897
+Chablais
+Sophie Ferlin
+c2c 1888891
+2026-03-29 5.1
+Pointe de la Chavache : Couloir NW
+https://www.camptocamp.org/outings/1888891
+Chablais
+Monod ch
+c2c 1889755
+2026-03-28 2.3
+Combe du Charvet depuis les Troncs
+https://www.camptocamp.org/outings/1889755
+Bornes - Aravis
+GlycoGene
+c2c 1889651
+2026-03-28 3.2
+Grande Lui : Face S voie normale hivernale
+https://www.camptocamp.org/outings/1889651
 Mont-Blanc
-anzer
-c2c 1849462
-2025-11-18 1.3
-Sommet des Diablerets : Depuis le Sex Rouge et les télés, quelques variantes bonus...
-https://www.camptocamp.org/outings/1849462
+Wyni
+c2c 1889433
+2026-03-23 nc
+Traversée Vallée de la Gordolasque - Le Boréon
+https://www.camptocamp.org/outings/1889433
+Mercantour - Argentera
+Acharnay
+c2c 1889390
+2026-03-28 nc
+Pic Boré : Versant W - depuis Bernex
+https://www.camptocamp.org/outings/1889390
+Chablais
+lechoucas
+c2c 1889382
+2026-03-28 nc
+Volta al cap de l'Ovella des de Tor
+https://www.camptocamp.org/outings/1889382
+Haute Ariège - Andorre
+Cesc Grau
+c2c 1889342
+2026-03-28 4.2
+Charvet : Couloir S de la pointe 2430
+https://www.camptocamp.org/outings/1889342
+Bornes - Aravis
+lologallo
+c2c 1889319
+2026-03-28 nc
+Tsamonay: depuis Vichères
+https://www.camptocamp.org/outings/1889319
+Valais W - Alpes Pennines W
+Sapphorain Pétermann
+c2c 1889303
+2026-03-28 2.2
+Ofenhorn / Punta d'Arbola : En boucle depuis Fäld via la Binntalhütte
+https://www.camptocamp.org/outings/1889303
+Alpes Tessinoises - Conches - Goms
+flints7one
+c2c 1889269
+2026-03-28 5.4
+Cayres de la Cougourde : Goodbye Babyline
+https://www.camptocamp.org/outings/1889269
+Mercantour - Argentera
+Paul
+c2c 1889209
+2026-03-28 2.1
+Téte de l'Enchastraye con GSA
+https://www.camptocamp.org/outings/1889209
+Mercantour - Argentera
+Riccardo Ugo
+c2c 1889205
+2026-03-28 3.3
+Pic du Peyreget : Couloirs E
+https://www.camptocamp.org/outings/1889205
+Béarn - Balaïtous - Partacua
+jberoi64
+c2c 1889149
+2026-03-27 2.2
+Bishorn : Versant NW (Voie Normale)
+https://www.camptocamp.org/outings/1889149
+Valais W - Alpes Pennines W
+dereuxromain
+c2c 1889148
+2026-03-28 3.1
+Crête du Tuf : Couloirs NE
+https://www.camptocamp.org/outings/1889148
+Grand Paradis
+Juls74
+c2c 1889116
+2026-03-28 2.3
+Col de Labby : Traversée SW → NE (Glacier de la Mahure)
+https://www.camptocamp.org/outings/1889116
+Vanoise
+Bruno Besson
+c2c 1889084
+2026-03-28 5.1
+Tentative de l’Intégrale S des Aravis
+https://www.camptocamp.org/outings/1889084
+Bornes - Aravis
+VINCENT Benoît
+c2c 1889080
+2026-03-28 2.2
+Taüll : Pasada de Moro par le Val de Moro
+https://www.camptocamp.org/outings/1889080
+Luchon - Posets - Maladeta - Aigüestortes
+Julien
+c2c 1889052
+2026-03-28 2.3
+Blüemberg : Dalla Lindernen Hutte giro fino a Käppeliberg
+https://www.camptocamp.org/outings/1889052
+Alpes Glaronaises
+TommasoMM
+c2c 1889015
+2026-03-28 2.3
+Pointe de la Galise : Versant W (voie normale française)
+https://www.camptocamp.org/outings/1889015
+Alpes Grées - Charbonnel
+Ilona
+c2c 1889011
+2026-03-28 3.2
+Pointe de Vouasson : Traversée La Gouille → Lanna
+https://www.camptocamp.org/outings/1889011
+Valais W - Alpes Pennines W
+Filip
+c2c 1888997
+2026-03-28 3.2
+Cheval Noir : Versant SW, par le Col du Cheval Noir depuis les pistes
+https://www.camptocamp.org/outings/1888997
+Lauzière - Cheval Noir
+DorianAeg
+c2c 1888993
+2026-03-28 1.2
+Vélo-ski Grenoble - Charmant Som
+https://www.camptocamp.org/outings/1888993
+Chartreuse
+Joël Bourgault
+c2c 1888963
+2026-03-28 2.2
+Les Arpilles ou Tête à Josué : Depuis l'Étivaz
+https://www.camptocamp.org/outings/1888963
 Alpes Vaudoises
-Patrick Vuilleumier
-c2c 1849345
-2025-11-18 5.1
-Crêt du Rey : Arête NE et couloir N direct
-https://www.camptocamp.org/outings/1849345
+sissssou
+c2c 1888919
+2026-03-28 3.1
+Cime Chamineye : Versant S (voie normale)
+https://www.camptocamp.org/outings/1888919
+Mercantour - Argentera
+skiroad
+c2c 1888859
+2026-03-28 nc
+Cima Cevedale : Da i Forni, salita per il rifugio Casati, discesa vedretta del Pasquale
+https://www.camptocamp.org/outings/1888859
+Ortles
+Roberto Cetti
+c2c 1888845
+2026-03-28 3.1
+Col de Tzaboc - Versant NW depuis Valgrisenche
+https://www.camptocamp.org/outings/1888845
+Alpes Grées - Charbonnel
+Christian
+c2c 1888838
+2026-03-28 4.2
+L'Étale : Enchaînement - Tour des 4 C
+https://www.camptocamp.org/outings/1888838
+Bornes - Aravis
+robignol74
+c2c 1888837
+2026-03-28 5.1
+Gran Bagna : Couloir N
+https://www.camptocamp.org/outings/1888837
+Cerces - Thabor - Mont-Cenis
+Marololo
+c2c 1888824
+2026-03-28 2.1
+Grindelgrat : Depuis Schwarzwaldalp
+https://www.camptocamp.org/outings/1888824
+Alpes Bernoises
+Philippe Wack
+c2c 1888813
+2026-03-28 5.2
+Pointe d'Entre Deux Pertuis : Face NE de la Cime du Piron
+https://www.camptocamp.org/outings/1888813
+Chablais
+Pablopitel
+c2c 1888810
+2026-03-28 2.2
+Col du Mouchillon : Traversée S > N (Sept Laux > Combe Madame)
+https://www.camptocamp.org/outings/1888810
+Belledonne
+Benoit Lemaignan
+c2c 1888807
+2026-03-28 2.1
+Pointe du Sifflet et col de l'Aigleton depuis Prabert
+https://www.camptocamp.org/outings/1888807
+Belledonne
+Loïc Perrin
+c2c 1888793
+2026-03-28 4.1
+Gerbier : Goulotte à PP x goulotte des marmottes x couloir ouest
+https://www.camptocamp.org/outings/1888793
+Vercors
+AntoVercors
+c2c 1888779
+2026-03-28 5.1
+Pic des Heuvières : Brèches des heuvières, l'interbrèches
+https://www.camptocamp.org/outings/1888779
+Queyras S - Parpaillon - Ubaye - Orrenaye
+Timothée.H
+c2c 1888721
+2026-03-28 3.2
+Grand Chavalard : Traversée arête N > couloir E
+https://www.camptocamp.org/outings/1888721
+Alpes Vaudoises
+Sophie Ferlin
+c2c 1888720
+2026-03-27 nc
+Täsch -> Allalinhorn -> Saas-Fee
+https://www.camptocamp.org/outings/1888720
+Valais E - Alpes Pennines E
+morphelin
+c2c 1888719
+2026-03-28 4.1
+Crêt du Rey : Traversée Arête NE >> Couloirs S - depuis le Cormet d'Arêches
+https://www.camptocamp.org/outings/1888719
 Beaufortain
 hosanniere
-c2c 1849326
-2025-11-18 3.1
-Grand Pic de Tapou : Voie normale (vallée d'Ossoue)
-https://www.camptocamp.org/outings/1849326
-Bigorre - Ordesa
-Jager Igor
-c2c 1849318
-2025-11-17 nc
-Pic de Bouneu : Face NW
-https://www.camptocamp.org/outings/1849318
-Bigorre - Ordesa
-Jager Igor
-c2c 1848855
-2025-11-16 2.3
-Dreizehntenhorn : Par le Augstbordtal
-https://www.camptocamp.org/outings/1848855
+c2c 1888669
+2026-03-28 2.3
+Col de la Petite Vaudaine : Versant W
+https://www.camptocamp.org/outings/1888669
+Belledonne
+GuillaumeT
+c2c 1888668
+2026-03-28 2.2
+Petit Som : Versant N par la Combe de Léchaud
+https://www.camptocamp.org/outings/1888668
+Chartreuse
+Gilles Privat
+c2c 1888636
+2026-03-28 4.1
+Spitzhörnli : Canale W
+https://www.camptocamp.org/outings/1888636
+Alpes Tessinoises - Conches - Goms
+Raffaello Scavini
+c2c 1888635
+2026-03-28 2.3
+Tête de Charousse et tricotage
+https://www.camptocamp.org/outings/1888635
+Chablais
+Julien Vallet
+c2c 1888634
+2026-03-28 5.2
+Pointe Percée : Face WNW - Voies rive gauche et voie Bibollet-Josserand
+https://www.camptocamp.org/outings/1888634
+Bornes - Aravis
+VINCENT Benoît
+c2c 1888615
+2026-03-28 1.2
+Col de la Tulle : Versant W
+https://www.camptocamp.org/outings/1888615
+Bornes - Aravis
+Frederic Djillali
+c2c 1888592
+2026-03-28 4.1
+Pedraforca en mode découverte
+https://www.camptocamp.org/outings/1888592
+Serres catalanes
+padescuns
+c2c 1888591
+2026-03-28 4.3
+Sommet des Clottous : Épaule N
+https://www.camptocamp.org/outings/1888591
+Écrins
+Thierry Clavel
+c2c 1888588
+2026-03-28 4.2
+Tour de Don : Couloir E
+https://www.camptocamp.org/outings/1888588
+Chablais
+Jérémy Cherix
+c2c 1888512
+2026-03-28 4.3
+Couloir Trappier et Y jumeau gauche (Pormenaz)
+https://www.camptocamp.org/outings/1888512
+Haut Giffre - Aiguilles Rouges - Fiz
+chaouen
+c2c 1888505
+2026-03-28 2.3
+Mont Charvet (Aravis) : Par la Petite Miaz - depuis les Troncs
+https://www.camptocamp.org/outings/1888505
+Bornes - Aravis
+Joh Robbe
+c2c 1888496
+2026-03-28 2.2
+Pointe de Vouasson : Depuis la Gouille (Voie normale)
+https://www.camptocamp.org/outings/1888496
 Valais W - Alpes Pennines W
 Maurice Mischler
-c2c 1850110
-2025-11-15 nc
-Petite Moucherolle : depuis le Clos de la Balme
-https://www.camptocamp.org/outings/1850110
-Vercors
-Arnaud Foucher
-c2c 1836145
-2025-11-15 3.3
-Rocher de Cerdosse : Couloir NE
-https://www.camptocamp.org/outings/1836145
+c2c 1888495
+2026-03-28 nc
+Monte Rocca e Punta Lago Nero : per Le Piazze
+https://www.camptocamp.org/outings/1888495
+Engadine - Disgrazia
+cimaxi
+c2c 1888487
+2026-03-28 nc
+Chapeau de Gendarme - Le Lan : Depuis le Super-Sauze
+https://www.camptocamp.org/outings/1888487
+Mercantour - Argentera
+TI_BOOL
+c2c 1888486
+2026-03-28 2.3
+Col de la Fenêtre : Versant E (voie normale depuis Notre Dame de la Gorge)
+https://www.camptocamp.org/outings/1888486
 Beaufortain
-hosanniere
-c2c 1836084
-2025-11-15 3.3
-La Cassorte : Couloir E
-https://www.camptocamp.org/outings/1836084
-Valais W - Alpes Pennines W
-arnaudS
-c2c 1836282
-2025-11-14 3.1
-Oldenhorn / Becca d'Audon : Croupe SE
-https://www.camptocamp.org/outings/1836282
-Alpes Vaudoises
-dereuxromain
-c2c 1836143
-2025-11-14 2.2
-Pointe de Thorens : Col de Thorens
-https://www.camptocamp.org/outings/1836143
-Vanoise
-Zorglub
-c2c 1836119
-2025-11-13 5.3
-Col du Plan : Goulotte du Col du Plan
-https://www.camptocamp.org/outings/1836119
-Mont-Blanc
-Franck Sebelon
-c2c 1835989
-2025-11-14 5.1
-Pointe de Combe Bénite : Couloir NE
-https://www.camptocamp.org/outings/1835989
-Beaufortain
-hosanniere
-c2c 1835418
-2025-11-12 nc
-Ouverture de la saison 25/26 : premier sondage au MONTCALM pour le centre de Foix.
-https://www.camptocamp.org/outings/1835418
-Couserans - Aran N
-Météo France Foix
-c2c 1835316
-2025-11-12 2.2
-Sommet des Diablerets : depuis Reusch
-https://www.camptocamp.org/outings/1835316
-Alpes Vaudoises
-arnaudS
-c2c 1835437
-2025-11-11 4.1
-Sommet S de Sarenne : Boucle par le couloir du lac du Cerisier
-https://www.camptocamp.org/outings/1835437
-Grandes Rousses - Arves
-david lavie
-c2c 1835057
-2025-11-10 2.3
-Pic de l'Étendard à vélo ski
-https://www.camptocamp.org/outings/1835057
-Belledonne
-Lococomotive
-c2c 1834830
-2025-11-11 4.1
-Pointe de Leisette : Couloir NE
-https://www.camptocamp.org/outings/1834830
-Beaufortain
-hosanniere
-c2c 1834427
-2025-11-10 3.3
-Mont Jovet : Couloirs N
-https://www.camptocamp.org/outings/1834427
-Vanoise
-hosanniere
-c2c 1834304
-2025-11-10 2.2
-Sommet des Diablerets : depuis Reusch
-https://www.camptocamp.org/outings/1834304
-Alpes Vaudoises
-René Schwitzguebel
-c2c 1834178
-2025-11-09 4.2
-Monts de Cion : Pointe 2943 - Couloir ENE & Ferret couloir WNW
-https://www.camptocamp.org/outings/1834178
-Valais W - Alpes Pennines W
-steph3668
-c2c 1834089
-2025-11-09 3.2
-2 Chaux de Mont depuis la Berneuse, descente du couloir N puis du versant SE
-https://www.camptocamp.org/outings/1834089
-Alpes Vaudoises
-Patrick Vuilleumier
-c2c 1834014
-2025-11-09 2.1
-Wildstrubel : De la Gemmi
-https://www.camptocamp.org/outings/1834014
-Alpes Bernoises
-Ride Away
-c2c 1833932
-2025-11-09 2.3
-Schwarzhorn (Montana) : Par la Face N
-https://www.camptocamp.org/outings/1833932
-Alpes Bernoises
-schoulep2
-c2c 1833894
-2025-11-09 nc
-Era Peülla: des del port de la Bonaigua i baixada per NE
-https://www.camptocamp.org/outings/1833894
-Luchon - Posets - Maladeta - Aigüestortes
-Cesc Grau
-c2c 1833879
-2025-11-09 2.3
-Le Tarent : Versant N (Voie normale)
-https://www.camptocamp.org/outings/1833879
-Alpes Vaudoises
-Julien Vallet
-c2c 1833874
-2025-11-09 nc
-Col de Thorens : Itinéraire du col de Pierre Lory
-https://www.camptocamp.org/outings/1833874
-Vanoise
-Thomas Costes
-c2c 1834877
-2025-11-08 3.1
-Pointe Allobrogia : Versant SW - depuis la Fouly
-https://www.camptocamp.org/outings/1834877
-Mont-Blanc
-LoicB39
-c2c 1833751
-2025-11-08 4.1
-Le Roignais : Couloir NE - depuis les Échines
-https://www.camptocamp.org/outings/1833751
-Beaufortain
-hosanniere
-c2c 1833731
-2025-11-08 1.2
-Sommet des Diablerets et Quille du Diable
-https://www.camptocamp.org/outings/1833731
-Alpes Vaudoises
-dereuxromain
-c2c 1833700
-2025-11-08 3.1
-Alphubel : Depuis Felskinn
-https://www.camptocamp.org/outings/1833700
-Valais E - Alpes Pennines E
-glol
-c2c 1833647
-2025-11-08 4.1
-Schneehore : Couloir ENE
-https://www.camptocamp.org/outings/1833647
-Alpes Bernoises
-steph3668
-c2c 1833523
-2025-11-08 2.3
-Le Tarent : Versant N (Voie normale)
-https://www.camptocamp.org/outings/1833523
-Alpes Vaudoises
-arnaudS
-c2c 1833427
-2025-11-07 2.1
-Pointe du Dzonfié : Versant E - depuis Granier
-https://www.camptocamp.org/outings/1833427
-Beaufortain
-christian73
-c2c 1833062
-2025-11-06 4.1
-Crêt du Rey : Arête NE et Face N
-https://www.camptocamp.org/outings/1833062
-Beaufortain
-hosanniere
-c2c 1832966
-2025-11-05 2.3
-Cols de la Fenêtre et de la Cicle
-https://www.camptocamp.org/outings/1832966
-Beaufortain
-anzer
-c2c 1833004
-2025-11-04 3.1
-Col du Tarent : Par Pra-Cornet
-https://www.camptocamp.org/outings/1833004
-Alpes Vaudoises
-Paolo74
-c2c 1832783
-2025-11-04 4.3
-Pointe de Leisette : Couloir S
-https://www.camptocamp.org/outings/1832783
-Beaufortain
-hosanniere
-c2c 1832695
-2025-11-03 2.1
-Col de Thorens et plus haut sur le glacier de chavière.
-https://www.camptocamp.org/outings/1832695
-Vanoise
-Acharnay
-c2c 1832533
-2025-11-02 2.3
-Col N de Menouve : Versant N
-https://www.camptocamp.org/outings/1832533
-Valais W - Alpes Pennines W
-Choucas_Swiss
-c2c 1832684
-2025-11-01 4.2
-Aiguille de la Glière N : Couloir Wehrlin
-https://www.camptocamp.org/outings/1832684
+piuu
+c2c 1888484
+2026-03-28 4.1
+Aiguille de la Glière  : Descente par la combe du Pouce - Retour par la brèche de Bérard
+https://www.camptocamp.org/outings/1888484
 Haut Giffre - Aiguilles Rouges - Fiz
 Geoffrey Ge
-c2c 1832189
-2025-11-01 4.1
-Mont Bonvin
-https://www.camptocamp.org/outings/1832189
-Alpes Bernoises
-steph3668
-c2c 1831913
-2025-11-01 4.3
-Allalinhorn : Face N -> VN
-https://www.camptocamp.org/outings/1831913
+c2c 1888466
+2026-03-28 2.2
+Pointe des Arbennes : Par le chemin d'alpage de Méry
+https://www.camptocamp.org/outings/1888466
+Bornes - Aravis
+Julien Vogler
+c2c 1888464
+2026-03-28 3.2
+: Couloir N de Brion
+https://www.camptocamp.org/outings/1888464
+Bornes - Aravis
+powder74
+c2c 1888449
+2026-03-28 4.2
+Rochers de Belles Ombres : Couloir E
+https://www.camptocamp.org/outings/1888449
+Chartreuse
+OCy
+c2c 1888435
+2026-03-28 5.1
+Pointe de la Chavache : Couloir NW
+https://www.camptocamp.org/outings/1888435
+Chablais
+sylvain brondex
+c2c 1888429
+2026-03-28 2.2
+Monte Chiamossero / Ciamousse : AR et boucle depuis Limonetto
+https://www.camptocamp.org/outings/1888429
+Mercantour - Argentera
+Fabrizio Mantovani
+c2c 1888427
+2026-03-28 3.2
+Pointe de Ronce : Versant NW, par le ravin de Charboillon
+https://www.camptocamp.org/outings/1888427
+Alpes Grées - Charbonnel
+thomas_quillet
+c2c 1888423
+2026-03-28 4.3
+Pic de Caoubère Diagonale du Brouillard
+https://www.camptocamp.org/outings/1888423
+Bigorre - Ordesa
+janic
+c2c 1889012
+2026-03-27 3.1
+Col du Montet : Traversée S → N
+https://www.camptocamp.org/outings/1889012
+Alpes Grées - Charbonnel
+Ilona
+c2c 1888491
+2026-03-27 2.2
+Pic Chaussy : Combe N, par vers Les Lacs
+https://www.camptocamp.org/outings/1888491
+Alpes Vaudoises
+SimVen
+c2c 1888377
+2026-03-27 2.1
+Rastebyfjellet : de Steindalen (j7)
+https://www.camptocamp.org/outings/1888377
+Troms
+Edward O
+c2c 1888288
+2026-03-27 2.1
+Vesleala  : versant S
+https://www.camptocamp.org/outings/1888288
+Troms
+Mathieu des Noes
+c2c 1888244
+2026-03-27 2.3
+col du Mont Charvet (Aravis) : Par la Petite Miaz - depuis les Troncs
+https://www.camptocamp.org/outings/1888244
+Bornes - Aravis
+Sophie Ferlin
+c2c 1888234
+2026-03-27 2.3
+Col de la Fenêtre : Versant E (voie normale depuis Notre Dame de la Gorge)
+https://www.camptocamp.org/outings/1888234
+Beaufortain
+Joh Robbe
+c2c 1888228
+2026-03-27 1.3
+Col du Néal : par Clapeyto depuis Brunissard
+https://www.camptocamp.org/outings/1888228
+Queyras N - Briançonnais - Alpes Cottiennes
+Juuuuuuuulien
+c2c 1888183
+2026-03-27 1.2
+Col de Coux : Depuis l'Érigné
+https://www.camptocamp.org/outings/1888183
+Chablais
+meije_23
+c2c 1888148
+2026-03-27 4.1
+Pic Crémat Crab corner & Couloir SE
+https://www.camptocamp.org/outings/1888148
+Bigorre - Ordesa
+janic
+c2c 1888056
+2026-03-27 4.3
+Roc del Boc / Malaza : CRS58
+https://www.camptocamp.org/outings/1888056
+Puigmal - Canigou - Albères
+teilocadiou
+c2c 1888158
+2026-03-23 2.3
+Boucle en Queyras : 4 jours au départ de St-Véran
+https://www.camptocamp.org/outings/1888158
+Queyras N - Briançonnais - Alpes Cottiennes
+Juuuuuuuulien
+c2c 1888086
+2026-03-26 2.3
+Pic de Caramantran / Il Pelvo : Versant N - depuis ref.Agnel - Traversée sur Sagnes Longues et descente Rouchon et Clausis
+https://www.camptocamp.org/outings/1888086
+Queyras S - Parpaillon - Ubaye - Orrenaye
+gnain
+c2c 1888033
+2026-03-26 nc
+turon de la goaïta depuis le bourdiou d'Aspeigt,  tout est bon dans le piémont
+https://www.camptocamp.org/outings/1888033
+Béarn - Balaïtous - Partacua
+Lesberit64
+c2c 1887959
+2026-03-26 5.1
+Soum d'Eres Blanques : Couloir du KL
+https://www.camptocamp.org/outings/1887959
+Bigorre - Ordesa
+thibault 64
+c2c 1887909
+2026-03-26 4.3
+Øksehøgget : Couloir NE A/R (j6)
+https://www.camptocamp.org/outings/1887909
+Troms
+Edward O
+c2c 1887902
+2026-03-26 2.3
+Søre Børingsfjellet  : versant S
+https://www.camptocamp.org/outings/1887902
+Troms
+Mathieu des Noes
+c2c 1887797
+2026-03-26 5.1
+Pic d'Izès Diagonale SSE + Couloir jumeau des Toys
+https://www.camptocamp.org/outings/1887797
+Bigorre - Ordesa
+janic
+c2c 1889363
+2026-03-25 nc
+La Portella: des de les bordes de Llessui
+https://www.camptocamp.org/outings/1889363
+Luchon - Posets - Maladeta - Aigüestortes
+Cesc Grau
+c2c 1889159
+2026-03-25 5.2
+Grand Ferrand : Voie du Chourum Olympique
+https://www.camptocamp.org/outings/1889159
+Dévoluy
+Mimi
+c2c 1888315
+2026-03-21 2.3
+raid Nat'n'Co Verbier > Arolla (5 jours) par Prafleuri, Dix, Pigne d'Arolla, Vignettes, col de l'Eveque.
+https://www.camptocamp.org/outings/1888315
+Valais W - Alpes Pennines W
+Nathanael Schaeffer
+c2c 1888074
+2026-03-25 2.2
+Pic de Foréant : par le vallon du Devez - depuis Fontgillarde - Descente sur le refuge Agnel
+https://www.camptocamp.org/outings/1888074
+Queyras N - Briançonnais - Alpes Cottiennes
+gnain
+c2c 1887900
+2026-03-25 3.1
+Skavneskollen : les 3 cotés, de Dalen (j6)
+https://www.camptocamp.org/outings/1887900
+Troms
+Edward O
+c2c 1887887
+2026-03-25 3.3
+Pic de Font Freda
+https://www.camptocamp.org/outings/1887887
+Haute Ariège - Andorre
+misscharlie
+c2c 1887823
+2026-03-25 5.1
+Tête de Bossetan / Bostan : Rampe des Colombes
+https://www.camptocamp.org/outings/1887823
+Chablais
+L'abbé Valentin
+c2c 1887791
+2026-03-25 1.3
+Tremetta
+https://www.camptocamp.org/outings/1887791
+Préalpes Fribourgeoises - Bernoises
+pierre14
+c2c 1887721
+2026-03-25 2.2
+Skavneskollen : en boucle par le Rundkollen
+https://www.camptocamp.org/outings/1887721
+Troms
+Mathieu des Noes
+c2c 1887711
+2026-03-25 3.2
+Aiguille de Roselette : Couloir SE de l'antécime 2316
+https://www.camptocamp.org/outings/1887711
+Beaufortain
+anzer
+c2c 1887706
+2026-03-25 2.2
+Pointe de la Sana : Versant SE - depuis le Refuge de la Femma et descente sur val d'Isère
+https://www.camptocamp.org/outings/1887706
+Vanoise
+sissssou
+c2c 1887705
+2026-03-25 2.1
+Les Lauzes Rousses : Depuis Prapic
+https://www.camptocamp.org/outings/1887705
+Écrins
+Gilles Privat
+c2c 1887646
+2026-03-25 4.1
+La Bonida : Couloirs E
+https://www.camptocamp.org/outings/1887646
+Bigorre - Ordesa
+yann44
+c2c 1887635
+2026-03-25 4.2
+Sés des Madeleines pt 3121 - Épaule E du Métailler : Couloirs NE
+https://www.camptocamp.org/outings/1887635
+Valais W - Alpes Pennines W
+Sylvain Millioud
+c2c 1887626
+2026-03-25 5.5
+Paré de Joux : Extrêm'dalles
+https://www.camptocamp.org/outings/1887626
+Bornes - Aravis
+alainlo
+c2c 1887620
+2026-03-25 3.3
+Pic du Canigou / Canigó : Montée N , descente NW
+https://www.camptocamp.org/outings/1887620
+Puigmal - Canigou - Albères
+Pioche73
+c2c 1887615
+2026-03-25 3.3
+Aiguille du Fruit : Couloir N
+https://www.camptocamp.org/outings/1887615
+Vanoise
+Alex_Malige
+c2c 1887600
+2026-03-25 3.1
+Grand Renaud : Versant NE
+https://www.camptocamp.org/outings/1887600
+Écrins
+BrècheduSalude
+c2c 1887578
+2026-03-25 4.1
+Pointe 2671 en aller-retour depuis Pla-Subra
+https://www.camptocamp.org/outings/1887578
+Couserans - Aran N
+sl09
+c2c 1887574
+2026-03-25 4.2
+Pic de Barassé : Couloir E
+https://www.camptocamp.org/outings/1887574
+Bigorre - Ordesa
+Svenou
+c2c 1887507
+2026-03-25 4.1
+Grand Chavalard : Couloir NE de l'arête N et grand château
+https://www.camptocamp.org/outings/1887507
+Alpes Vaudoises
+arnaudS
+c2c 1889120
+2026-03-24 5.1
+Tête de Lauranoure - Sommet E : Face E - depuis le Clot d'en Bas
+https://www.camptocamp.org/outings/1889120
+Écrins
+Cédric Colomban
+c2c 1888402
+2026-03-24 nc
+Aneto : Par le refuge de la Rencluse (Voie Normale)
+https://www.camptocamp.org/outings/1888402
+Luchon - Posets - Maladeta - Aigüestortes
+Payrau
+c2c 1888064
+2026-03-24 3.1
+Albaron : Par le Glacier du Grand Fond depuis les remontées de Bonneval - Descente par le Vallonnet
+https://www.camptocamp.org/outings/1888064
+Alpes Grées - Charbonnel
+gnain
+c2c 1887756
+2026-03-24 4.3
+Mont Pelvoux - Pointe Puiseux : Traversée du Pelvoux S→N
+https://www.camptocamp.org/outings/1887756
+Écrins
+La Baltringue
+c2c 1887751
+2026-03-24 4.2
+L'Étale : Enchaînement - Tour des 4 C
+https://www.camptocamp.org/outings/1887751
+Bornes - Aravis
+LouiseCvnn
+c2c 1887643
+2026-03-23 2.2
+Dents Rouges : Tour du Charvet
+https://www.camptocamp.org/outings/1887643
+Alpes Grées - Charbonnel
+gilles74
+c2c 1887636
+2026-03-24 nc
+Tuc del Rosari : Depuis la station de Baqueira
+https://www.camptocamp.org/outings/1887636
+Couserans - Aran N
+jean-marie
+c2c 1887573
+2026-03-24 3.1
+Monte Vertosan : per il vallone di Flassin e per il Col Fenetre
+https://www.camptocamp.org/outings/1887573
+Valais W - Alpes Pennines W
+Paolo74
+c2c 1887526
+2026-03-24 5.2
+Ossau - Grand Pic du Midi : Voie normale (ski)
+https://www.camptocamp.org/outings/1887526
+Béarn - Balaïtous - Partacua
+LeVagabondImmobile
+c2c 1887479
+2026-03-24 2.3
+Monte Zerbion : Cresta W - da Promiod
+https://www.camptocamp.org/outings/1887479
 Valais E - Alpes Pennines E
-Damien Theytaz
-c2c 1831899
-2025-11-01 2.2
-Beaufort : Depuis Bourg St Pierre
-https://www.camptocamp.org/outings/1831899
+Giancarlo Langini
+c2c 1887425
+2026-03-24 5.3
+Dent Parrachée : Face NW Directissime - Couloir Roche
+https://www.camptocamp.org/outings/1887425
+Vanoise
+Winnie
+c2c 1887346
+2026-03-24 4.1
+Mardas : En A/R depuis Arrioutort
+https://www.camptocamp.org/outings/1887346
+Béarn - Balaïtous - Partacua
+david lavie
+c2c 1887308
+2026-03-24 3.2
+Cime de Juisse
+https://www.camptocamp.org/outings/1887308
+Mercantour - Argentera
+skiroad
+c2c 1887302
+2026-03-24 3.1
+L'Arpelin depuis le Laus
+https://www.camptocamp.org/outings/1887302
+Queyras N - Briançonnais - Alpes Cottiennes
+Guibolle
+c2c 1887255
+2026-03-24 4.2
+Pointe de Chalune : Couloir de Pététoz
+https://www.camptocamp.org/outings/1887255
+Chablais
+Sylvain.E
+c2c 1887214
+2026-03-24 2.2
+Col de Madaméte en boucle depuis Tournaboup
+https://www.camptocamp.org/outings/1887214
+Bigorre - Ordesa
+Benoît
+c2c 1887208
+2026-03-24 3.1
+Andørja: Langlitinden et traversée
+https://www.camptocamp.org/outings/1887208
+Troms
+Edward O
+c2c 1887162
+2026-03-24 2.2
+Piz da las Coluonnas : per il Lago Grevasalvas
+https://www.camptocamp.org/outings/1887162
+Grisons centraux
+berus
+c2c 1887083
+2026-03-24 3.3
+Aiguille d'Ancelle : Couloir NE
+https://www.camptocamp.org/outings/1887083
+Écrins
+Gilles Privat
+c2c 1887076
+2026-03-24 4.2
+Pic de Merlheu : Arête SSW
+https://www.camptocamp.org/outings/1887076
+Bigorre - Ordesa
+Molopolo
+c2c 1887069
+2026-03-24 4.1
+Chaussy en moquette hors horaires d'ouverture
+https://www.camptocamp.org/outings/1887069
+Alpes Vaudoises
+Camillo
+c2c 1887045
+2026-03-24 2.1
+Spanstinden  : versant S
+https://www.camptocamp.org/outings/1887045
+Troms
+Mathieu des Noes
+c2c 1887044
+2026-03-24 5.2
+Pic de Lachat : Couloir NE de droite
+https://www.camptocamp.org/outings/1887044
+Lauzière - Cheval Noir
+hosanniere
+c2c 1887016
+2026-03-24 1.3
+Pointe de Chésery : Arête NW (arête des Rochassons)
+https://www.camptocamp.org/outings/1887016
+Chablais
+quintao
+c2c 1887015
+2026-03-24 4.2
+Pic du Midi de Bigorre : Face S couloir "la Roche Noire"
+https://www.camptocamp.org/outings/1887015
+Bigorre - Ordesa
+yann44
+c2c 1887007
+2026-03-24 3.2
+Grammont : Traversée Tanay - combe de Chaumény
+https://www.camptocamp.org/outings/1887007
+Chablais
+dereuxromain
+c2c 1886980
+2026-03-24 4.1
+Grand Ferrand : Voie du Chourum Olympique
+https://www.camptocamp.org/outings/1886980
+Dévoluy
+Bruno Besson
+c2c 1886972
+2026-03-24 4.2
+Col du Midi (Col E de Balafrasse) : Versant NW
+https://www.camptocamp.org/outings/1886972
+Bornes - Aravis
+meije_23
+c2c 1886961
+2026-03-24 5.1
+Pène Blanque À l’abordage
+https://www.camptocamp.org/outings/1886961
+Bigorre - Ordesa
+janic
+c2c 1886946
+2026-03-24 4.3
+Tête de Bossetan / Bostan : Goulet de la Dalle Cachée
+https://www.camptocamp.org/outings/1886946
+Chablais
+sylvain brondex
+c2c 1886904
+2026-03-24 3.3
+Teysachaux : Versant W
+https://www.camptocamp.org/outings/1886904
+Préalpes Fribourgeoises - Bernoises
+Julien Vallet
+c2c 1887784
+2026-03-22 5.2
+Grand Ferrand : Voie du Chourum Olympique
+https://www.camptocamp.org/outings/1887784
+Dévoluy
+Ours.pyreneen
+c2c 1887699
+2026-03-23 nc
+Col des Fours, Col du Pisset et Col de Méant Martin depuis le Refuge du Fond des Fours
+https://www.camptocamp.org/outings/1887699
+Vanoise
+sissssou
+c2c 1887345
+2026-03-23 2.3
+Drümännler : Voie Normale
+https://www.camptocamp.org/outings/1887345
+Alpes Bernoises
+Bchar
+c2c 1886910
+2026-03-23 4.3
+Pique d'Endron : Créneau d'Endron
+https://www.camptocamp.org/outings/1886910
+Haute Ariège - Andorre
+Thomas Noirot
+c2c 1886842
+2026-03-23 3.3
+Pointe de l'Étendard : Couloir NE
+https://www.camptocamp.org/outings/1886842
+Écrins
+MarcMB
+c2c 1886841
+2026-03-23 4.1
+Le Buet : Par le Versant NE des Tours
+https://www.camptocamp.org/outings/1886841
+Haut Giffre - Aiguilles Rouges - Fiz
+Geoffrey Ge
+c2c 1886839
+2026-03-23 5.1
+Louettes Econdoué /  Luè Ehondua : Pt 3004 - couloir W, sortie directe crête 3100
+https://www.camptocamp.org/outings/1886839
+Valais W - Alpes Pennines W
+Patrick Vuilleumier
+c2c 1886838
+2026-03-23 1.2
+couloir SE du lary
+https://www.camptocamp.org/outings/1886838
+Bigorre - Ordesa
+yann44
+c2c 1886825
+2026-03-23 2.3
+J2: Boucle du refuge par Madamete et Gourguet, et retour Mongie
+https://www.camptocamp.org/outings/1886825
+Bigorre - Ordesa
+Anna
+c2c 1886768
+2026-03-23 nc
+Cambre d'Aze : Al fil dels cinquentas
+https://www.camptocamp.org/outings/1886768
+Puigmal - Canigou - Albères
+ale.theron@gmail.com
+c2c 1886743
+2026-03-23 3.1
+Cime de Pisset et Piagu pour tâter la dernière poudreuse.
+https://www.camptocamp.org/outings/1886743
+Mercantour - Argentera
+skiroad
+c2c 1886683
+2026-03-23 5.1
+Pointe de la Chavache : Couloir NW
+https://www.camptocamp.org/outings/1886683
+Chablais
+Mahel
+c2c 1886666
+2026-03-23 5.1
+Le Linleu / Mont Lenla : Boucle Linleu (Couloir de l'Anguille) > Sex du Coeur (Couloir du Serpent)
+https://www.camptocamp.org/outings/1886666
+Chablais
+Bourrasset
+c2c 1886660
+2026-03-23 2.1
+Tête de la Sallaz :Tête des Muets
+https://www.camptocamp.org/outings/1886660
+Bornes - Aravis
+meije_23
+c2c 1886604
+2026-03-23 4.1
+Pic de Neige Cordier : Traversée Glacier d'Arsine → Glacier des Agneaux par la brèche de la Plate des Agneaux
+https://www.camptocamp.org/outings/1886604
+Écrins
+nicolasmcx
+c2c 1886598
+2026-03-23 2.3
+Turge de la Suffie et Cime de Charvie en boucle
+https://www.camptocamp.org/outings/1886598
+Queyras N - Briançonnais - Alpes Cottiennes
+Guibolle
+c2c 1886558
+2026-03-23 2.1
+Punta dell'Aquila : dall'Alpe Colombino
+https://www.camptocamp.org/outings/1886558
+Queyras N - Briançonnais - Alpes Cottiennes
+Marco Orsello
+c2c 1886529
+2026-03-23 3.1
+Tuc de Parros antécîme
+https://www.camptocamp.org/outings/1886529
+Couserans - Aran N
+André Cluzet
+c2c 1887922
+2026-03-22 1.3
+Tsa de Flassin
+https://www.camptocamp.org/outings/1887922
+Valais W - Alpes Pennines W
+BertrandSemelet
+c2c 1887908
+2026-03-22 3.3
+Pic de Sarrouyes : Versant E
+https://www.camptocamp.org/outings/1887908
+Luchon - Posets - Maladeta - Aigüestortes
+william
+c2c 1887371
+2026-03-22 3.3
+Ourlenotte couloir E et Rocher d'Aran : Par la carrière
+https://www.camptocamp.org/outings/1887371
+Béarn - Balaïtous - Partacua
+david lavie
+c2c 1887039
+2026-03-22 2.3
+Tête de la Combaz : Versant SE
+https://www.camptocamp.org/outings/1887039
+Beaufortain
+Benoit Dhal.
+c2c 1886962
+2026-03-18 4.1
+Tour Massif Chambeyron
+https://www.camptocamp.org/outings/1886962
+Queyras S - Parpaillon - Ubaye - Orrenaye
+vickymowbrayp@gmail.com
+c2c 1886840
+2026-03-22 3.3
+Les Aiguillettes pointe S : Couloir Marcosiflette
+https://www.camptocamp.org/outings/1886840
+Bigorre - Ordesa
+Pieter0270
+c2c 1886816
+2026-03-22 3.1
+J1: Direction le refuge d'Aygues Cluses via 4 Termes et Hourquette Nere
+https://www.camptocamp.org/outings/1886816
+Bigorre - Ordesa
+Anna
+c2c 1886729
+2026-03-22 3.2
+Pointe de la Terrasse : Par le Col  de la Terrasse
+https://www.camptocamp.org/outings/1886729
+Haut Giffre - Aiguilles Rouges - Fiz
+olivier raimond
+c2c 1886635
+2026-03-20 4.1
+Altels : Face NW
+https://www.camptocamp.org/outings/1886635
+Alpes Bernoises
+Apoutsiak
+c2c 1886557
+2026-03-22 nc
+Pic d'Ourdissétou : depuis la cabane de Lisiert
+https://www.camptocamp.org/outings/1886557
+Luchon - Posets - Maladeta - Aigüestortes
+Olivier
+c2c 1886543
+2026-03-22 3.2
+Col des Lacs Noirs : En boucle par le Col de la Glière
+https://www.camptocamp.org/outings/1886543
+Haut Giffre - Aiguilles Rouges - Fiz
+pedropony
+c2c 1886483
+2026-03-22 2.3
+Pazolastock e discesa dalla Martschallüke su Andermatt con GSA
+https://www.camptocamp.org/outings/1886483
+Bündner Oberland - Adula - Tessin E
+Riccardo Ugo
+c2c 1886480
+2026-03-21 nc
+Pique d'Estats : Par le refuge du Pinet et/ou le pic de Montcalm
+https://www.camptocamp.org/outings/1886480
+Haute Ariège - Andorre
+Paul Guerin
+c2c 1886431
+2026-03-21 nc
+Grossvenediger : E - par Neue Prager Hütte
+https://www.camptocamp.org/outings/1886431
+Hohe Tauern
+Rufus Lawrence
+c2c 1886416
+2026-03-22 4.2
+Pic Chaussy : Couloir N et Versant NW
+https://www.camptocamp.org/outings/1886416
+Alpes Vaudoises
+flints7one
+c2c 1886404
+2026-03-21 3.2
+Col des Plines / Col Droit : Traversée Bivouac de l'Envers des Dorées >> Champex
+https://www.camptocamp.org/outings/1886404
+Mont-Blanc
+Ra2f
+c2c 1886385
+2026-03-22 2.2
+Col de Bérard : depuis Vallorcine
+https://www.camptocamp.org/outings/1886385
+Haut Giffre - Aiguilles Rouges - Fiz
+DarkLio
+c2c 1886337
+2026-03-22 3.2
+Pointe de la Terrasse : Par le Col  de la Terrasse
+https://www.camptocamp.org/outings/1886337
+Haut Giffre - Aiguilles Rouges - Fiz
+piter
+c2c 1886295
+2026-03-22 2.1
+Pointe d'Andey : Versant E (voie normale) depuis solaison.
+https://www.camptocamp.org/outings/1886295
+Bornes - Aravis
+Sophie Ferlin
+c2c 1886282
+2026-03-22 3.1
+Stössenstock : per la Hohbergtal
+https://www.camptocamp.org/outings/1886282
+Alpes Uranaises
+Maurizio DZ
+c2c 1886281
+2026-03-22 5.1
+Pic d'Espade : Couloir SE Blue Latifolia
+https://www.camptocamp.org/outings/1886281
+Bigorre - Ordesa
+Svenou
+c2c 1886243
+2026-03-22 4.1
+Bel Oiseau : Couloir NE
+https://www.camptocamp.org/outings/1886243
+Haut Giffre - Aiguilles Rouges - Fiz
+PY
+c2c 1886241
+2026-03-22 nc
+Pic de Néouvielle : Par la brèche de Chausenque depuis la Glère
+https://www.camptocamp.org/outings/1886241
+Bigorre - Ordesa
+laurentP
+c2c 1886207
+2026-03-22 2.3
+Mont Fromage et Canaple depuis le col de Porte
+https://www.camptocamp.org/outings/1886207
+Chartreuse
+Loïc Perrin
+c2c 1886201
+2026-03-22 2.3
+Traversée lac de l'Oule - Tournaboup par cols d'Aumar et Madamete puis descente par Ets Coubous
+https://www.camptocamp.org/outings/1886201
+Bigorre - Ordesa
+fred_31
+c2c 1886199
+2026-03-22 4.2
+Mont Arrouy S : Couloir WSW
+https://www.camptocamp.org/outings/1886199
+Bigorre - Ordesa
+yann44
+c2c 1886156
+2026-03-22 5.2
+Pic de Chamoissière : Couloir NW de la Baïonnette
+https://www.camptocamp.org/outings/1886156
+Écrins
+nicolasmcx
+c2c 1886145
+2026-03-22 2.3
+Mys Derrey : En boucle autour du Pralet par le lac des Joncs
+https://www.camptocamp.org/outings/1886145
+Préalpes Fribourgeoises - Bernoises
+Serge Naoux
+c2c 1886135
+2026-03-22 5.1
+Pic de Saint André : Couloir du Dièdre ocre
+https://www.camptocamp.org/outings/1886135
+Bigorre - Ordesa
+Nico RadenoX
+c2c 1886077
+2026-03-22 4.2
+Le Métailler : En boucle: Allèves >> glacier de Métail
+https://www.camptocamp.org/outings/1886077
 Valais W - Alpes Pennines W
 Maurice Mischler
-c2c 1831463
-2025-10-31 3.3
-Châtillon : Par Pra Cornet
-https://www.camptocamp.org/outings/1831463
-Alpes Vaudoises
-Julien Vallet
-c2c 1831243
-2025-10-29 nc
-L'Homme Cairn : Versant SE
-https://www.camptocamp.org/outings/1831243
+c2c 1886043
+2026-03-20 4.3
+La Meije - Pic Oriental (Meije Orientale) : Arête NE (voie normale)
+https://www.camptocamp.org/outings/1886043
+Écrins
+SERVETTAZ Laurent
+c2c 1886022
+2026-03-22 2.1
+Litje Rundfjellet  : versant W
+https://www.camptocamp.org/outings/1886022
+Troms
+Mathieu des Noes
+c2c 1885997
+2026-03-22 4.1
+Soum Blanc des Espécières Occidental : Face S
+https://www.camptocamp.org/outings/1885997
+Bigorre - Ordesa
+Molopolo
+c2c 1885982
+2026-03-22 4.3
+Grand Gabizos : Versant E
+https://www.camptocamp.org/outings/1885982
+Béarn - Balaïtous - Partacua
+Clement Marcel
+c2c 1885951
+2026-03-22 3.1
+Pène Blanque Combe d'Oncet
+https://www.camptocamp.org/outings/1885951
+Bigorre - Ordesa
+janic
+c2c 1887577
+2026-03-21 3.2
+Tête du Ruitor (presque...) : versant SE depuis le Valgrisenche
+https://www.camptocamp.org/outings/1887577
 Alpes Grées - Charbonnel
-Acharnay
-c2c 1831378
-2025-10-30 nc
-Montagne de la Baume : Arête W
-https://www.camptocamp.org/outings/1831378
-Préalpes de Digne
-Mama
+BertrandSemelet
+c2c 1887464
+2026-03-21 2.1
+Mont Arp Vieille : Versant SE-  depuis Bonne
+https://www.camptocamp.org/outings/1887464
+Alpes Grées - Charbonnel
+Davide
+c2c 1887419
+2026-03-21 4.3
+Aravis sud première partie
+https://www.camptocamp.org/outings/1887419
+Bornes - Aravis
+Matthieu Blary
+c2c 1887386
+2026-03-21 4.1
+Pic d'Anéou couloir E, retour par le Cuyalaret et la Pène Mieytadère
+https://www.camptocamp.org/outings/1887386
+Béarn - Balaïtous - Partacua
+david lavie
+c2c 1887272
+2026-03-21 3.1
+Piz Maler : Anello da Rueras per la Val Nual e discesa per il versante dell’Alp Mut a Selva.
+https://www.camptocamp.org/outings/1887272
+Bündner Oberland - Adula - Tessin E
+Edoardo Satiro
+c2c 1887172
+2026-03-21 2.2
+Pic du Rognolet : Versant SE par la Combe des Plans
+https://www.camptocamp.org/outings/1887172
+Lauzière - Cheval Noir
+ptitludo
+c2c 1887082
+2026-03-21 nc
+Mont-roig: canal W des de les bordes de Pina pel portanèc de Mulats
+https://www.camptocamp.org/outings/1887082
+Couserans - Aran N
+Cesc Grau
+c2c 1887014
+2026-03-21 2.1
+Monts Jovet : voie normale en AR
+https://www.camptocamp.org/outings/1887014
+Beaufortain
+Benoit Dhal.
+c2c 1886925
+2026-03-21 4.1
+Grand Ferrand : Chourum olympique
+https://www.camptocamp.org/outings/1886925
+Dévoluy
+Quertyx
+c2c 1886724
+2026-03-21 nc
+Pas du Frêne : Versant E
+https://www.camptocamp.org/outings/1886724
+Belledonne
+Benoit Lemaignan
+c2c 1886722
+2026-03-21 3.1
+Le Buet : Traversée depuis l'Index
+https://www.camptocamp.org/outings/1886722
+Haut Giffre - Aiguilles Rouges - Fiz
+olivier raimond
+c2c 1886564
+2026-03-21 4.1
+Traversata Oberalppass - Gurtnellen passando per la Fuorcla da Giuv
+https://www.camptocamp.org/outings/1886564
+Alpes Glaronaises
+TommasoMM
+c2c 1886549
+2026-03-21 3.2
+Col du Chardonnet  : Traversée Aiguille des Grands Montets → Le Tour (Les 3 Cols)
+https://www.camptocamp.org/outings/1886549
+Mont-Blanc
+pedropony
+c2c 1886455
+2026-03-21 2.2
+Iffighore + tentative WIldhorn
+https://www.camptocamp.org/outings/1886455
+Alpes Bernoises
+Stephane Peiti
+c2c 1886423
+2026-03-21 2.2
+Pointe Lachenal : Traversée
+https://www.camptocamp.org/outings/1886423
+Mont-Blanc
+Noshy
+c2c 1886379
+2026-03-21 3.2
+Pointe de la Terrasse : Par le Col  de la Terrasse
+https://www.camptocamp.org/outings/1886379
+Haut Giffre - Aiguilles Rouges - Fiz
+DarkLio
+c2c 1886364
+2026-03-21 4.2
+Enchainement de cols et sommets autour du pic du Loup
+https://www.camptocamp.org/outings/1886364
+Belledonne
+Baptiste Hamel
+c2c 1886363
+2026-03-21 3.1
+Pic de Jallouvre : Tour du Jallouvre
+https://www.camptocamp.org/outings/1886363
+Bornes - Aravis
+GlycoGene
+c2c 1886349
+2026-03-21 5.1
+Tête Noire (Cerces) : Couloir de la poire
+https://www.camptocamp.org/outings/1886349
+Cerces - Thabor - Mont-Cenis
+Chancroy05
+c2c 1886340
+2026-03-21 2.2
+Dôme de la Coche : Pas de la Coche - Versant NW
+https://www.camptocamp.org/outings/1886340
+Belledonne
+erignol
+c2c 1886336
+2026-03-21 2.3
+Le Buet : Versant SE, voie normale hivernale
+https://www.camptocamp.org/outings/1886336
+Haut Giffre - Aiguilles Rouges - Fiz
+piter
+c2c 1886332
+2026-03-21 nc
+Passo di Nefelgiù
+https://www.camptocamp.org/outings/1886332
+Alpes Tessinoises - Conches - Goms
+Franco Pecchio
+c2c 1886247
+2026-03-21 nc
+Col du Grand Van : Couloir NW
+https://www.camptocamp.org/outings/1886247
+Taillefer - Armet
+TomTom
+c2c 1886206
+2026-03-21 5.1
+Le Luisin : Face S directe
+https://www.camptocamp.org/outings/1886206
+Haut Giffre - Aiguilles Rouges - Fiz
+aspahr
+c2c 1886176
+2026-03-21 3.3
+Les Grands Moulins : Face S - depuis Noire Combe
+https://www.camptocamp.org/outings/1886176
+Belledonne
+OCy
+c2c 1886133
+2026-03-21 2.2
+Pointe de Combe Bronsin : Traversée Col du Loup >> Combe de Colomban
+https://www.camptocamp.org/outings/1886133
+Lauzière - Cheval Noir
+Fred30
+c2c 1886131
+2026-03-21 3.3
+Refuge de Camporells : Tour "+" des Camporells
+https://www.camptocamp.org/outings/1886131
+Haute Ariège - Andorre
+nicobech
+c2c 1886130
+2026-03-21 4.2
+Dents du Midi - Col de la Dent Jaune : Traversée S-N
+https://www.camptocamp.org/outings/1886130
+Haut Giffre - Aiguilles Rouges - Fiz
+pieuvre_fluo
+c2c 1886111
+2026-03-21 4.1
+Bel Oiseau en 3 couloirs
+https://www.camptocamp.org/outings/1886111
+Haut Giffre - Aiguilles Rouges - Fiz
+Roror
+c2c 1886074
+2026-03-21 3.3
+Col de Vertsan : Versant SW
+https://www.camptocamp.org/outings/1886074
+Valais W - Alpes Pennines W
+Christian
+c2c 1886044
+2026-03-21 4.3
+Aiguilles de la Pennaz : couloir Nord
+https://www.camptocamp.org/outings/1886044
+Beaufortain
+Nathageron
+c2c 1886021
+2026-03-21 2.2
+Monte Ventasuso / L'Enclause : per il Versante NE
+https://www.camptocamp.org/outings/1886021
+Queyras S - Parpaillon - Ubaye - Orrenaye
+cimaxi
+c2c 1886020
+2026-03-19 3.3
+La Meije - Raids : Tour de la Meije et Grande Ruine par le Col de la Casse Déserte et la Brèche de la Meije
+https://www.camptocamp.org/outings/1886020
+Écrins
+mathieu_v
+c2c 1885948
+2026-03-21 4.2
+Mamule  & Charvet: Couloir N et face W
+https://www.camptocamp.org/outings/1885948
+Bornes - Aravis
+lologallo
+c2c 1885946
+2026-03-21 3.1
+Pic de Barrosa : Depuis l'Hospice de Parzan
+https://www.camptocamp.org/outings/1885946
+Bigorre - Ordesa
+AlainHure
+c2c 1885890
+2026-03-21 4.2
+Aiguille d'Argentière : Glacier du Milieu
+https://www.camptocamp.org/outings/1885890
+Mont-Blanc
+lagopède
+c2c 1885866
+2026-03-21 5.2
+L'Église de la Tour Sallière : Couloir Hug, retour par le couloir S du col d'Emaney
+https://www.camptocamp.org/outings/1885866
+Haut Giffre - Aiguilles Rouges - Fiz
+steph3668
+c2c 1885865
+2026-03-21 4.2
+Mont Fallère Épaule NW  :  Couloir NW
+https://www.camptocamp.org/outings/1885865
+Valais W - Alpes Pennines W
+Olivier Bohrer
+c2c 1885776
+2026-03-21 5.2
+Grand Ferrand : Voie du Chourum Olympique
+https://www.camptocamp.org/outings/1885776
+Dévoluy
+Killyan
+c2c 1885761
+2026-03-21 3.3
+Tour de Jasse Bralard via le couloir SE du col N du Grand Sorbier et le col W de la Passure
+https://www.camptocamp.org/outings/1885761
+Belledonne
+Loïc Perrin
+c2c 1885705
+2026-03-21 5.1
+Châtillon : Goulotte à Pollux
+https://www.camptocamp.org/outings/1885705
+Alpes Vaudoises
+Sophie Ferlin

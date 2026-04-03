@@ -4,236 +4,298 @@
   <link rel="alternate" href="http://www.data-avalanche.org" />
   <subtitle>Atom Feed of last avalanches</subtitle>
   <rights>data-avalanche.org</rights>
-  <updated>2025-11-28T21:06:34Z</updated>
+  <updated>2026-04-02T09:34:08Z</updated>
   <dc:creator>data-avalanche.org</dc:creator>
-  <dc:date>2025-11-28T21:06:34Z</dc:date>
+  <dc:date>2026-04-02T09:34:08Z</dc:date>
   <dc:language>fr</dc:language>
   <dc:rights>data-avalanche.org</dc:rights>
   <entry>
-    <title>Avalanche le 28/11/2025 : Haute Tarentaise, secteur Rocher de la Davie</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764337775105" />
+    <title>Avalanche le 02/04/2026 : Haut Giffre- Aiguilles Rouges, secteur Vallorcine, Tête de la Chevrette</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1775119733277" />
     <author>
       <name />
     </author>
-    <updated>2025-11-28T21:06:34Z</updated>
-    <published>2025-11-28T21:06:34Z</published>
-    <summary type="html">Plaque partie accidentellement sous les skis du premier skieur. &#xD;
-C'est une fine couche fragile positionnée entre de la veille neige et la neige récente des derniers jours qui est à l'origine de cette propagation. &#xD;
-Très cohérent avec le test nivologique réalisé quelques instants plus tôt par les protagonistes dans un secteur très proche :&#xD;
-&lt;a href="https://www.data-avalanche.org/romansns-test/?1764328697452" target="_blank"&gt;Lien vers le profil stratigraphique et les tests nivologiques&lt;/a&gt;</summary>
-    <dc:date>2025-11-28T21:06:34Z</dc:date>
-    <geo:lat>45.51019654498558</geo:lat>
-    <geo:long>6.954174041748048</geo:long>
+    <updated>2026-04-02T09:34:08Z</updated>
+    <published>2026-04-02T09:34:08Z</published>
+    <summary type="html">Neige lourde qui est partie naturellement.</summary>
+    <dc:date>2026-04-02T09:34:08Z</dc:date>
+    <geo:lat>46.028756442477345</geo:lat>
+    <geo:long>6.905115860712726</geo:long>
     <avalanche:orientation>S</avalanche:orientation>
-    <avalanche:date_event>2025-11-27T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2855</avalanche:altitude_start>
-    <avalanche:altitude_stop>2630</avalanche:altitude_stop>
+    <avalanche:date_event>2026-04-01T22:00:00Z</avalanche:date_event>
   </entry>
   <entry>
-    <title>Avalanche le 28/11/2025 : Haute Tarentaise, secteur Tignes, Tufs entre tuf 7 et pente du râtelier</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764348566475" />
+    <title>Avalanche le 31/03/2026 : Haute Tarentaise, secteur Tignes, Tovière face ESE</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774960725253" />
     <author>
       <name />
     </author>
-    <updated>2025-11-28T16:53:19Z</updated>
-    <published>2025-11-28T16:53:19Z</published>
-    <summary type="html">Avalanche de plaques, déclenchement provoqué par le passage du 1er skieur, sous ses pieds, propagation, cassure de 20-30cm jusqu'à l'ancienne neige, puis 2eme avalanche, idem, par le 2eme skieur.</summary>
-    <dc:date>2025-11-28T16:53:19Z</dc:date>
-    <geo:lat>45.45812459938363</geo:lat>
-    <geo:long>6.906840650459563</geo:long>
-    <avalanche:orientation>W</avalanche:orientation>
-    <avalanche:date_event>2025-11-27T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2400</avalanche:altitude_start>
-    <avalanche:altitude_stop>2150</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 27/11/2025 : Ecrins, secteur Puy Saint Vincent - la PENDINE</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764252311063" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-27T15:47:06Z</updated>
-    <published>2025-11-27T15:47:06Z</published>
-    <summary type="html">Plaque de neige sèche friable, déclenchée accidentellement (probablement à distance par des skieurs), sur couche fragile persistante formée à même le sol pendant le long épisode de beau temps du mois de novembre.</summary>
-    <dc:date>2025-11-27T15:47:06Z</dc:date>
-    <geo:lat>44.8052468919092</geo:lat>
-    <geo:long>6.456548919321925</geo:long>
-    <avalanche:orientation>NE</avalanche:orientation>
-    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2550</avalanche:altitude_start>
-    <avalanche:altitude_stop>2380</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 27/11/2025 : Alpes Grées, secteur Tierce</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764266147901" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-27T17:55:47Z</updated>
-    <published>2025-11-27T17:55:47Z</published>
-    <summary type="html">Belles plaques friables partie sans doute hier, le dépôt n’était pas recouvert.&#xD;
-Peu de neige mobilisé mais longueur de cassure importante.</summary>
-    <dc:date>2025-11-27T17:55:47Z</dc:date>
-    <geo:lat>45.30580381059627</geo:lat>
-    <geo:long>7.016447924548094</geo:long>
-    <avalanche:orientation>E</avalanche:orientation>
-    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2900</avalanche:altitude_start>
-    <avalanche:altitude_stop>1800</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 27/11/2025 : Aravis, secteur Montagne de Sulens</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764289744867" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-28T08:10:38Z</updated>
-    <published>2025-11-28T08:10:38Z</published>
-    <summary type="html">Aperçu une coulée de plaque de fond sur une des faces ouest du Sulens. Départ spontanée, pas de trace de skieur.</summary>
-    <dc:date>2025-11-28T08:10:38Z</dc:date>
-    <geo:lat>45.83291994213588</geo:lat>
-    <geo:long>6.369892269727982</geo:long>
-    <avalanche:orientation>W</avalanche:orientation>
-    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>1650</avalanche:altitude_start>
-    <avalanche:altitude_stop>1600</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 27/11/2025 : Alpes Grées, secteur Grand Fond</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764266377957" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-27T17:59:37Z</updated>
-    <published>2025-11-27T17:59:37Z</published>
-    <summary type="html">Déclenchement sûrement durant les précipitations (dépôt recouvert)</summary>
-    <dc:date>2025-11-27T17:59:37Z</dc:date>
-    <geo:lat>45.341626006452984</geo:lat>
-    <geo:long>7.065597619588019</geo:long>
-    <avalanche:orientation>NW</avalanche:orientation>
-    <avalanche:date_event>2025-11-26T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>3200</avalanche:altitude_start>
-    <avalanche:altitude_stop>3000</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 26/11/2025 : Haute Tarentaise, secteur Aiguille Percée, 3murs</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764347934225" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-28T16:45:31Z</updated>
-    <published>2025-11-28T16:45:31Z</published>
-    <summary type="html">Avalanche de plaque, partie jusqu'à l'ancienne neige</summary>
-    <dc:date>2025-11-28T16:45:31Z</dc:date>
-    <geo:lat>45.49122972098383</geo:lat>
-    <geo:long>6.896980470107278</geo:long>
-    <avalanche:orientation>N</avalanche:orientation>
-    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2450</avalanche:altitude_start>
-    <avalanche:altitude_stop>2300</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 26/11/2025 : Queyras, secteur Ceillac, Pics de la Font Sancte, Piste Girardin</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764186951048" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-26T20:13:39Z</updated>
-    <published>2025-11-26T20:13:39Z</published>
-    <summary type="html">Plaque de neige à canon sur la piste de Girardin</summary>
-    <dc:date>2025-11-26T20:13:39Z</dc:date>
-    <geo:lat>44.64145585383932</geo:lat>
-    <geo:long>6.79821143050072</geo:long>
-    <avalanche:orientation>N</avalanche:orientation>
-    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2025</avalanche:altitude_start>
-    <avalanche:altitude_stop>2000</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 26/11/2025 : Ubaye, secteur Tête de Crouès, Riou de Crouès</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764174101910" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-26T16:21:41Z</updated>
-    <published>2025-11-26T16:21:41Z</published>
-    <summary type="html">Déclenchent à distance, environ 250m de distance, d'une plaque, après quelques "whoufs" et un "clac" final, lors du départ de l'avalanche.&#xD;
-le BERA est de niveau 3. Donc, pas de grande surprise de voir un départ à cet endroit, vu la pente, l'altitude et l'exposition.</summary>
-    <dc:date>2025-11-26T16:21:41Z</dc:date>
-    <geo:lat>44.44681423686968</geo:lat>
-    <geo:long>6.685653353601891</geo:long>
-    <avalanche:orientation>NE</avalanche:orientation>
-    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
-  </entry>
-  <entry>
-    <title>Avalanche le 26/11/2025 : Parpaillon, secteur les plastres</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764167327202" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-26T15:25:35Z</updated>
-    <published>2025-11-26T15:25:35Z</published>
-    <summary type="html">Observation de coulée qui s'étend sur toute la face. Déclenchement inconnu, pas de trace de skieurs</summary>
-    <dc:date>2025-11-26T15:25:35Z</dc:date>
-    <geo:lat>44.45055824864225</geo:lat>
-    <geo:long>6.683132980225289</geo:long>
-    <avalanche:orientation>NE</avalanche:orientation>
-    <avalanche:date_event>2025-11-25T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2800</avalanche:altitude_start>
-    <avalanche:altitude_stop>2600</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 25/11/2025 : Ecrins, secteur Aiglière, vallon de Narreyroux</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764185149705" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-26T19:25:49Z</updated>
-    <published>2025-11-26T19:25:49Z</published>
-    <summary type="html">Plaque friable, probablement sur couche fragile persistante, partie spontanément pendant ou juste après le dernier épisode perturbé (entre dimanche 23 novembre au soir et mardi 25 novembre au matin).</summary>
-    <dc:date>2025-11-26T19:25:49Z</dc:date>
-    <geo:lat>44.811967514411265</geo:lat>
-    <geo:long>6.425163195340687</geo:long>
-    <avalanche:orientation>E</avalanche:orientation>
-    <avalanche:date_event>2025-11-24T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>2800</avalanche:altitude_start>
-    <avalanche:altitude_stop>2680</avalanche:altitude_stop>
-  </entry>
-  <entry>
-    <title>Avalanche le 25/11/2025 : Ubaye, secteur Super Sauze,  Chapeau-de-Gendarme</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764139249587" />
-    <author>
-      <name />
-    </author>
-    <updated>2025-11-26T06:44:24Z</updated>
-    <published>2025-11-26T06:44:24Z</published>
-    <summary type="html">"deux skieurs de randonnée emportés et ensevelis, ils échappent de justesse à la mort"&#xD;
-"Le peloton de gendarmerie de haute-montagne de Jausiers est intervenu mardi 25 novembre vers 10 h 30 sur la face nord du Chapeau-de-Gendarme, dans la commune d’Enchastrayes, pour évacuer deux skieurs de randonnée. Emportés par une avalanche, les deux ont été ensevelis, mais l’un des deux uniquement de manière partielle."&#xD;
-"La gendarmerie tient à rappeler aux skieurs et autres que la neige n’est pas encore bien fixée et que les conditions sont pour l’instant assez dangereuses."</summary>
-    <dc:date>2025-11-26T06:44:24Z</dc:date>
-    <geo:lat>44.340302</geo:lat>
-    <geo:long>6.668257</geo:long>
-    <avalanche:orientation>N</avalanche:orientation>
-    <avalanche:date_event>2025-11-24T23:00:00Z</avalanche:date_event>
+    <updated>2026-03-31T12:56:55Z</updated>
+    <published>2026-03-31T12:56:55Z</published>
+    <summary type="html">Secteur Tovière.&#xD;
+Déclenchement skieur.&#xD;
+Alt ~2500m.&#xD;
+Expo Est/ Sud Est.&#xD;
+Cassure 20/40cm.</summary>
+    <dc:date>2026-03-31T12:56:55Z</dc:date>
+    <geo:lat>45.45532216412105</geo:lat>
+    <geo:long>6.913965136425984</geo:long>
+    <avalanche:orientation>SE</avalanche:orientation>
+    <avalanche:date_event>2026-03-30T22:00:00Z</avalanche:date_event>
     <avalanche:altitude_start>2500</avalanche:altitude_start>
   </entry>
   <entry>
-    <title>Avalanche le 24/11/2025 : Vanoise, secteur Aussois, Bord de piste</title>
-    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1764001685805" />
+    <title>Avalanche le 31/03/2026 : Haute Tarentaise, secteur Rocher de la Davie - Davie</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774986597397" />
     <author>
       <name />
     </author>
-    <updated>2025-11-24T18:05:57Z</updated>
-    <published>2025-11-24T18:05:57Z</published>
-    <summary type="html">Plaque de neige à canon en aval de la piste forestière. Illustre la très grande gamme de types de neige pouvant constituer des "plaques" (c'est à dire qu'il est impossible de reconnaitre une plaque à sa consistance, son humidité, etc. Contrairement à ce qui est encore communément admis).&#xD;
-Fait anecdotique par rapport à ce qui se passe probablement plus à l'Ouest (ou qui va se passer). Les précipitations abondantes après l'épisode de froid intense et durable que nous avons connu ne peuvent que donner lieu à des situations instables.&#xD;
-Quelques événements de grande ampleur signalés en cette fin de journée de lundi (Vanoise)</summary>
-    <dc:date>2025-11-24T18:05:57Z</dc:date>
-    <geo:lat>45.241562</geo:lat>
-    <geo:long>6.732543</geo:long>
+    <updated>2026-03-31T19:51:03Z</updated>
+    <published>2026-03-31T19:51:03Z</published>
+    <summary type="html">Plaque superficielle, formée suite à faible précipitations et fort vent. Déclenchement peut-être accidentel (trace à proximité) ?</summary>
+    <dc:date>2026-03-31T19:51:03Z</dc:date>
+    <geo:lat>45.5157900895181</geo:lat>
+    <geo:long>6.944153308868408</geo:long>
     <avalanche:orientation>SW</avalanche:orientation>
-    <avalanche:date_event>2025-11-23T23:00:00Z</avalanche:date_event>
-    <avalanche:altitude_start>1872</avalanche:altitude_start>
+    <avalanche:date_event>2026-03-30T22:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2500</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 31/03/2026 : Beaufortain, secteur Lac de Presset, Refuge de Presset</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774989293626" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-31T20:52:14Z</updated>
+    <published>2026-03-31T20:52:14Z</published>
+    <summary type="html">«Ce mardi 31 mars vers 11 heures, l’hélicoptère de la sécurité civile de Haute-Savoie, avec à son bord un équipage de secouristes, s’est envolé vers le refuge de Presset sur la commune de La Plagne-Tarentaise (Savoie). Une fois sur place, les professionnels ont pris en charge un guide de montagne âgé de 36 ans qui avait été enseveli sous une avalanche quelques instants plus tôt.»&#xD;
+&#xD;
+Article du Dauphiné disponible ici : &lt;a href="https://www.ledauphine.com/faits-divers-justice/2026/03/31/enseveli-sous-une-avalanche-un-guide-de-montagne-secouru-par-ses-clients" target="_blank"&gt;https://www.ledauphine.com/faits-divers-justice/2026/03/31/enseveli-sous-une-avalanche-un-guide-de-montagne-secouru-par-ses-clients&lt;/a&gt;&#xD;
+&#xD;
+Localisation approximative sur la carte jointe.</summary>
+    <dc:date>2026-03-31T20:52:14Z</dc:date>
+    <geo:lat>45.648513331816105</geo:lat>
+    <geo:long>6.664116678436726</geo:long>
+    <avalanche:orientation>T</avalanche:orientation>
+    <avalanche:date_event>2026-03-30T22:00:00Z</avalanche:date_event>
+  </entry>
+  <entry>
+    <title>Avalanche le 31/03/2026 : Vanoise, secteur Refuge du saut, Plan des Génisses</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774970567296" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-31T16:14:06Z</updated>
+    <published>2026-03-31T16:14:06Z</published>
+    <summary type="html">Montée au refuge lundi 30/03/2026 à 18h00.&#xD;
+Nous avons constaté des avalanches provenant du Plan des Génisses à 9h00 lors de notre descente.&#xD;
+La première a traversé le chemin au niveau du replat après la dernière montée avant le refuge, la deuxième est arrivée à la première épingle du chemin de la dernière montée au refuge.</summary>
+    <dc:date>2026-03-31T16:14:06Z</dc:date>
+    <geo:lat>45.34134674251905</geo:lat>
+    <geo:long>6.627471938796093</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2026-03-30T22:00:00Z</avalanche:date_event>
+    <avalanche:altitude_stop>2100</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 30/03/2026 : Queyras, secteur Tête du Longet, Les Mayts</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774877567733" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-31T06:48:02Z</updated>
+    <published>2026-03-31T06:48:02Z</published>
+    <summary type="html">Tombée entre 9 et 11h.</summary>
+    <dc:date>2026-03-31T06:48:02Z</dc:date>
+    <geo:lat>44.66929700995454</geo:lat>
+    <geo:long>6.917207635423447</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2026-03-29T22:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2500</avalanche:altitude_start>
+    <avalanche:altitude_stop>2400</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 29/03/2026 : Pelvoux, secteur Vallon du Grand Tabuc, Crête des Grangettes</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774796439384" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-29T15:10:11Z</updated>
+    <published>2026-03-29T15:10:11Z</published>
+    <summary type="html">Observation d'une plaque d'allure récente, date de départ exacte inconnue.</summary>
+    <dc:date>2026-03-29T15:10:11Z</dc:date>
+    <geo:lat>44.931927756679926</geo:lat>
+    <geo:long>6.474389859682025</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2026-03-28T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2400</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 29/03/2026 : Massif du Mont-Blanc, secteur Bassin d’Argentière, Col du Chardonnet</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774797875634" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-30T18:29:54Z</updated>
+    <published>2026-03-30T18:29:54Z</published>
+    <summary type="html">L’avalanche est partie au passage du 2 ou 3 eme skieur à la montée, une personne a été prise et a dévalée, non ensevelie , pas d’informations si blessure ?</summary>
+    <dc:date>2026-03-30T18:29:54Z</dc:date>
+    <geo:lat>45.956169598414704</geo:lat>
+    <geo:long>6.992262658595638</geo:long>
+    <avalanche:orientation>W</avalanche:orientation>
+    <avalanche:date_event>2026-03-28T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2650</avalanche:altitude_start>
+    <avalanche:altitude_stop>2580</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 28/03/2026 : Vanoise, secteur La Plagne, Roc du Bécoin</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774733564190" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-28T21:41:33Z</updated>
+    <published>2026-03-28T21:41:33Z</published>
+    <summary type="html">La Plagne déclenchement skieur vers 11h contrepente Est du Becoin &#xD;
+Altitude 2400m taille 2&#xD;
+1 skieur légèrement bousculé.</summary>
+    <dc:date>2026-03-28T21:41:33Z</dc:date>
+    <geo:lat>45.49303930940859</geo:lat>
+    <geo:long>6.664797478334462</geo:long>
+    <avalanche:orientation>E</avalanche:orientation>
+    <avalanche:date_event>2026-03-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2400</avalanche:altitude_start>
+  </entry>
+  <entry>
+    <title>Avalanche le 28/03/2026 : Bauges, secteur Pécloz, Faille N de Pecloz</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774728772401" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-28T20:22:51Z</updated>
+    <published>2026-03-28T20:22:51Z</published>
+    <summary type="html">Plaque de fond partie dans la journée en N à 1550 sur terrain herbeux. Épaisseur du manteau de l’ordre de 50 à 80cm.</summary>
+    <dc:date>2026-03-28T20:22:51Z</dc:date>
+    <geo:lat>45.63554010081288</geo:lat>
+    <geo:long>6.220067241476608</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2026-03-27T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>1550</avalanche:altitude_start>
+    <avalanche:altitude_stop>1400</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/03/2026 : Embrunais Parpaillon, secteur Grand Parpaillon, Montée au parpaillon</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774682161175" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-31T16:12:39Z</updated>
+    <published>2026-03-31T16:12:39Z</published>
+    <summary type="html">Plaque à vent, largeur 15m, longueur 30m, estimée taille 2. Epaisseur minimum cassure 10cm, épaisseur max cassée au dessus estimée 1.5m.</summary>
+    <dc:date>2026-03-31T16:12:39Z</dc:date>
+    <geo:lat>44.5022561296993</geo:lat>
+    <geo:long>6.6493848020978215</geo:long>
+    <avalanche:orientation>NE</avalanche:orientation>
+    <avalanche:date_event>2026-03-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2620</avalanche:altitude_start>
+    <avalanche:altitude_stop>2602</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 27/03/2026 : Haute Tarentaise, secteur Tignes, Col de la Tourne</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774623445577" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-28T20:19:41Z</updated>
+    <published>2026-03-28T20:19:41Z</published>
+    <summary type="html">Nid d’aigle Tignes, déclenchement skieur hors piste vers 13h aujourd’hui.</summary>
+    <dc:date>2026-03-28T20:19:41Z</dc:date>
+    <geo:lat>45.475103361879846</geo:lat>
+    <geo:long>6.879465157966169</geo:long>
+    <avalanche:orientation>E</avalanche:orientation>
+    <avalanche:date_event>2026-03-26T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2580</avalanche:altitude_start>
+    <avalanche:altitude_stop>2480</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/03/2026 : Ubaye, secteur Vallon de l’Infernet, La Grande Combe, face N</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774905975098" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-31T08:34:54Z</updated>
+    <published>2026-03-31T08:34:54Z</published>
+    <summary type="html">J'avais renoncé au sommet et j'avais quitté la trace pour contourner quasiment en courbe de niveau le point coté 2698 visible en rouge sur la capture d’écran de la carte.&#xD;
+Je traversais la pente en légère ascension quand il y a eu une ligne de rupture sous mes skis. Je suis parti avec le manteau en effectuant au mieux les gestes qui permettent de limiter les dégâts. Au bilan ça a été plutôt réussi car quand je me suis arrêté, j'avais la tête au dehors et un bras libre. Le pb, c'est que la pente est aussi partie au dessus de moi, dans le rouge, et c'est cette neige qui m'a recouvert. Mais la neige étant relativement légère, avec ma main restée libre, j'ai pu dégager mon visage et attendre qu'on vienne me sortir de là.&#xD;
+Il faisait froid avec beaucoup de vent.</summary>
+    <dc:date>2026-03-31T08:34:54Z</dc:date>
+    <geo:lat>44.501021256701854</geo:lat>
+    <geo:long>6.677514318641334</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2026-03-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2624</avalanche:altitude_start>
+    <avalanche:altitude_stop>2592</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/03/2026 : Haute Tarentaise, secteur Tignes, Col de la Leisse, Itinéraire de PIDA contre haut piste de Génépi</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774522772827" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-26T11:34:49Z</updated>
+    <published>2026-03-26T11:34:49Z</published>
+    <summary type="html">PIDA manuel. Reprise de l'activité avalancheuse formation de plaques sous le vent violent 100km/h. Neige et température de surface très froide et soufflée qui  ne colle pas avec le manteau existant. Gros blizzard pas de photo possible, 86% d'hygrométrie -17 degrés.</summary>
+    <dc:date>2026-03-26T11:34:49Z</dc:date>
+    <geo:lat>45.428596978622394</geo:lat>
+    <geo:long>6.902793994748961</geo:long>
+    <avalanche:orientation>SE</avalanche:orientation>
+    <avalanche:date_event>2026-03-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2900</avalanche:altitude_start>
+    <avalanche:altitude_stop>2850</avalanche:altitude_stop>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/03/2026 : Haute Maurienne, secteur Refuge des Évettes</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774557254252" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-26T20:38:57Z</updated>
+    <published>2026-03-26T20:38:57Z</published>
+    <summary type="html">"Ce jeudi 26 mars, en milieu de journée, un groupe de randonneurs à ski a donné l’alerte au poste de secours en montagne de Modane : dans la descente du refuge des Évettes, une coulée de neige s’était déclenchée à leur passage, emportant trois des leurs.[...]Les neiges récentes se combinent avec beaucoup de vent : elles s’envolent et se redéposent, provoquant des accumulations dans les secteurs plus abrités. "&#xD;
+&#xD;
+Article du Dauphiné disponible ici : &lt;a href="https://c.ledauphine.com/faits-divers-justice/2026/03/26/une-nouvelle-avalanche-emporte-trois-skieurs-a-bonneval-sur-arc" target="_blank"&gt;https://c.ledauphine.com/faits-divers-justice/2026/03/26/une-nouvelle-avalanche-emporte-trois-skieurs-a-bonneval-sur-arc&lt;/a&gt;&#xD;
+&#xD;
+Localisation approximative sur la carte jointe</summary>
+    <dc:date>2026-03-26T20:38:57Z</dc:date>
+    <geo:lat>45.37274365884211</geo:lat>
+    <geo:long>7.090110049201797</geo:long>
+    <avalanche:orientation>T</avalanche:orientation>
+    <avalanche:date_event>2026-03-25T23:00:00Z</avalanche:date_event>
+  </entry>
+  <entry>
+    <title>Avalanche le 26/03/2026 : Vanoise, secteur Bosse du Dos Rond, couloir de la follie</title>
+    <link rel="alternate" href="http://www.data-avalanche.org/avalanche/1774535356575" />
+    <author>
+      <name />
+    </author>
+    <updated>2026-03-26T15:15:42Z</updated>
+    <published>2026-03-26T15:15:42Z</published>
+    <summary type="html">Départ accidentel&#xD;
+Deux skieurs coupent le pied de pente en traversée, sans tenir de distance de sécurité.&#xD;
+Une plaque se décroche 20 mètres au dessus d’eux. &#xD;
+Plaque friable, d’aspect poudreux. &#xD;
+Largeur : 40/50m&#xD;
+Longueur : 100m&#xD;
+Cassure 20 à 35 cm&#xD;
+Le dépôt s’arrête sur un léger replat. &#xD;
+Skieurs partiellement recouverts (jusqu’à la taille). &#xD;
+Pas de victime.</summary>
+    <dc:date>2026-03-26T15:15:42Z</dc:date>
+    <geo:lat>45.53066601657497</geo:lat>
+    <geo:long>6.720941420775875</geo:long>
+    <avalanche:orientation>N</avalanche:orientation>
+    <avalanche:date_event>2026-03-25T23:00:00Z</avalanche:date_event>
+    <avalanche:altitude_start>2300</avalanche:altitude_start>
+    <avalanche:altitude_stop>2198</avalanche:altitude_stop>
   </entry>
 </ava>
 

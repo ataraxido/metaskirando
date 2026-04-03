@@ -1,672 +1,3300 @@
-gipfelbuch 818209
-2025-11-28 -
-Näbekenfirst
-https://www.gipfelbuch.ch/verhaeltnisse/818209-skitour-naebekenfirst-1565m
+gipfelbuch 1051140
+2026-04-03 -
+Winter-Barriere - Sahli (Bisistal) - Ruosalp
+https://www.gipfelbuch.ch/verhaeltnisse/1051140-skitour-rau-stoeckli-2290m
 Alpes Glaronaises/Uranaises
-Michi Huber
-gipfelbuch 817844
-2025-11-28 -
-Maienberg - Bergstation Pizolbahnen - Wildseeluggen - Pizolsattel - Westflanke zum Gipfelkreuz Pizol
-https://www.gipfelbuch.ch/verhaeltnisse/817844-skitour-pizol-2844m
+Schneeracer
+gipfelbuch 1051132
+2026-04-03 -
+Obersee-Grapplialp-Grapplistafel-Tritt-Rautisalp-Sattel-Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1051132-skitour-rautispitz-2283m
 Alpes Glaronaises
-Bruchpilot
-gipfelbuch 817837
-2025-11-28 -
-Normalroute ab PP bei Vordere Fildrich
-https://www.gipfelbuch.ch/verhaeltnisse/817837-skitour-galmschibe-2425m
+Ta Ka
+gipfelbuch 1051032
+2026-04-03 -
+Ab Wasserscheide mit Abfahrt über Oberwirtnere und weiter zur Skilift-Talstation
+https://www.gipfelbuch.ch/verhaeltnisse/1051032-skitour-gustispitz-2074m
 Alpes Vaud./Frib./Bern.
-Saltamonte
-gipfelbuch 817792
-2025-11-28 -
-Vom Flexenpass zum Schwarzen Turm
-https://www.gipfelbuch.ch/verhaeltnisse/817792-skitour-schwarzer-turm-2292m
+mark the shark
+gipfelbuch 1050979
+2026-04-03 -
+Simplonpass  - Normalroute
+https://www.gipfelbuch.ch/verhaeltnisse/1050979-skitour-spitzhorli-2737m
+Valais
+Bastian Ebert
+gipfelbuch 1050839
+2026-04-03 -
+Von Hinterberg via Höchstelli
+https://www.gipfelbuch.ch/verhaeltnisse/1050839-skitour-rothorn-2363m
+Grisons
+Kauk
+gipfelbuch 1050817
+2026-04-03 -
+Von Berggasthaus Malbun über Isisizgrat zum Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1050817-skitour-gross-fulfirst-2384m
+Alpes Glaronaises
+WoPow
+gipfelbuch 1050814
+2026-04-03 -
+Fronalp, Abfahrt Obstalden
+https://www.gipfelbuch.ch/verhaeltnisse/1050814-skitour-schilt-2299m
+Alpes Glaronaises
+Martin Brandenberger
+gipfelbuch 1050784
+2026-04-03 -
+Von der Grimmialp/Vordere Fildrich über die NE-Flanke Türmlihore / Türmlihorn W-Gipfel 2395 m
+https://www.gipfelbuch.ch/verhaeltnisse/1050784-skitour-tuermlihorn-2490m
+Alpes Vaud./Frib./Bern.
+Heyoka
+gipfelbuch 1050755
+2026-04-03 -
+Normalroute ab PP bei Vordere Fildrich
+https://www.gipfelbuch.ch/verhaeltnisse/1050755-skitour-galmschibe-2425m
+Alpes Vaud./Frib./Bern.
+Heyoka
+gipfelbuch 1050745
+2026-04-03 -
+von E-Werk (Schoppernau)
+https://www.gipfelbuch.ch/verhaeltnisse/1050745-skitour-toblermannskopf-2010m
 Vorarlberg
-Rosi Bell
-gipfelbuch 817710
-2025-11-28 -
-Von P1020 der Panoramastrasse Giswil-Sörenberg......
-https://www.gipfelbuch.ch/verhaeltnisse/817710-skitour-maendli-2061m
+Martina Huber
+gipfelbuch 1050704
+2026-04-03 -
+Ab Wägitalersee (Punkt 918)
+https://www.gipfelbuch.ch/verhaeltnisse/1050704-skitour-redertengrat-2222m
 Alpes Glaronaises/Uranaises
-Kelli
-gipfelbuch 817643
-2025-11-28 -
-von Obergschwend über die Buchelalpe
-https://www.gipfelbuch.ch/verhaeltnisse/817643-skitour-wertacher-hoernle-1695m
+Cinghi
+gipfelbuch 1050682
+2026-04-03 -
+Untere Gantrischhütte  - Chumlihütte - Morgetepass (Normalroute)
+https://www.gipfelbuch.ch/verhaeltnisse/1050682-skitour-buerglen-2165m
+Alpes Vaud./Frib./Bern.
+Schi Chrigu
+gipfelbuch 1050655
+2026-04-03 -
+Vom Parkplatz Litzirüti über - Schlangenstein - Säss
+https://www.gipfelbuch.ch/verhaeltnisse/1050655-skitour-hasenflueeli-2412m
+Grisons
+Peter Huber
+gipfelbuch 1050616
+2026-04-03 -
+Meniggrund über die Alpstrasse bis Brätliplatz - Krete- Stand 1938 m
+https://www.gipfelbuch.ch/verhaeltnisse/1050616-skitour-stand-1939m
+Alpes Vaud./Frib./Bern.
+Summit41
+gipfelbuch 1050587
+2026-04-03 -
+Meniggrund-Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1050587-skitour-meniggrat-1949m
+Alpes Vaud./Frib./Bern.
+Summit41
+gipfelbuch 1050584
+2026-04-03 -
+Weglosen-Rütistein-Druesberghütte
+https://www.gipfelbuch.ch/verhaeltnisse/1050584-skitour-ruetistein-2025m
+Alpes Glaronaises/Uranaises
+Foostock
+gipfelbuch 1050566
+2026-04-03 -
+Nordostanstieg über die Bamberger Hütte.
+https://www.gipfelbuch.ch/verhaeltnisse/1050566-skitour-aleitenspitze-2449m
+Tirol
+Hänse
+gipfelbuch 1050547
+2026-04-03 -
+von Latschau-Stausee
+https://www.gipfelbuch.ch/verhaeltnisse/1050547-skitour-sulzfluh-2818m
+Vorarlberg
+Peter  Loacker
+gipfelbuch 1050465
+2026-04-03 -
+Ab Berisal an der Simplonpassstrasse (P.1524)  (Normalroute)
+https://www.gipfelbuch.ch/verhaeltnisse/1050465-skitour-bortelhorn-3194m
+Valais
+Andreas Hille
+gipfelbuch 1050455
+2026-04-03 -
+Über Hochgrat zum Rindalphorn
+https://www.gipfelbuch.ch/verhaeltnisse/1050455-skitour-rindalphorn-1821m
 Allgäu
-sportsengineer
-gipfelbuch 817636
-2025-11-28 -
-Normalroute ab Untere Gantischhütte
-https://www.gipfelbuch.ch/verhaeltnisse/817636-skitour-birehubel-1850m
+K88353
+gipfelbuch 1050400
+2026-04-03 -
+Gamsfreiheit von Marul Faludrigaalpe
+https://www.gipfelbuch.ch/verhaeltnisse/1050400-skitour-gamsfreiheit-2211m
+Vorarlberg
+Steffffff
+gipfelbuch 1050353
+2026-04-03 -
+Von Stein (Toggenburg) aus
+https://www.gipfelbuch.ch/verhaeltnisse/1050353-skitour-stockberg-1781m
+Alpes Glaronaises
+laksa
+gipfelbuch 1050350
+2026-04-03 -
+Von St. Antönien Gafia/Dörfji (Parkplatz 12)
+https://www.gipfelbuch.ch/verhaeltnisse/1050350-skitour-spitzenbueel-2194m
+Grisons
+tom1000
+gipfelbuch 1050208
+2026-04-03 -
+Ab Bergstation Schwalbennest über Sattel und Vorgipfel zum Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1050208-skitour-torrenthorn-2998m
+Alpes Vaud./Frib./Bern.
+wd
+gipfelbuch 1050141
+2026-04-03 -
+Parkplatz Meniggrund-Seeberg-Gipfel.
+https://www.gipfelbuch.ch/verhaeltnisse/1050141-skitour-seehore-2281m
+Alpes Vaud./Frib./Bern.
+Micha Kernen
+gipfelbuch 1050074
+2026-04-03 -
+Weesen  - Kaputzberg - Obernäten - Federispitz
+https://www.gipfelbuch.ch/verhaeltnisse/1050074-skitour-federispitz-1867m
+Alpes Glaronaises
+Michi Huber
+gipfelbuch 1050064
+2026-04-03 -
+Aufstieg Normalroute - Abfahrt Nordflanke
+https://www.gipfelbuch.ch/verhaeltnisse/1050064-skitour-buerglen-2165m
 Alpes Vaud./Frib./Bern.
 Dratig
-gipfelbuch 817615
-2025-11-28 -
-Feutersoey Dorf via Schneeweid- Hintere Walig
-https://www.gipfelbuch.ch/verhaeltnisse/817615-skitour-walighuerli-2050m
-Alpes Vaud./Frib./Bern.
-Andreni
-gipfelbuch 817611
-2025-11-28 -
-Von Berggasthaus Malbun über Isisizgrat zum Gipfel
-https://www.gipfelbuch.ch/verhaeltnisse/817611-skitour-rosswies-2334m
-Alpes Glaronaises
-Xaver Hutter
-gipfelbuch 817580
-2025-11-28 -
-Bergstation Sulwald - Alpe Chuebodmi - Schärlihubel
-https://www.gipfelbuch.ch/verhaeltnisse/817580-skitour-hoeji-sulegg-2413m
-Alpes Vaud./Frib./Bern.
-Thomas Hostettler
-gipfelbuch 817556
-2025-11-28 -
-Von Vermol auf den Hüenerchopf
-https://www.gipfelbuch.ch/verhaeltnisse/817556-skitour-hueenerchopf-2171m
-Alpes Glaronaises
-Claudio
-gipfelbuch 817555
-2025-11-28 -
-Vom Riedli über Bodenfluhhütte und Sommerweg.
-https://www.gipfelbuch.ch/verhaeltnisse/817555-skitour-wiriehorn-2304m
-Alpes Vaud./Frib./Bern.
-Olivier Jeanbourquin
-gipfelbuch 817545
-2025-11-28 -
-Aufstieg Normalroute - Abfahrt Nordflanke
-https://www.gipfelbuch.ch/verhaeltnisse/817545-skitour-buerglen-2165m
-Alpes Vaud./Frib./Bern.
-Berge gleich Leben
-gipfelbuch 817542
-2025-11-28 -
-Ab Talstation Herzogenhornbahn
-https://www.gipfelbuch.ch/verhaeltnisse/817542-skitour-grafenmatt-1375m
-Schwarzwald
-wollknäuelsockenbart
-gipfelbuch 817535
-2025-11-28 -
-von Niederrickenbach
-https://www.gipfelbuch.ch/verhaeltnisse/817535-skitour-glattgrat-2191m
-Alpes Glaronaises/Uranaises
-Peter Huber
-gipfelbuch 817510
-2025-11-28 -
-Gunzesried Säge NO-Anstieg
-https://www.gipfelbuch.ch/verhaeltnisse/817510-skitour-bleicherhorn-1669m
-Allgäu
-Bergsiach
-gipfelbuch 817508
-2025-11-28 -
-Mariannehubel
-https://www.gipfelbuch.ch/verhaeltnisse/817508-skitour-mariannehubel-2155m
-Alpes Vaud./Frib./Bern.
-Madlen
-gipfelbuch 817494
-2025-11-28 -
-Von Gargellen in´s Vergaldatal
-https://www.gipfelbuch.ch/verhaeltnisse/817494-skitour-hinterberg-2682m
-Vorarlberg
-K88353
-gipfelbuch 817492
-2025-11-28 -
-von St. Antönien
-https://www.gipfelbuch.ch/verhaeltnisse/817492-skitour-girenspitz-2369m
-Grisons
-snowpow
-gipfelbuch 817485
-2025-11-28 -
-von Tschalun, durch Schneitwald, Oberwandli
-https://www.gipfelbuch.ch/verhaeltnisse/817485-skitour-laucherenstoeckli-1753m
-Alpes Glaronaises/Uranaises
-redi1713
-gipfelbuch 817474
-2025-11-28 -
-371a Hirsegg - Schlund
-https://www.gipfelbuch.ch/verhaeltnisse/817474-skitour-hengst-schrattenflue-2092m
-Alpes Glaronaises/Uranaises
-renehaldi
-gipfelbuch 817417
-2025-11-28 -
-Stand via Hintermenige
-https://www.gipfelbuch.ch/verhaeltnisse/817417-skitour-stand-diemtigtal-1939m
-Alpes Vaud./Frib./Bern.
-Gipfelfrau
-gipfelbuch 817394
-2025-11-28 -
-ab Niederrickenbach via Brisenhaus
-https://www.gipfelbuch.ch/verhaeltnisse/817394-skitour-glattgrat-2191m
-Alpes Glaronaises/Uranaises
-Don Pizza
-gipfelbuch 817296
-2025-11-28 -
-Von Vermol auf den Hüenerchopf
-https://www.gipfelbuch.ch/verhaeltnisse/817296-skitour-hueenerchopf-2171m
-Alpes Glaronaises
-Bärlauch
-gipfelbuch 813182
-2025-11-28 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/813182-skitour-aeschispitz-1400m
-Suisse
-
-gipfelbuch 817218
-2025-11-27 -
-von Tschalun, durch Schneitwald, Oberwandli
-https://www.gipfelbuch.ch/verhaeltnisse/817218-skitour-laucherenstoeckli-1753m
-Alpes Glaronaises/Uranaises
-Macap
-gipfelbuch 817203
-2025-11-27 -
-Zwischenflüh - Vordertärfet - Turnen - unter Blaachli - Zwischenflüh
-https://www.gipfelbuch.ch/verhaeltnisse/817203-skitour-turnen-2079m
-Alpes Vaud./Frib./Bern.
-Frideli
-gipfelbuch 817072
-2025-11-27 -
-Mariannehubel
-https://www.gipfelbuch.ch/verhaeltnisse/817072-skitour-mariannehubel-2155m
-Alpes Vaud./Frib./Bern.
-Mudo
-gipfelbuch 817045
-2025-11-27 -
-Südflanke
-https://www.gipfelbuch.ch/verhaeltnisse/817045-skitour-gros-haut-cret-nord-1640m-1640m
-
-Berge gleich Leben
-gipfelbuch 817029
-2025-11-27 -
-Ueber Contin
-https://www.gipfelbuch.ch/verhaeltnisse/817029-skitour-gros-haut-cret-1644m-1644m
-
-Berge gleich Leben
-gipfelbuch 816650
-2025-11-27 -
-Normalroute ab PP bei Vordere Fildrich
-https://www.gipfelbuch.ch/verhaeltnisse/816650-skitour-galmschibe-2425m
-Alpes Vaud./Frib./Bern.
-Fädimän
-gipfelbuch 816649
-2025-11-27 -
-Selispitz
-https://www.gipfelbuch.ch/verhaeltnisse/816649-skitour-selispitz-1736m
-Alpes Glaronaises/Uranaises
-inthenature
-gipfelbuch 816643
-2025-11-27 -
-von Bad Laterns via Passstraße und Neugerach Alpe
-https://www.gipfelbuch.ch/verhaeltnisse/816643-skitour-gerenfalben-1938m
-Vorarlberg
-MikeRider
-gipfelbuch 816609
-2025-11-27 -
-Parkplatz Grimmialp - Alphütten Nidegg - Grimmifurggi
-https://www.gipfelbuch.ch/verhaeltnisse/816609-skitour-rauflihorn-2322m
-Alpes Vaud./Frib./Bern.
-DanielSTF
-gipfelbuch 816579
-2025-11-27 -
-von Ecce Homo
-https://www.gipfelbuch.ch/verhaeltnisse/816579-skitour-wildspitz-1580m
-Alpes Glaronaises/Uranaises
-Heinz55
-gipfelbuch 816573
-2025-11-27 -
-Normalroute ab Untere Gantischhütte
-https://www.gipfelbuch.ch/verhaeltnisse/816573-skitour-birehubel-1850m
-Alpes Vaud./Frib./Bern.
-Werren Roger
-gipfelbuch 816556
-2025-11-27 -
-Vom Bahnhof Realp über Deieren
-https://www.gipfelbuch.ch/verhaeltnisse/816556-skitour-stotzigen-firsten-2752m
-Alpes Glaronaises/Uranaises
-renehaldi
-gipfelbuch 816541
-2025-11-27 -
-Ahornhang
-https://www.gipfelbuch.ch/verhaeltnisse/816541-skitour-hochgrat-1834m
-Allgäu
-K88353
-gipfelbuch 816535
-2025-11-27 -
-Feldberg Pass - Grafenmatt  - Herzogenhorn  - Bernau  - Silberberg  - Brandenberg
-https://www.gipfelbuch.ch/verhaeltnisse/816535-skitour-herzogenhorn-1415m
-Schwarzwald
-Frank  Jäger
-gipfelbuch 816521
-2025-11-27 -
-Schwarzer Turm
-https://www.gipfelbuch.ch/verhaeltnisse/816521-skitour-schwarzer-turm-2292m
-Vorarlberg
-Tim Bek
-gipfelbuch 816512
-2025-11-27 -
-Ab Skilift"tal"station Tanzboden über Stangen - Stotzweid- zum Gipfel
-https://www.gipfelbuch.ch/verhaeltnisse/816512-skitour-tanzboden-1443m
-Alpes Glaronaises
-hunzi
-gipfelbuch 816508
-2025-11-27 -
-371a Hirsegg - Schlund
-https://www.gipfelbuch.ch/verhaeltnisse/816508-skitour-hengst-schrattenflue-2092m
-Alpes Glaronaises/Uranaises
-Hans  Wüst
-gipfelbuch 816489
-2025-11-27 -
-von Maienberg aus
-https://www.gipfelbuch.ch/verhaeltnisse/816489-skitour-pizol-2844m
-Alpes Glaronaises
-Peter  Loacker
-gipfelbuch 816484
-2025-11-27 -
-ab Obere Belchenhöfe
-https://www.gipfelbuch.ch/verhaeltnisse/816484-skitour-belchen-1414m
-Schwarzwald
-zachaflo
-gipfelbuch 816352
-2025-11-27 -
-Vom Melchtal
-https://www.gipfelbuch.ch/verhaeltnisse/816352-skitour-storegg-1800m
-Alpes Glaronaises/Uranaises
-MiniMized
-gipfelbuch 816333
-2025-11-27 -
-Ab Wegmacherhütte 890 müm
-https://www.gipfelbuch.ch/verhaeltnisse/816333-skitour-belchen-1414m
-Schwarzwald
-MWS
-gipfelbuch 816326
-2025-11-27 -
-von der Auenhütte
-https://www.gipfelbuch.ch/verhaeltnisse/816326-skitour-hahnenkoepfle-2085m
-Vorarlberg
-FRITZ
-gipfelbuch 816274
-2025-11-27 -
-von Tschalun, durch Schneitwald, Oberwandli
-https://www.gipfelbuch.ch/verhaeltnisse/816274-skitour-laucherenstoeckli-1753m
-Alpes Glaronaises/Uranaises
-Peter Huber
-gipfelbuch 816222
-2025-11-27 -
-Beatenberg - Schmocken - Bode - Vorsess Niederhorn
-https://www.gipfelbuch.ch/verhaeltnisse/816222-skitour-niederhorn-1963m
-Alpes Vaud./Frib./Bern.
-Madlen
-gipfelbuch 816217
-2025-11-27 -
-Von Hengstkurve über Frilismad und NW-Seite (Normalroute)
-https://www.gipfelbuch.ch/verhaeltnisse/816217-skitour-alpiglemaeren-westgipfel-2044m
-Alpes Vaud./Frib./Bern.
-alefri
-gipfelbuch 816196
-2025-11-27 -
-Zwischenflüh - Vordertärfet - Turnen - unter Blaachli - Zwischenflüh
-https://www.gipfelbuch.ch/verhaeltnisse/816196-skitour-turnen-2079m
-Alpes Vaud./Frib./Bern.
-RadioEriwan
-gipfelbuch 816182
-2025-11-27 -
-Parkplatz Grimmialp - Alphütten Nidegg - Grimmifurggi
-https://www.gipfelbuch.ch/verhaeltnisse/816182-skitour-rauflihorn-2322m
+gipfelbuch 1049930
+2026-04-03 -
+Von Sagi via Chireltal und W-Flanke
+https://www.gipfelbuch.ch/verhaeltnisse/1049930-skitour-honiese-2454m
 Alpes Vaud./Frib./Bern.
 Bettler Markus
-gipfelbuch 816175
-2025-11-27 -
-Chumigalm über W Seite
-https://www.gipfelbuch.ch/verhaeltnisse/816175-skitour-chumigalm-2125m
+gipfelbuch 1050907
+2026-04-02 -
+Von Langis über Rickhubel
+https://www.gipfelbuch.ch/verhaeltnisse/1050907-skitour-fuerstein-2040m
+Alpes Glaronaises/Uranaises
+Peter Keller
+gipfelbuch 1050220
+2026-04-02 -
+Turnen/Puntel/Buufal-Trilogie von Därstetten
+https://www.gipfelbuch.ch/verhaeltnisse/1050220-skitour-turnen-2079m
 Alpes Vaud./Frib./Bern.
-Natur - Freak
-gipfelbuch 816106
-2025-11-27 -
-Von Sattel via Peterschwändi, Halsegg. Abfahrt nach Ecce Homo
-https://www.gipfelbuch.ch/verhaeltnisse/816106-skitour-wildspitz-1580m
+wörni
+gipfelbuch 1049400
+2026-04-02 -
+Langis-Rickhubel
+https://www.gipfelbuch.ch/verhaeltnisse/1049400-skitour-rickhubel-1943m
 Alpes Glaronaises/Uranaises
-Bergbesteiger
-gipfelbuch 815974
-2025-11-27 -
-Von P1020 der Panoramastrasse Giswil-Sörenberg......
-https://www.gipfelbuch.ch/verhaeltnisse/815974-skitour-maendli-2061m
+Baumii
+gipfelbuch 1049388
+2026-04-02 -
+Von der Sonnenklause mit Abfahrt über die Gähwinde
+https://www.gipfelbuch.ch/verhaeltnisse/1049388-skitour-sonnenkopf-1712m
+Allgäu
+FRITZ
+gipfelbuch 1049385
+2026-04-02 -
+Normal Route mit Ski
+https://www.gipfelbuch.ch/verhaeltnisse/1049385-skitour-suldenspitze-3376m
+Trentino - Südtirol
+kamikaze bob
+gipfelbuch 1049384
+2026-04-02 -
+Von Starkenbach auf den Selun
+https://www.gipfelbuch.ch/verhaeltnisse/1049384-skitour-selun-2205m
+Alpes Glaronaises
+Doktorchen
+gipfelbuch 1049314
+2026-04-02 -
+Normalroute ab Untere Gantischhütte
+https://www.gipfelbuch.ch/verhaeltnisse/1049314-skitour-birehubel-1850m
+Alpes Vaud./Frib./Bern.
+Dratig
+gipfelbuch 1049307
+2026-04-02 -
+Nordwestroute aus dem Lecknertal
+https://www.gipfelbuch.ch/verhaeltnisse/1049307-skitour-westlicher-koppachstein-1537m
+Vorarlberg
+Snow*Wolf
+gipfelbuch 1049276
+2026-04-02 -
+Lutertannen-Risipass-Stockberg-Risipass-Lutertannen
+https://www.gipfelbuch.ch/verhaeltnisse/1049276-skitour-stockberg-1781m
+Alpes Glaronaises
+Alekern
+gipfelbuch 1049244
+2026-04-02 -
+Mattjischhorn über Pirigen
+https://www.gipfelbuch.ch/verhaeltnisse/1049244-skitour-mattjisch-horn-2460m
+Grisons
+Hannes80
+gipfelbuch 1049239
+2026-04-02 -
+Überschreitung von Sörenberg nach Kemmeriboden
+https://www.gipfelbuch.ch/verhaeltnisse/1049239-skitour-arnibergegg-1605m
 Alpes Glaronaises/Uranaises
-godyfax
-gipfelbuch 815634
-2025-11-27 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/815634-skitour-birehubel-1850m
-Suisse
-
-gipfelbuch 815525
-2025-11-27 -
+Gugs1
+gipfelbuch 1049229
+2026-04-02 -
+Alpiglemäre: Schwefelbergbad-Hengstkurve
+https://www.gipfelbuch.ch/verhaeltnisse/1049229-skitour-alpiglemaeren-westgipfel-2044m
+Alpes Vaud./Frib./Bern.
+alefri
+gipfelbuch 1049227
+2026-04-02 -
+Von Unter Altberg via Sterenegg - Windegg
+https://www.gipfelbuch.ch/verhaeltnisse/1049227-skitour-laucherenstoeckli-1753m
+Alpes Glaronaises/Uranaises
+redi1713
+gipfelbuch 1049220
+2026-04-02 -
+von Gunzesried Säge
+https://www.gipfelbuch.ch/verhaeltnisse/1049220-skitour-tennenmooskopf-1627m
+Allgäu
+maribu
+gipfelbuch 1049212
+2026-04-02 -
+von Ascharina
+https://www.gipfelbuch.ch/verhaeltnisse/1049212-skitour-jaegglisch-horn-2290m
+Grisons
+Peter Huber
+gipfelbuch 1049186
+2026-04-02 -
+Meniggrund-Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1049186-skitour-meniggrat-1949m
+Alpes Vaud./Frib./Bern.
+Auxi
+gipfelbuch 1049155
+2026-04-02 -
+Hinterberg über Scära zum Wannenspitz
+https://www.gipfelbuch.ch/verhaeltnisse/1049155-skitour-wannenspitz-1970m
+Grisons
+Lampione
+gipfelbuch 1049139
+2026-04-02 -
+Lift bis Bonistock über Chringen zum Rotsandnollen
+https://www.gipfelbuch.ch/verhaeltnisse/1049139-skitour-rotsandnollen-2700m
+Alpes Glaronaises/Uranaises
+Smu C
+gipfelbuch 1049135
+2026-04-02 -
+Ab Henzi an der Weisstannenstrasse
+https://www.gipfelbuch.ch/verhaeltnisse/1049135-skitour-garmil-2003m
+Alpes Glaronaises
+Wiistannener
+gipfelbuch 1049087
+2026-04-02 -
+Ab Churwalden
+https://www.gipfelbuch.ch/verhaeltnisse/1049087-skitour-piz-raschil-2575m
+Grisons
+Hermon
+gipfelbuch 1049078
+2026-04-02 -
+Normalroute ab PP bei Vordere Fildrich
+https://www.gipfelbuch.ch/verhaeltnisse/1049078-skitour-galmschibe-2425m
+Alpes Vaud./Frib./Bern.
+RadioEriwan
+gipfelbuch 1049369
+2026-04-01 -
+Von der Bergstation Mittelallalin via Vorderer Allalingrat
+https://www.gipfelbuch.ch/verhaeltnisse/1049369-skitour-allalinhorn-4027m
+Valais
+Schanin
+gipfelbuch 1049175
+2026-04-01 -
+von Oberiberg / Tschalun
+https://www.gipfelbuch.ch/verhaeltnisse/1049175-skitour-furggelenstock-1656m
+Alpes Glaronaises/Uranaises
+Martin Brandenberger
+gipfelbuch 1049165
+2026-04-01 -
+von Oberiberg / Punkt 1087
+https://www.gipfelbuch.ch/verhaeltnisse/1049165-skitour-roggenstock-1778m
+Alpes Glaronaises/Uranaises
+Martin Brandenberger
+gipfelbuch 1049146
+2026-04-01 -
+Bannalp-Chaiserstuel
+https://www.gipfelbuch.ch/verhaeltnisse/1049146-skitour-chaiserstuel-2400m
+Alpes Glaronaises/Uranaises
+Smu C
+gipfelbuch 1048866
+2026-04-01 -
+Von Hinter Bruch - Schwantli - Chruter - Schlunenwald - Rinderweid - Lufthütte - Matt - P. 2044 - Redertengrat, ca. 2200m - Lufthütte -  Abern Oberalp - P. 917 (Seestrasse) - Hinter Bruch
+https://www.gipfelbuch.ch/verhaeltnisse/1048866-skitour-redertengrat-2222m
+Alpes Glaronaises/Uranaises
+ZHB
+gipfelbuch 1048861
+2026-04-01 -
+Skitour von Soilach
+https://www.gipfelbuch.ch/verhaeltnisse/1048861-skitour-predigtstuhl-chiemgauer-alpen-1494m
+Oberbayern Ost
+Peter Worbs
+gipfelbuch 1048832
+2026-04-01 -
+von Arth-Goldau
+https://www.gipfelbuch.ch/verhaeltnisse/1048832-skitour-rigi-kulm-1798m
+Alpes Glaronaises/Uranaises
+ric.dalbello
+gipfelbuch 1048813
+2026-04-01 -
+Untermulten Talstation - Belchenwald- Belchenhaus
+https://www.gipfelbuch.ch/verhaeltnisse/1048813-skitour-belchen-1414m
+Schwarzwald
+Turo1
+gipfelbuch 1048739
+2026-04-01 -
+von Innerthal auf Route 232
+https://www.gipfelbuch.ch/verhaeltnisse/1048739-skitour-bockmattli-1932m
+Alpes Glaronaises/Uranaises
+Platonismo
+gipfelbuch 1048735
+2026-04-01 -
+Skitour
+https://www.gipfelbuch.ch/verhaeltnisse/1048735-skitour-schafberg-2848m
+Alpes Vaud./Frib./Bern.
+wd
+gipfelbuch 1048727
+2026-04-01 -
+Von Splügen über Surettaseen zum Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1048727-skitour-mittaghorn-suretta-2561m
+Grisons
+Heinrich  Pfiffner
+gipfelbuch 1048713
+2026-04-01 -
+Normalroute ab PP bei Vordere Fildrich
+https://www.gipfelbuch.ch/verhaeltnisse/1048713-skitour-galmschibe-2425m
+Alpes Vaud./Frib./Bern.
+Jupiiii
+gipfelbuch 1048663
+2026-04-01 -
+Von Stein (Toggenburg) aus
+https://www.gipfelbuch.ch/verhaeltnisse/1048663-skitour-stockberg-1781m
+Alpes Glaronaises
+laksa
+gipfelbuch 1048616
+2026-04-01 -
+Meniggrund-Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1048616-skitour-meniggrat-1949m
+Alpes Vaud./Frib./Bern.
+Bärnergiu
+gipfelbuch 1048564
+2026-03-31 -
+Schaftelemoos-Sattelpass-Miesenstock Safari
+https://www.gipfelbuch.ch/verhaeltnisse/1048564-skitour-miesenstock-1895m
+Alpes Glaronaises/Uranaises
+mättu 62
+gipfelbuch 1048085
+2026-03-31 -
 D - Schwarzwald
-https://www.gipfelbuch.ch/verhaeltnisse/815525-skitour-belchen-1414m
+https://www.gipfelbuch.ch/verhaeltnisse/1048085-skitour-spiesshorn
 Allemagne
 
-gipfelbuch 815432
-2025-11-27 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/815432-skitour-puntel-1921m
-Suisse
-
-gipfelbuch 815162
-2025-11-27 -
-
-https://www.gipfelbuch.ch/verhaeltnisse/815162-skitour-pre-carrel-1338m-1338m
-Autres régions
-
-gipfelbuch 814618
-2025-11-27 -
-
-https://www.gipfelbuch.ch/verhaeltnisse/814618-skitour-le-barlattey-1630m-1630m
-Autres régions
-
-gipfelbuch 814551
-2025-11-27 -
+gipfelbuch 1047950
+2026-03-31 -
 A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/814551-skitour-hohe-matona-1997m
+https://www.gipfelbuch.ch/verhaeltnisse/1047950-skitour-hoher-frassen-1979m
 Autriche
 
-gipfelbuch 813471
-2025-11-26 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/813471-skitour-rosswies-2334m
-Suisse
-
-gipfelbuch 813356
-2025-11-26 -
+gipfelbuch 1047863
+2026-03-31 -
 CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/813356-skitour-walighuerli-2050m
+https://www.gipfelbuch.ch/verhaeltnisse/1047863-skitour-meniggrat-1949m
 Suisse
 
-gipfelbuch 813294
-2025-11-26 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/813294-skitour-laucherenstoeckli-1753m
-Suisse
-
-gipfelbuch 813275
-2025-11-26 -
+gipfelbuch 1047690
+2026-03-31 -
 A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/813275-skitour-maroikopf-2522m
+https://www.gipfelbuch.ch/verhaeltnisse/1047690-skitour-wendkopf-1532m
 Autriche
 
-gipfelbuch 813234
-2025-11-26 -
+gipfelbuch 1047456
+2026-03-31 -
 CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/813234-skitour-gurbsgrat-2275m
+https://www.gipfelbuch.ch/verhaeltnisse/1047456-skitour-mariannehubel-2155m
 Suisse
 
-gipfelbuch 813219
-2025-11-26 -
+gipfelbuch 1046531
+2026-03-31 -
 CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/813219-skitour-gestelengrat-1935m
+https://www.gipfelbuch.ch/verhaeltnisse/1046531-skitour-wierihorn-2304m
 Suisse
 
-gipfelbuch 813208
-2025-11-26 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/813208-skitour-brueschbuechel-1817m
-Suisse
-
-gipfelbuch 813183
-2025-11-26 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/813183-skitour-aeschispitz-1400m
-Suisse
-
-gipfelbuch 813194
-2025-11-26 -
-D - Allgäu
-https://www.gipfelbuch.ch/verhaeltnisse/813194-skitour-rangiswangerhorn-1620m
-Allemagne
-
-gipfelbuch 813187
-2025-11-26 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/813187-skitour-pizol-2844m
-Suisse
-
-gipfelbuch 813160
-2025-11-26 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/813160-skitour-hochstuckli-1566m
-Suisse
-
-gipfelbuch 813112
-2025-11-26 -
+gipfelbuch 1045677
+2026-03-31 -
 D - Schwarzwald
-https://www.gipfelbuch.ch/verhaeltnisse/813112-skitour-herzogenhorn-1415m
+https://www.gipfelbuch.ch/verhaeltnisse/1045677-skitour-baldenweger-buck-feldberg-1460m
 Allemagne
 
-gipfelbuch 813055
-2025-11-26 -
+gipfelbuch 1044919
+2026-03-31 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1044919-skitour-mehliskopf-1008m
+Allemagne
+
+gipfelbuch 1044663
+2026-03-31 -
 CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/813055-skitour-stockberg-1781m
+https://www.gipfelbuch.ch/verhaeltnisse/1044663-skitour-stockberg-1781m
 Suisse
 
-gipfelbuch 813018
-2025-11-26 -
-A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/813018-skitour-mellenkoepfe-1900m
-Autriche
-
-gipfelbuch 812865
-2025-11-26 -
-A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/812865-skitour-maroikopf-2522m
-Autriche
-
-gipfelbuch 812792
-2025-11-26 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/812792-skitour-spitzmeilen-2501m
-Suisse
-
-gipfelbuch 812783
-2025-11-26 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812783-skitour-laucherenstoeckli-1753m
-Suisse
-
-gipfelbuch 812778
-2025-11-26 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/812778-skitour-redertenstock-2295m
-Suisse
-
-gipfelbuch 812777
-2025-11-26 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812777-skitour-querung-eriz-thunersee-1550m
-Suisse
-
-gipfelbuch 812774
-2025-11-26 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812774-skitour-ruosalper-chulm-2177m
-Suisse
-
-gipfelbuch 812752
-2025-11-23 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812752-skitour-laucherenstoeckli-1753m
-Suisse
-
-gipfelbuch 812712
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812712-skitour-gustispitz-2074m
-Suisse
-
-gipfelbuch 812696
-2025-11-23 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812696-skitour-bruennelistock-1594m
-Suisse
-
-gipfelbuch 812661
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812661-skitour-lasenberg-2019m
-Suisse
-
-gipfelbuch 812660
-2025-11-23 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812660-skitour-hoech-gumme-2205m
-Suisse
-
-gipfelbuch 812649
-2025-11-23 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/812649-skitour-chli-chaerpf-2700m
-Suisse
-
-gipfelbuch 812644
-2025-11-23 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/812644-skitour-gleiterspitz-1531m
-Suisse
-
-gipfelbuch 812628
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812628-skitour-wiriehorn-2304m
-Suisse
-
-gipfelbuch 812622
-2025-11-23 -
-FL - Liechtenstein
-https://www.gipfelbuch.ch/verhaeltnisse/812622-skitour-schoenberg-2104m
-Autres régions
-
-gipfelbuch 812584
-2025-11-23 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812584-skitour-laucherenstoeckli-1753m
-Suisse
-
-gipfelbuch 812565
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812565-skitour-meniggrat-1949m
-Suisse
-
-gipfelbuch 812538
-2025-11-23 -
-CH - Graubünden
-https://www.gipfelbuch.ch/verhaeltnisse/812538-skitour-brunnenegg-2190m
-Suisse
-
-gipfelbuch 812533
-2025-11-23 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/812533-skitour-hagleren-1949m
-Suisse
-
-gipfelbuch 812322
-2025-11-23 -
-A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/812322-skitour-portlahorn-2010m
-Autriche
-
-gipfelbuch 812278
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812278-skitour-gurnigel-1541m
-Suisse
-
-gipfelbuch 812213
-2025-11-23 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/812213-skitour-tanzboden-1443m
-Suisse
-
-gipfelbuch 812181
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/812181-skitour-birehubel-1850m
-Suisse
-
-gipfelbuch 811754
-2025-11-23 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/811754-skitour-fochsenflue-1975m
-Suisse
-
-gipfelbuch 796555
-2025-11-21 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/796555-skitour-gross-staernen-1969m
-Suisse
-
-gipfelbuch 793876
-2025-11-19 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/793876-skitour-pizzo-lucendro-2962m
-Suisse
-
-gipfelbuch 789436
-2025-11-11 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/789436-skitour-chli-bielenhorn-2940m
-Suisse
-
-gipfelbuch 779894
-2025-11-11 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/779894-skitour-chli-chaerpf-2700m
-Suisse
-
-gipfelbuch 794638
-2025-11-11 -
+gipfelbuch 1043627
+2026-03-31 -
 A - Tirol
-https://www.gipfelbuch.ch/verhaeltnisse/794638-skitour-oeslicher-daunkogel-3332m
+https://www.gipfelbuch.ch/verhaeltnisse/1043627-skitour-gramais-1321-1321m
 Autriche
 
-gipfelbuch 776143
-2025-11-11 -
-CH - Zentralschweiz
-https://www.gipfelbuch.ch/verhaeltnisse/776143-skitour-chlaebdaecher-2175m
+gipfelbuch 1043595
+2026-03-31 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1043595-skitour-sonnjoch-2287m
+Autriche
+
+gipfelbuch 1043463
+2026-03-31 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/1043463-skitour-pizzo-grandinagia-2774m
 Suisse
 
-gipfelbuch 775778
-2025-11-01 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/775778-skitour-ringelspitz-3247m
+gipfelbuch 1043416
+2026-03-31 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1043416-skitour-faltschen-skilift-bergstation-1380-m-1380m
 Suisse
 
-gipfelbuch 772995
-2025-11-01 -
+gipfelbuch 1043306
+2026-03-31 -
 CH - Walliser Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/772995-skitour-la-roussette-3262m
+https://www.gipfelbuch.ch/verhaeltnisse/1043306-skitour-dreizehntenhorn-3052m
 Suisse
 
-gipfelbuch 762893
-2025-11-07 -
-CH - Glarus - St. Gallen
-https://www.gipfelbuch.ch/verhaeltnisse/762893-skitour-chli-chaerpf-2700m
-Suisse
-
-gipfelbuch 762486
-2025-11-07 -
+gipfelbuch 1043292
+2026-03-31 -
 CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/762486-skitour-hohtuerli-2778m
+https://www.gipfelbuch.ch/verhaeltnisse/1043292-skitour-hohmattli-1794m
 Suisse
 
-gipfelbuch 761658
-2025-11-07 -
+gipfelbuch 1043222
+2026-03-31 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1043222-skitour-rigi-scheidegg-1662m
+Suisse
+
+gipfelbuch 1043194
+2026-03-31 -
+D - Allgäu
+https://www.gipfelbuch.ch/verhaeltnisse/1043194-skitour-hochgrat-1834m
+Allemagne
+
+gipfelbuch 1043079
+2026-03-31 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1043079-skitour-roggenstock-1778m
+Suisse
+
+gipfelbuch 1042534
+2026-03-31 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1042534-skitour-hornisgrinde-1164m
+Allemagne
+
+gipfelbuch 1041621
+2026-03-31 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1041621-skitour-schijen-2259m
+Suisse
+
+gipfelbuch 1043468
+2026-03-29 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1043468-skitour-chlei-chruez-2103m
+Suisse
+
+gipfelbuch 1042809
+2026-03-29 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1042809-skitour-rheinwaldhorn-3402m
+Suisse
+
+gipfelbuch 1042768
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1042768-skitour-rosswies-2334m
+Suisse
+
+gipfelbuch 1042720
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1042720-skitour-baelmeten-2416m
+Suisse
+
+gipfelbuch 1042531
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1042531-skitour-kronberg-1663m
+Suisse
+
+gipfelbuch 1042518
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1042518-skitour-pkt-1929-bei-vordermenigen-1929m
+Suisse
+
+gipfelbuch 1042444
+2026-03-29 -
 A - Vorarlberg
-https://www.gipfelbuch.ch/verhaeltnisse/761658-skitour-ragazer-blanken-2051m
+https://www.gipfelbuch.ch/verhaeltnisse/1042444-skitour-brendler-lug-1767m
 Autriche
 
-gipfelbuch 759826
-2025-11-07 -
-CH - Waadt/Freib./Berner Alpen
-https://www.gipfelbuch.ch/verhaeltnisse/759826-skitour-buerglen-2165m
+gipfelbuch 1042428
+2026-03-29 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1042428-skitour-gerenspitze-1871m
+Autriche
+
+gipfelbuch 1042224
+2026-03-29 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1042224-skitour-sonnspitze-2062m
+Autriche
+
+gipfelbuch 1041875
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1041875-skitour-fuerstein-2040m
 Suisse
 
-gipfelbuch 758860
-2025-11-07 -
+gipfelbuch 1041402
+2026-03-29 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1041402-skitour-siehe-eintrag-vom-strahlchnubel-3460m
+Autres régions
+
+gipfelbuch 1041338
+2026-03-29 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1041338-skitour-baldenweger-buck-feldberg-1460m
+Allemagne
+
+gipfelbuch 1041319
+2026-03-29 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1041319-skitour-krinnenspitze-2000m
+Autriche
+
+gipfelbuch 1041302
+2026-03-29 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1041302-skitour-strahlchnubel-3243m-3243m
+Autres régions
+
+gipfelbuch 1041240
+2026-03-29 -
+D - Oberbayern Ost
+https://www.gipfelbuch.ch/verhaeltnisse/1041240-skitour-geigelstein-1808m
+Allemagne
+
+gipfelbuch 1041227
+2026-03-29 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1041227-skitour-drei-tuerme-2830m
+Autriche
+
+gipfelbuch 1041190
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1041190-skitour-laucherenstoeckli-1753m
+Suisse
+
+gipfelbuch 1041172
+2026-03-29 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1041172-skitour-herzogenhorn-1415m
+Allemagne
+
+gipfelbuch 1041158
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1041158-skitour-hundstock-2213m
+Suisse
+
+gipfelbuch 1041143
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1041143-skitour-schilt-2299m
+Suisse
+
+gipfelbuch 1041131
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1041131-skitour-lasenberg-2019m
+Suisse
+
+gipfelbuch 1041104
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1041104-skitour-chistihubel-2216m
+Suisse
+
+gipfelbuch 1041083
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1041083-skitour-redertengrat-2222m
+Suisse
+
+gipfelbuch 1041070
+2026-03-29 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1041070-skitour-hoher-freschen-2004m
+Autriche
+
+gipfelbuch 1041060
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1041060-skitour-aeschispitz-1400m
+Suisse
+
+gipfelbuch 1041057
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1041057-skitour-meniggrat-1949m
+Suisse
+
+gipfelbuch 1041056
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1041056-skitour-schilt-2299m
+Suisse
+
+gipfelbuch 1041018
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1041018-skitour-glatten-2504m
+Suisse
+
+gipfelbuch 1040999
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1040999-skitour-bundergletti-2100m
+Suisse
+
+gipfelbuch 1040983
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1040983-skitour-ruetistein-2025m
+Suisse
+
+gipfelbuch 1040963
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1040963-skitour-rosswies-2334m
+Suisse
+
+gipfelbuch 1040948
+2026-03-29 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1040948-skitour-koppachstein-1537m
+Autriche
+
+gipfelbuch 1040945
+2026-03-29 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1040945-skitour-grafenmatt-1375m
+Allemagne
+
+gipfelbuch 1040944
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1040944-skitour-hueenerchopf-2171m
+Suisse
+
+gipfelbuch 1040932
+2026-03-29 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1040932-skitour-gulmen-1788m
+Suisse
+
+gipfelbuch 1040848
+2026-03-29 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1040848-skitour-galmschibe-2425m
+Suisse
+
+gipfelbuch 1040798
+2026-03-29 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1040798-skitour-hoech-gumme-2205m
+Suisse
+
+gipfelbuch 1040792
+2026-03-28 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1040792-skitour-leistchamm-2101m
+Suisse
+
+gipfelbuch 1040707
+2026-03-28 -
 CH - Graubünden
-https://www.gipfelbuch.ch/verhaeltnisse/758860-skitour-berger-calanda-2270m
+https://www.gipfelbuch.ch/verhaeltnisse/1040707-skitour-piz-feil-2501m
+Suisse
+
+gipfelbuch 1040582
+2026-03-28 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1040582-skitour-galmschibe-2425m
+Suisse
+
+gipfelbuch 1040567
+2026-03-28 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1040567-skitour-wiriehorn-2304m
+Suisse
+
+gipfelbuch 1041013
+2026-03-28 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1041013-skitour-arnergale-2496m
+Suisse
+
+gipfelbuch 1041004
+2026-03-28 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1041004-skitour-belchen-1414m
+Allemagne
+
+gipfelbuch 1040051
+2026-03-28 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1040051-skitour-tschaggunser-mittagsspitze-2168m
+Autriche
+
+gipfelbuch 1040019
+2026-03-28 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1040019-skitour-laucherenstoeckli-1753m
+Suisse
+
+gipfelbuch 1040002
+2026-03-27 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1040002-skitour-maendli-2061m
+Suisse
+
+gipfelbuch 1039948
+2026-03-27 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1039948-skitour-le-van-1966m
+Suisse
+
+gipfelbuch 1039932
+2026-03-27 -
+D - Allgäu
+https://www.gipfelbuch.ch/verhaeltnisse/1039932-skitour-hochgrat-1834m
+Allemagne
+
+gipfelbuch 1039904
+2026-03-27 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1039904-skitour-belchen-1414m
+Allemagne
+
+gipfelbuch 1039779
+2026-03-27 -
+CH - Jura
+https://www.gipfelbuch.ch/verhaeltnisse/1039779-skitour-hohe-winde-1204m
+Suisse
+
+gipfelbuch 1038709
+2026-03-27 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1038709-skitour-wendkopf-1532m
+Autriche
+
+gipfelbuch 1036328
+2026-03-27 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1036328-skitour-piz-la-mazza-2815m
+Suisse
+
+gipfelbuch 1036311
+2026-03-27 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1036311-skitour-rohrspitzli-3220m
+Suisse
+
+gipfelbuch 1037565
+2026-03-27 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1037565-skitour-bielerhoehe-klostertal-kleine-egghoerner-2780m
+Autres régions
+
+gipfelbuch 1037549
+2026-03-27 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1037549-skitour-cima-del-carro-3326m
+Italie
+
+gipfelbuch 1037518
+2026-03-27 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1037518-skitour-piz-palue-3899m
+Suisse
+
+gipfelbuch 1037368
+2026-03-27 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1037368-skitour-rocher-peyron-bec-de-lievre-2770m
+Italie
+
+gipfelbuch 1036553
+2026-03-27 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1036553-skitour-monte-oronaye-3104m
+Italie
+
+gipfelbuch 1036506
+2026-03-27 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1036506-skitour-rocca-della-suer-2120m
+Italie
+
+gipfelbuch 1036445
+2026-03-27 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1036445-skitour-cresta-ungherini-2701m
+Italie
+
+gipfelbuch 1036403
+2026-03-27 -
+I - Valle d'Aosta
+https://www.gipfelbuch.ch/verhaeltnisse/1036403-skitour-punta-valletta-2803m
+Italie
+
+gipfelbuch 1035911
+2026-03-27 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1035911-skitour-balmhorn-3698m
+Suisse
+
+gipfelbuch 1035888
+2026-03-27 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1035888-skitour-zapporthorn-3155m
+Suisse
+
+gipfelbuch 1035044
+2026-03-27 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1035044-skitour-wildstrubel-3244m
+Suisse
+
+gipfelbuch 1034962
+2026-03-27 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1034962-skitour-pizol-2844m
+Suisse
+
+gipfelbuch 1034935
+2026-03-27 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1034935-skitour-toedi-3614m
+Suisse
+
+gipfelbuch 1034791
+2026-03-27 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1034791-skitour-rossbodenstock-2836m
+Suisse
+
+gipfelbuch 1034760
+2026-03-27 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1034760-skitour-ginalshorn-3027m
+Suisse
+
+gipfelbuch 1034624
+2026-03-27 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1034624-skitour-chilchalphorn-3039m
+Suisse
+
+gipfelbuch 1034558
+2026-03-27 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1034558-skitour-albristhorn-2762m
+Suisse
+
+gipfelbuch 1034556
+2026-03-27 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1034556-skitour-pfannenstock-2572m
+Suisse
+
+gipfelbuch 1034532
+2026-03-27 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1034532-skitour-gauschla-2310m
+Suisse
+
+gipfelbuch 1034525
+2026-03-24 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1034525-skitour-piz-de-la-lumbreida-2983m
+Suisse
+
+gipfelbuch 1037791
+2026-03-23 -
+Von Bourg-St-Pierre über die Combe de Drône
+https://www.gipfelbuch.ch/verhaeltnisse/1037791-skitour-monts-telliers-2951m
+Valais
+ME freeride team
+gipfelbuch 1033043
+2026-03-23 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1033043-skitour-ospizio-la-veduta-2237m
+Suisse
+
+gipfelbuch 1032972
+2026-03-23 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1032972-skitour-herzogenhorn-1415m
+Allemagne
+
+gipfelbuch 1032763
+2026-03-23 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1032763-skitour-baslersch-chopf-2629m
+Suisse
+
+gipfelbuch 1032510
+2026-03-23 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1032510-skitour-elsighorn-2341m
+Suisse
+
+gipfelbuch 1036433
+2026-03-23 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1036433-skitour-kuehgundkopf-1907m
+Autriche
+
+gipfelbuch 1032803
+2026-03-23 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1032803-skitour-eggishorn-2927m-2927m
+Autres régions
+
+gipfelbuch 1032433
+2026-03-23 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1032433-skitour-sustenhorn-3502m
+Suisse
+
+gipfelbuch 1032327
+2026-03-23 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1032327-skitour-diethelm-2099m
+Suisse
+
+gipfelbuch 1032245
+2026-03-23 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1032245-skitour-ochsenkopf-3057m
+Autriche
+
+gipfelbuch 1032233
+2026-03-23 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1032233-skitour-salbitschijen-2981m
+Suisse
+
+gipfelbuch 1032110
+2026-03-23 -
+A - Salzburg
+https://www.gipfelbuch.ch/verhaeltnisse/1032110-skitour-vordere-grosswandspitze-2380m
+Autriche
+
+gipfelbuch 1031288
+2026-03-23 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1031288-skitour-march-2876m
+Suisse
+
+gipfelbuch 1031196
+2026-03-23 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1031196-skitour-siwellen-2307m
+Suisse
+
+gipfelbuch 1031186
+2026-03-23 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1031186-skitour-schilt-2299m
+Suisse
+
+gipfelbuch 1031184
+2026-03-23 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1031184-skitour-hinterberg-2682m
+Autriche
+
+gipfelbuch 1031154
+2026-03-23 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1031154-skitour-tomuelgrat-2764m
+Suisse
+
+gipfelbuch 1031041
+2026-03-23 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1031041-skitour-schnierenhoernli-2069m
+Suisse
+
+gipfelbuch 1031010
+2026-03-23 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1031010-skitour-glatten-2504m
+Suisse
+
+gipfelbuch 1030844
+2026-03-23 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1030844-skitour-gross-fulfirst-2384m
+Suisse
+
+gipfelbuch 1030783
+2026-03-23 -
+D - Allgäu
+https://www.gipfelbuch.ch/verhaeltnisse/1030783-skitour-grosser-daumen-2280m
+Allemagne
+
+gipfelbuch 1030758
+2026-03-23 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1030758-skitour-tannheimer-gaishorn-2247m
+Autriche
+
+gipfelbuch 1030720
+2026-03-23 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/1030720-skitour-capanna-cristallina-cas-2575m
+Suisse
+
+gipfelbuch 1030718
+2026-03-23 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1030718-skitour-glatten-2504m
+Suisse
+
+gipfelbuch 1030702
+2026-03-23 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1030702-skitour-rotbueelspitz-2853m
+Suisse
+
+gipfelbuch 1030597
+2026-03-23 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1030597-skitour-saentis-2502m
+Suisse
+
+gipfelbuch 1030577
+2026-03-23 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/1030577-skitour-pizzo-centrale-2999m
+Suisse
+
+gipfelbuch 1030471
+2026-03-22 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1030471-skitour-brisi-2277m
+Suisse
+
+gipfelbuch 1030451
+2026-03-22 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1030451-skitour-vergaldner-schneeberg-2588m
+Autriche
+
+gipfelbuch 1032558
+2026-03-22 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1032558-skitour-rothorn-3102m
+Suisse
+
+gipfelbuch 1032411
+2026-03-22 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1032411-skitour-lochberg-3074m
+Suisse
+
+gipfelbuch 1032381
+2026-03-22 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1032381-skitour-ruchstock-2814m
+Suisse
+
+gipfelbuch 1032282
+2026-03-22 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1032282-skitour-haagspitze-3029m
+Autriche
+
+gipfelbuch 1030772
+2026-03-22 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1030772-skitour-gitzifurggu-2980m
+Suisse
+
+gipfelbuch 1030703
+2026-03-22 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1030703-skitour-ils-cuogns-2896m
+Suisse
+
+gipfelbuch 1030437
+2026-03-22 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1030437-skitour-rohrspitzli-3220m
+Suisse
+
+gipfelbuch 1030417
+2026-03-22 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1030417-skitour-
+Suisse
+
+gipfelbuch 1030333
+2026-03-22 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1030333-skitour-dischlighorn-2589m
+Suisse
+
+gipfelbuch 1030171
+2026-03-21 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1030171-skitour-krinnenspitze-2000m
+Autriche
+
+gipfelbuch 1029954
+2026-03-21 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1029954-skitour-langfluhgletscher-zermatt-3650m-3650m
+Autres régions
+
+gipfelbuch 1029889
+2026-03-21 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1029889-skitour-pfulwe-3314m
+Suisse
+
+gipfelbuch 1029117
+2026-03-21 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1029117-skitour-pizol-2844m
+Suisse
+
+gipfelbuch 1028963
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028963-skitour-glatten-2504m
+Suisse
+
+gipfelbuch 1028778
+2026-03-21 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1028778-skitour-gletscherspitza-3063m
+Suisse
+
+gipfelbuch 1028763
+2026-03-21 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1028763-skitour-grossstrubel-3243m
+Suisse
+
+gipfelbuch 1028723
+2026-03-21 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1028723-skitour-pic-chaussy-2351m
+Suisse
+
+gipfelbuch 1028705
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028705-skitour-tiefenstock-3515m
+Suisse
+
+gipfelbuch 1028543
+2026-03-21 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1028543-skitour-winterhore-2609m
+Suisse
+
+gipfelbuch 1028532
+2026-03-21 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1028532-skitour-aelplihorn-3006m
+Suisse
+
+gipfelbuch 1028530
+2026-03-21 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1028530-skitour-saentis-2502m
+Suisse
+
+gipfelbuch 1028529
+2026-03-21 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1028529-skitour-bueelenhorn-monstein-2808m
+Suisse
+
+gipfelbuch 1028524
+2026-03-21 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1028524-skitour-k2-skigipfel-piz-murtel-trigd-2845m
+Suisse
+
+gipfelbuch 1028518
+2026-03-21 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/1028518-skitour-grieshorn-2969m
+Suisse
+
+gipfelbuch 1028511
+2026-03-21 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1028511-skitour-schilt-2299m
+Suisse
+
+gipfelbuch 1028480
+2026-03-21 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1028480-skitour-piz-tomuel-2946m
+Suisse
+
+gipfelbuch 1028478
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028478-skitour-rottaellihorn-2913m
+Suisse
+
+gipfelbuch 1028456
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028456-skitour-chaiserstuel-2400m
+Suisse
+
+gipfelbuch 1028438
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028438-skitour-spilauergraetli-2303m
+Suisse
+
+gipfelbuch 1028421
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028421-skitour-schlittkuchen-2519m
+Suisse
+
+gipfelbuch 1028419
+2026-03-21 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1028419-skitour-spilauer-stock-2270m
+Suisse
+
+gipfelbuch 1028418
+2026-03-21 -
+Rote Chumme SE-Flanke
+https://www.gipfelbuch.ch/verhaeltnisse/1028418-skitour-rote-totz-2847m
+Alpes Vaud./Frib./Bern.
+Raphael Roth
+gipfelbuch 1028397
+2026-03-21 -
+Ab Schwandboden Pt.1036 (Bisistal)
+https://www.gipfelbuch.ch/verhaeltnisse/1028397-skitour-glatten-2504m
+Alpes Glaronaises/Uranaises
+Dani run
+gipfelbuch 1028370
+2026-03-21 -
+von Bergstation Gitschen durch's Hälmisbiel
+https://www.gipfelbuch.ch/verhaeltnisse/1028370-skitour-hundstock-2213m
+Alpes Glaronaises/Uranaises
+Ab und weg
+gipfelbuch 1028225
+2026-03-21 -
+Bivio - Cadval -  Nordflanke
+https://www.gipfelbuch.ch/verhaeltnisse/1028225-skitour-
+Grisons
+Aargauer
+gipfelbuch 1032076
+2026-03-20 -
+Normalroute
+https://www.gipfelbuch.ch/verhaeltnisse/1032076-skitour-finsteraarhorn-4273m
+Alpes Vaud./Frib./Bern.
+Luthi
+gipfelbuch 1031387
+2026-03-20 -
+Kunterbandfurgga (von Vergalden via Vergalda Alpe)
+https://www.gipfelbuch.ch/verhaeltnisse/1031387-skitour-roten-choepf-2640m
+Vorarlberg
+MikeRider
+gipfelbuch 1028693
+2026-03-20 -
+Über Nordgrat von der Albert-Heim-Hütte
+https://www.gipfelbuch.ch/verhaeltnisse/1028693-skitour-galenstock-3586m
+Alpes Glaronaises/Uranaises
+Kim Ernst
+gipfelbuch 1028442
+2026-03-20 -
+Vom Turrahus über Lengegga, Abfahrt über NE Flanke
+https://www.gipfelbuch.ch/verhaeltnisse/1028442-skitour-baerenhorn-2929m
+Grisons
+WoPow
+gipfelbuch 1028233
+2026-03-20 -
+Riedkopf von St. Antönien
+https://www.gipfelbuch.ch/verhaeltnisse/1028233-skitour-riedkopf-2551m
+Vorarlberg
+Analoguejunkie
+gipfelbuch 1028144
+2026-03-20 -
+Realp-Tätsch-Trüebenseeplanggen-Tiefengletscher-Chli Bielenhorn
+https://www.gipfelbuch.ch/verhaeltnisse/1028144-skitour-chli-bielenhorn-2940m
+Alpes Glaronaises/Uranaises
+Alex B
+gipfelbuch 1027845
+2026-03-20 -
+Latschau (E-Werk) - Weiler Vollspora - Alpilaalpe
+https://www.gipfelbuch.ch/verhaeltnisse/1027845-skitour-tschaggunser-mittagsspitze-2168m
+Vorarlberg
+Rosi Bell
+gipfelbuch 1027172
+2026-03-20 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1027172-skitour-piz-punt-ota-3020m
+Suisse
+
+gipfelbuch 1027167
+2026-03-20 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1027167-skitour-piz-ravetsch-3007m
+Suisse
+
+gipfelbuch 1027155
+2026-03-20 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1027155-skitour-rinderhorn-3448m
+Suisse
+
+gipfelbuch 1027132
+2026-03-20 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1027132-skitour-seeluecke-seehornscharte-schweizerluecke
+Autriche
+
+gipfelbuch 1027131
+2026-03-20 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1027131-skitour-zirleseck-1872m
+Autriche
+
+gipfelbuch 1027110
+2026-03-20 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1027110-skitour-madrisahorn-2826m
+Suisse
+
+gipfelbuch 1027065
+2026-03-20 -
+LÈtivaz via Col de Seron
+https://www.gipfelbuch.ch/verhaeltnisse/1027065-skitour-la-para-2540m
+Alpes Vaud./Frib./Bern.
+CW
+gipfelbuch 1027000
+2026-03-20 -
+Von Tschuggen, Wäschchuchi-Rundtour mit Jörihorn-Überschreitung
+https://www.gipfelbuch.ch/verhaeltnisse/1027000-skitour-flueela-wisshorn-3085m
+Grisons
+Peter Huber
+gipfelbuch 1026859
+2026-03-20 -
+Gorihorn durchs Tschuggentäli
+https://www.gipfelbuch.ch/verhaeltnisse/1026859-skitour-gorihorn-2986m
+Grisons
+Bergstiiger
+gipfelbuch 1026848
+2026-03-20 -
+Gemmipass - Lämmerenhütte - Wildstrubel Mittelgipfel - Grossstrubel - Ammertetäli
+https://www.gipfelbuch.ch/verhaeltnisse/1026848-skitour-wildstrubel-3244m
+Alpes Vaud./Frib./Bern.
+Raphael Roth
+gipfelbuch 1026766
+2026-03-20 -
+Biel-Kinzig - Geissgrätli - Rindermatt - Höch Pfaffen - Wängi - Muothatal
+https://www.gipfelbuch.ch/verhaeltnisse/1026766-skitour-hoech-pfaffen-2459m
+Alpes Glaronaises/Uranaises
+Abdrud
+gipfelbuch 1026754
+2026-03-20 -
+Von Elm
+https://www.gipfelbuch.ch/verhaeltnisse/1026754-skitour-hausstock-3158m
+Grisons
+climbing passion
+gipfelbuch 1026741
+2026-03-20 -
+Von Litzirüti auf den Riedchopf
+https://www.gipfelbuch.ch/verhaeltnisse/1026741-skitour-riedchopf-2552m
+Grisons
+laksa
+gipfelbuch 1026615
+2026-03-20 -
+von Hospental
+https://www.gipfelbuch.ch/verhaeltnisse/1026615-skitour-winterhorn-2662m
+Alpes Glaronaises/Uranaises
+Margis
+gipfelbuch 1026607
+2026-03-20 -
+Von der vorderen Fildrich
+https://www.gipfelbuch.ch/verhaeltnisse/1026607-skitour-landvogtehore-gsuer-2708m
+Alpes Vaud./Frib./Bern.
+DanielSTF
+gipfelbuch 1030613
+2026-03-19 -
+Oberalpass - Pt. 2698 - Rheinquellenstock
+https://www.gipfelbuch.ch/verhaeltnisse/1030613-skitour-rheinquellenstock-2742m
+Alpes Glaronaises/Uranaises
+Martin Brandenberger
+gipfelbuch 1030601
+2026-03-19 -
+Von Maighelshütte zum Piz Cavradi Abfahrt nach Tschamut
+https://www.gipfelbuch.ch/verhaeltnisse/1030601-skitour-piz-cavradi-2614m
+Grisons
+Martin Brandenberger
+gipfelbuch 1030252
+2026-03-19 -
+Von den Faslarhöfen aus
+https://www.gipfelbuch.ch/verhaeltnisse/1030252-skitour-munwarter-2621m
+Trentino - Südtirol
+Walter Rass
+gipfelbuch 1028737
+2026-03-19 -
+Von Realp über Nordgrat
+https://www.gipfelbuch.ch/verhaeltnisse/1028737-skitour-galenstock-3586m
+Alpes Glaronaises/Uranaises
+Bärbel  Schuster
+gipfelbuch 1028095
+2026-03-19 -
+Von Latschau via Gauertal und Ronnawald (teils Skiroute 22)
+https://www.gipfelbuch.ch/verhaeltnisse/1028095-skitour-obere-latschaetzalpe-1733m
+Vorarlberg
+Snow*Wolf
+gipfelbuch 1027148
+2026-03-19 -
+Von Sertig Sand über Sertigpass
+https://www.gipfelbuch.ch/verhaeltnisse/1027148-skitour-piz-kesch-3418m
+Grisons
+GrandesJorasses
+gipfelbuch 1027103
+2026-03-19 -
+Zufallhütte – P 2318 - Zufallferner – Tre Cannoni (Eiskofel) und zurück
+https://www.gipfelbuch.ch/verhaeltnisse/1027103-skitour-tre-cannoni-3275m
+Trentino - Südtirol
+Kai
+gipfelbuch 1026852
+2026-03-19 -
+Richisau-Silberen
+https://www.gipfelbuch.ch/verhaeltnisse/1026852-skitour-silberen-2319m
+Alpes Glaronaises/Uranaises
+Dani run
+gipfelbuch 1026678
+2026-03-19 -
+Rundtour ab Jägerbalm über Clariden und Tüfelsjoch zurück
+https://www.gipfelbuch.ch/verhaeltnisse/1026678-skitour-clariden-3267m
+Alpes Glaronaises
+Dominique C
+gipfelbuch 1026300
+2026-03-19 -
+vom hockenhorngrat via route 335a
+https://www.gipfelbuch.ch/verhaeltnisse/1026300-skitour-petersgrat-3207m
+Alpes Vaud./Frib./Bern.
+Markus Stähelin
+gipfelbuch 1026233
+2026-03-19 -
+Nordpiste
+https://www.gipfelbuch.ch/verhaeltnisse/1026233-skitour-ochsenkopf-im-fichtelgebirge-1024m
+Allemagne autres
+Dr.Nemo
+gipfelbuch 1026046
+2026-03-19 -
+Aufstieg von Boden
+https://www.gipfelbuch.ch/verhaeltnisse/1026046-skitour-kogelseespitze-2647m
+Tirol
+Leama
+gipfelbuch 1025381
+2026-03-19 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1025381-skitour-wissmeilen-2481m
+Suisse
+
+gipfelbuch 1025285
+2026-03-19 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1025285-skitour-spitzmeilen-2501m
+Suisse
+
+gipfelbuch 1025221
+2026-03-19 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1025221-skitour-piz-turettas-2963m
+Suisse
+
+gipfelbuch 1030247
+2026-03-19 -
+Von Stelvio (Stilfs) via Valatsches
+https://www.gipfelbuch.ch/verhaeltnisse/1030247-skitour-munwarter-2621m
+Trentino - Südtirol
+Walter Rass
+gipfelbuch 1025153
+2026-03-19 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1025153-skitour-piz-scalotta-2991m
+Suisse
+
+gipfelbuch 1025099
+2026-03-19 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1025099-skitour-bodezehore-2354m
+Suisse
+
+gipfelbuch 1025088
+2026-03-19 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1025088-skitour-surettahorn-3027m
+Suisse
+
+gipfelbuch 1025032
+2026-03-19 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1025032-skitour-schneegrubenspitze-2237m
+Autriche
+
+gipfelbuch 1024986
+2026-03-19 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1024986-skitour-piz-borel-2951m
+Suisse
+
+gipfelbuch 1024949
+2026-03-19 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1024949-skitour-bueelenhorn-davos-2512m
+Suisse
+
+gipfelbuch 1024931
+2026-03-19 -
+Meniggrund-Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/1024931-skitour-meniggrat-1949m
+Alpes Vaud./Frib./Bern.
+Summit41
+gipfelbuch 1024887
+2026-03-19 -
+Drümännler und Bodezegrat
+https://www.gipfelbuch.ch/verhaeltnisse/1024887-skitour-druemaennler-2436m
+Alpes Vaud./Frib./Bern.
+RadioEriwan
+gipfelbuch 1024882
+2026-03-19 -
+Vom Sertig Dörfli (oder Sand) auf das Tällihorn
+https://www.gipfelbuch.ch/verhaeltnisse/1024882-skitour-taellihorn-sertig-2684m
+Grisons
+Aargauer
+gipfelbuch 1024881
+2026-03-19 -
+Nordwestflanke
+https://www.gipfelbuch.ch/verhaeltnisse/1024881-skitour-wierihorn-2304m
+Alpes Vaud./Frib./Bern.
+Grindeguru
+gipfelbuch 1024852
+2026-03-19 -
+Mot Scalotta - Fuorcla de la Valletta
+https://www.gipfelbuch.ch/verhaeltnisse/1024852-skitour-uf-da-fluee-2774m
+Grisons
+Markus Nägeli
+gipfelbuch 1024850
+2026-03-19 -
+Vom Riedbergpass über die Wannenkopfhütte
+https://www.gipfelbuch.ch/verhaeltnisse/1024850-skitour-wannenkopf-1712m
+Allgäu
+Jackie
+gipfelbuch 1024792
+2026-03-19 -
+Bernina Diavolezza RhB - Nordflanke
+https://www.gipfelbuch.ch/verhaeltnisse/1024792-skitour-muots-ravulaunas-2534m
+Grisons
+H.P.C.
+gipfelbuch 1024785
+2026-03-19 -
+ab Schwarzwaldalp , Skiroute
+https://www.gipfelbuch.ch/verhaeltnisse/1024785-skitour-wildgaerst-2890m
+Alpes Vaud./Frib./Bern.
+Bettler Markus
+gipfelbuch 1024967
+2026-03-18 -
+Von St. Martin über die Vorderalp auf den Piz Titschal
+https://www.gipfelbuch.ch/verhaeltnisse/1024967-skitour-piz-titschal-2550m
+Grisons
+laksa
+gipfelbuch 1024045
+2026-03-18 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1024045-skitour-steinmandl-1982m
+Autriche
+
+gipfelbuch 1024026
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1024026-skitour-spilauer-stock-2270m
+Suisse
+
+gipfelbuch 1023938
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1023938-skitour-winterhorn-2662m
+Suisse
+
+gipfelbuch 1023838
+2026-03-18 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1023838-skitour-cabane-de-bertol-cas-3311m
+Suisse
+
+gipfelbuch 1023771
+2026-03-18 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1023771-skitour-zirleseck-1872m
+Autriche
+
+gipfelbuch 1023606
+2026-03-18 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1023606-skitour-kroendlhorn-2444m
+Autriche
+
+gipfelbuch 1023569
+2026-03-18 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1023569-skitour-buerglen-2165m
+Suisse
+
+gipfelbuch 1023485
+2026-03-18 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1023485-skitour-bodezehore-2354m
+Suisse
+
+gipfelbuch 1023477
+2026-03-18 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1023477-skitour-chrachenhorn-2891m
+Suisse
+
+gipfelbuch 1023418
+2026-03-18 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1023418-skitour-ferdenrothorn-3180m
+Suisse
+
+gipfelbuch 1023365
+2026-03-18 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1023365-skitour-tiejer-flue-2781m
+Suisse
+
+gipfelbuch 1023302
+2026-03-18 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1023302-skitour-stuebenwasen-1386m
+Allemagne
+
+gipfelbuch 1022302
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1022302-skitour-hengst-schrattenflue-2092m
+Suisse
+
+gipfelbuch 1022283
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1022283-skitour-eggenmandli-2448m
+Suisse
+
+gipfelbuch 1022258
+2026-03-18 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1022258-skitour-niederhorn-diemtigtal-2077m
+Suisse
+
+gipfelbuch 1021621
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1021621-skitour-maendli-2061m
+Suisse
+
+gipfelbuch 1021574
+2026-03-18 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1021574-skitour-rotsandnollen-2700m
+Suisse
+
+gipfelbuch 1019270
+2026-03-18 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1019270-skitour-rothorn-2410m
+Suisse
+
+gipfelbuch 1018859
+2026-03-18 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1018859-skitour-rotspitz-2517m
+Suisse
+
+gipfelbuch 1018457
+2026-03-17 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1018457-skitour-schibespitz-2060m
+Suisse
+
+gipfelbuch 1018429
+2026-03-17 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1018429-skitour-rottaeligrat-2748m
+Suisse
+
+gipfelbuch 1018333
+2026-03-17 -
+I - Trentino - Südtirol
+https://www.gipfelbuch.ch/verhaeltnisse/1018333-skitour-kalberberg-2736m
+Italie
+
+gipfelbuch 1018220
+2026-03-17 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1018220-skitour-flueela-schwarzhorn-3146m
+Suisse
+
+gipfelbuch 1018196
+2026-03-17 -
+I - Piemonte
+https://www.gipfelbuch.ch/verhaeltnisse/1018196-skitour-monte-cazzola-2330m
+Italie
+
+gipfelbuch 1018133
+2026-03-17 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1018133-skitour-homad-1879m
+Suisse
+
+gipfelbuch 1017942
+2026-03-17 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1017942-skitour-ochse-2188m
+Suisse
+
+gipfelbuch 1017799
+2026-03-17 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1017799-skitour-mont-brule-3585m
+Suisse
+
+gipfelbuch 1017743
+2026-03-17 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1017743-skitour-tete-de-valpelline-3802m
+Suisse
+
+gipfelbuch 1026175
+2026-03-16 -
+ab Brail durch Val Barlas-ch
+https://www.gipfelbuch.ch/verhaeltnisse/1026175-skitour-piz-sarsura-3178m
+Grisons
+Bernhard Agerer
+gipfelbuch 1018878
+2026-03-16 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1018878-skitour-cabane-des-vignettes-cas-3160m
+Suisse
+
+gipfelbuch 1016362
+2026-03-16 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1016362-skitour-rappakopf-2197m
+Suisse
+
+gipfelbuch 1016331
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1016331-skitour-gustispitz-2074m
+Suisse
+
+gipfelbuch 1016152
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1016152-skitour-rauflihorn-2322m
+Suisse
+
+gipfelbuch 1015906
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1015906-skitour-pointe-de-bremingard-1921m
+Suisse
+
+gipfelbuch 1015860
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1015860-skitour-stand-diemtigtal-1939m
+Suisse
+
+gipfelbuch 1015771
+2026-03-16 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1015771-skitour-krinnenspitze-2000m
+Autriche
+
+gipfelbuch 1015589
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1015589-skitour-rauflihorn-2322m
+Suisse
+
+gipfelbuch 1015566
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1015566-skitour-oberzalimkopf-2340m
+Autriche
+
+gipfelbuch 1015467
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1015467-skitour-gerenfalben-1938m
+Autriche
+
+gipfelbuch 1014899
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1014899-skitour-faltschen-skilift-bergstation-1380-m-1380m
+Suisse
+
+gipfelbuch 1014760
+2026-03-17 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1014760-skitour-birehubel-1850m
+Suisse
+
+gipfelbuch 1014720
+2026-03-17 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1014720-skitour-rickhubel-1943m
+Suisse
+
+gipfelbuch 1014691
+2026-03-17 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1014691-skitour-gustispitz-2074m
+Suisse
+
+gipfelbuch 1014690
+2026-03-16 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1014690-skitour-fruemseltal-2044m
+Suisse
+
+gipfelbuch 1014687
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1014687-skitour-mellenkoepfe-1967m
+Autriche
+
+gipfelbuch 1014670
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1014670-skitour-alpiglemaeren-westgipfel-2044m
+Suisse
+
+gipfelbuch 1014607
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1014607-skitour-gapfohler-falben-1793m
+Autriche
+
+gipfelbuch 1014582
+2026-03-16 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1014582-skitour-wengi-1600m-1600m
+Autres régions
+
+gipfelbuch 1014432
+2026-03-16 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1014432-skitour-eggberg-2202m
+Suisse
+
+gipfelbuch 1014348
+2026-03-16 -
+CH - Jura
+https://www.gipfelbuch.ch/verhaeltnisse/1014348-skitour-hohe-winde-1204m
+Suisse
+
+gipfelbuch 1014281
+2026-03-16 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1014281-skitour-rickhubel-1943m
+Suisse
+
+gipfelbuch 1014032
+2026-03-16 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1014032-skitour-mattjisch-horn-2460m
+Suisse
+
+gipfelbuch 1013436
+2026-03-16 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1013436-skitour-chatillon-2478m-2478m
+Autres régions
+
+gipfelbuch 1013411
+2026-03-16 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1013411-skitour-venter-runde-2000m
+Autriche
+
+gipfelbuch 1015569
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1015569-skitour-riedkopf-2551m
+Autriche
+
+gipfelbuch 1014701
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1014701-skitour-ragazer-blanken-2051m
+Autriche
+
+gipfelbuch 1014431
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1014431-skitour-madrisajoch-2612m
+Autriche
+
+gipfelbuch 1013516
+2026-03-16 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1013516-skitour-landvogtehore-gsuer-2708m
+Suisse
+
+gipfelbuch 1013450
+2026-03-16 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1013450-skitour-schesaplana-2965m
+Autriche
+
+gipfelbuch 1013376
+2026-03-16 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1013376-skitour-zwaechten-3080m
+Suisse
+
+gipfelbuch 1013303
+2026-03-13 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1013303-skitour-baerenhorn-2932m
+Suisse
+
+gipfelbuch 1013139
+2026-03-13 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1013139-skitour-chilchalphorn-3039m
+Suisse
+
+gipfelbuch 1012902
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1012902-skitour-honiese-2454m
+Suisse
+
+gipfelbuch 1012827
+2026-03-13 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1012827-skitour-gorihorn-2986m
+Suisse
+
+gipfelbuch 1012619
+2026-03-13 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1012619-skitour-seelakopf-2368m
+Autriche
+
+gipfelbuch 1011884
+2026-03-13 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1011884-skitour-aleitenspitze-2449m
+Autriche
+
+gipfelbuch 1011817
+2026-03-13 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1011817-skitour-flueela-wisshorn-3085m
+Suisse
+
+gipfelbuch 1011794
+2026-03-13 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1011794-skitour-rastkogel-2762m
+Autriche
+
+gipfelbuch 1011748
+2026-03-13 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1011748-skitour-toedi-3614m
+Suisse
+
+gipfelbuch 1011666
+2026-03-13 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1011666-skitour-druesberg-2282m
+Suisse
+
+gipfelbuch 1011652
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011652-skitour-les-diablerets-3210m
+Suisse
+
+gipfelbuch 1011578
+2026-03-13 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1011578-skitour-glattgrat-2191m
+Suisse
+
+gipfelbuch 1011526
+2026-03-13 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1011526-skitour-isenfuerggli-2766m
+Suisse
+
+gipfelbuch 1011516
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011516-skitour-wildhorn-3243m
+Suisse
+
+gipfelbuch 1011491
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011491-skitour-wildgaerst-2890m
+Suisse
+
+gipfelbuch 1011371
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011371-skitour-bodezehore-westgipfel-2330m
+Suisse
+
+gipfelbuch 1011319
+2026-03-13 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1011319-skitour-gross-leckihorn-3068m
+Suisse
+
+gipfelbuch 1011197
+2026-03-13 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011197-skitour-pigne-darolla-3796m
+Suisse
+
+gipfelbuch 1011097
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1011097-skitour-buufal-1937m
+Suisse
+
+gipfelbuch 1010999
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1010999-skitour-grossstrubel-3243m
+Suisse
+
+gipfelbuch 1015575
+2026-03-12 -
+Jungfraujoch-Louwihorn-Kranzbergfirn-Aletschfirn-Lötschenlücke-Langgletscher-Fafleralp-ev.Blatten
+https://www.gipfelbuch.ch/verhaeltnisse/1015575-skitour-louwihorn-3777m
+Alpes Vaud./Frib./Bern.
+heilandsdonner
+gipfelbuch 1014662
+2026-03-12 -
+Lämmerenhütte - Wildstrubel
+https://www.gipfelbuch.ch/verhaeltnisse/1014662-skitour-wildstrubel-3244m
+Alpes Vaud./Frib./Bern.
+Schanin
+gipfelbuch 1009638
+2026-03-12 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1009638-skitour-gross-fulfirst-2384m
+Suisse
+
+gipfelbuch 1009371
+2026-03-12 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1009371-skitour-rossstock-2461m
+Suisse
+
+gipfelbuch 1009276
+2026-03-12 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1009276-skitour-dreizehntenhorn-3052m
+Suisse
+
+gipfelbuch 1009268
+2026-03-12 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1009268-skitour-gemsfairenstock-2972m
+Suisse
+
+gipfelbuch 1009253
+2026-03-12 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1009253-skitour-gemsfairenstock-2972m
+Suisse
+
+gipfelbuch 1007457
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1007457-skitour-gfroren-horn-2746m
+Suisse
+
+gipfelbuch 1006281
+2026-03-12 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/1006281-skitour-hinterberg-2682m
+Autriche
+
+gipfelbuch 1005227
+2026-03-12 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/1005227-skitour-zuestoll-2235m
+Suisse
+
+gipfelbuch 1005042
+2026-03-12 -
+D - Allgäu
+https://www.gipfelbuch.ch/verhaeltnisse/1005042-skitour-grosser-daumen-2280m
+Allemagne
+
+gipfelbuch 1004865
+2026-03-12 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1004865-skitour-tannheimer-gaishorn-2247m
+Autriche
+
+gipfelbuch 1004809
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1004809-skitour-gorihorn-2986m
+Suisse
+
+gipfelbuch 1004730
+2026-03-12 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1004730-skitour-wiriehorn-2304m
+Suisse
+
+gipfelbuch 1004728
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1004728-skitour-piz-daint-2968m
+Suisse
+
+gipfelbuch 1004686
+2026-03-12 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1004686-skitour-risetenstock-2290m
+Suisse
+
+gipfelbuch 1004643
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1004643-skitour-mittaghorn-suretta-2561m
+Suisse
+
+gipfelbuch 1007065
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1007065-skitour-curver-pintg-da-taspegn-2731m
+Suisse
+
+gipfelbuch 1007059
+2026-03-12 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1007059-skitour-piz-toissa-2657m
+Suisse
+
+gipfelbuch 1006787
+2026-03-12 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1006787-skitour-seekarlspitze-2261m
+Autriche
+
+gipfelbuch 1002572
+2026-03-12 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1002572-skitour-titlis-3238m
+Suisse
+
+gipfelbuch 1002542
+2026-03-13 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1002542-skitour-zuckerstock-3386m
+Suisse
+
+gipfelbuch 1002288
+2026-03-13 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1002288-skitour-bergji-3052m-3052m
+Autres régions
+
+gipfelbuch 1002269
+2026-03-13 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1002269-skitour-wisshorn-2936m
+Suisse
+
+gipfelbuch 1002236
+2026-03-13 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1002236-skitour-stockji-zentral-3050m-3050m
+Autres régions
+
+gipfelbuch 1002182
+2026-03-13 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1002182-skitour-wintertuermli-3003m-am-chli-spannort-3003m
+Suisse
+
+gipfelbuch 1002132
+2026-03-13 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/1002132-skitour-feldberg-1493m
+Allemagne
+
+gipfelbuch 1001822
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1001822-skitour-maere-2087m
+Suisse
+
+gipfelbuch 1001452
+2026-03-13 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1001452-skitour-moentschelespitz-2021m
+Suisse
+
+gipfelbuch 1011648
+2026-03-08 -
+von sertig sand via chüealptal auf das augestenhüreli
+https://www.gipfelbuch.ch/verhaeltnisse/1011648-skitour-augstenhuereli-3027m
+Grisons
+Bergstiiger
+gipfelbuch 1011638
+2026-03-08 -
+Sertig
+https://www.gipfelbuch.ch/verhaeltnisse/1011638-skitour-chueealphorn-3078m
+Grisons
+Bergstiiger
+gipfelbuch 1005290
+2026-03-08 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/1005290-skitour-pirchkogel-2828m
+Autriche
+
+gipfelbuch 1002286
+2026-03-08 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1002286-skitour-tschingelhorn-3562m
+Suisse
+
+gipfelbuch 1001724
+2026-03-08 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/1001724-skitour-zwaechten-3080m
+Suisse
+
+gipfelbuch 1001454
+2026-03-08 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1001454-skitour-altstafelhorn-2839m
+Suisse
+
+gipfelbuch 1001318
+2026-03-08 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1001318-skitour-bunderspitz-2546m
+Suisse
+
+gipfelbuch 1001282
+2026-03-08 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/1001282-skitour-winterberg-2931m
+Suisse
+
+gipfelbuch 1001057
+2026-03-08 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/1001057-skitour-von-latschau-zum-walser-alpjoch-2190m
+Autres régions
+
+gipfelbuch 1001032
+2026-03-08 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1001032-skitour-allalinhorn-4027m
+Suisse
+
+gipfelbuch 1000751
+2026-03-08 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/1000751-skitour-mont-blanc-de-cheilon-3870m
+Suisse
+
+gipfelbuch 999552
+2026-03-08 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/999552-skitour-blankuskopf-2334m
+Autriche
+
+gipfelbuch 999351
+2026-03-08 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999351-skitour-druemaennler-2436m
+Suisse
+
+gipfelbuch 999328
+2026-03-08 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/999328-skitour-spitzmeilen-2501m
+Suisse
+
+gipfelbuch 999325
+2026-03-08 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999325-skitour-spitzhorli-2737m
+Suisse
+
+gipfelbuch 999316
+2026-03-08 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/999316-skitour-feldberg-1493m
+Allemagne
+
+gipfelbuch 999263
+2026-03-08 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999263-skitour-mont-dolent-3820m
+Suisse
+
+gipfelbuch 999250
+2026-03-09 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/999250-skitour-laucherenstoeckli-1753m
+Suisse
+
+gipfelbuch 999221
+2026-03-09 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/999221-skitour-rotspitze-2517m
+Autriche
+
+gipfelbuch 999190
+2026-03-09 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/999190-skitour-schwarzer-kranz-2495m
+Autriche
+
+gipfelbuch 999187
+2026-03-09 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/999187-skitour-galenstock-3586m
+Suisse
+
+gipfelbuch 999176
+2026-03-09 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999176-skitour-wandflue-2133m
+Suisse
+
+gipfelbuch 999044
+2026-03-09 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999044-skitour-maennliflue-2652m
+Suisse
+
+gipfelbuch 999039
+2026-03-09 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999039-skitour-wildhorn-3243m
+Suisse
+
+gipfelbuch 999038
+2026-03-09 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999038-skitour-gitzifurggu-2980m
+Suisse
+
+gipfelbuch 999019
+2026-03-09 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/999019-skitour-altels-3629m
+Suisse
+
+gipfelbuch 998962
+2026-03-09 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/998962-skitour-unterer-theodul-gletscher-zermatt-3201m-4201m
+Autres régions
+
+gipfelbuch 998914
+2026-03-09 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/998914-skitour-hinterjoechle-2160m
+Autriche
+
+gipfelbuch 998890
+2026-03-09 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/998890-skitour-chlaebdaecher-2175m
+Suisse
+
+gipfelbuch 998882
+2026-03-08 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/998882-skitour-hoech-gumme-2205m
+Suisse
+
+gipfelbuch 998846
+2026-03-08 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/998846-skitour-fruttstock-2838m
+Suisse
+
+gipfelbuch 998773
+2026-03-08 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/998773-skitour-windeggerspitze-2335m
+Autriche
+
+gipfelbuch 998740
+2026-03-08 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/998740-skitour-piz-titschal-2550m
+Suisse
+
+gipfelbuch 998719
+2026-03-08 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/998719-skitour-pleisenspitze-2567m
+Autriche
+
+gipfelbuch 998698
+2026-03-08 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/998698-skitour-poertliluecke-2505m
+Suisse
+
+gipfelbuch 998692
+2026-03-08 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/998692-skitour-sass-queder-ostflanke-2535m
+Suisse
+
+gipfelbuch 998628
+2026-03-08 -
+A - Salzburg
+https://www.gipfelbuch.ch/verhaeltnisse/998628-skitour-hochkoenig-2941m
+Autriche
+
+gipfelbuch 998627
+2026-03-08 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/998627-skitour-vergaldner-schneeberg-2588m
+Autriche
+
+gipfelbuch 998566
+2026-03-08 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/998566-skitour-la-sella-3584m
+Suisse
+
+gipfelbuch 998540
+2026-03-08 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/998540-skitour-saentis-2502m
+Suisse
+
+gipfelbuch 1004420
+2026-03-07 -
+Von der Martin Busch Hütte
+https://www.gipfelbuch.ch/verhaeltnisse/1004420-skitour-karles-spitze-3462m
+Tirol
+Gerhard19
+gipfelbuch 1001007
+2026-03-07 -
+Von Gargellen zur Sulzfluh, Lindauerhütte und übers Drusatour und St. Antönierjoch retour nach Gargellen
+https://www.gipfelbuch.ch/verhaeltnisse/1001007-skitour-raetikontour-2817m
+
+Rosi Bell
+gipfelbuch 1000950
+2026-03-07 -
+Von der Bergstation Mittelallalin via Vorderer Allalingrat
+https://www.gipfelbuch.ch/verhaeltnisse/1000950-skitour-allalinhorn-4027m
+Valais
+Nicolas Haller
+gipfelbuch 999466
+2026-03-07 -
+ab Latschau
+https://www.gipfelbuch.ch/verhaeltnisse/999466-skitour-golmer-kreuzjoch-2261m
+Vorarlberg
+diamirk
+gipfelbuch 999329
+2026-03-07 -
+Preda - Alp Zavretta - P. 2852 - Südwestrinne
+https://www.gipfelbuch.ch/verhaeltnisse/999329-skitour-piz-zavretta-3043m
+Grisons
+Pelzanemone
+gipfelbuch 998953
+2026-03-07 -
+Von Stilfs aus
+https://www.gipfelbuch.ch/verhaeltnisse/998953-skitour-piz-chavalatsch-2764m
+Trentino - Südtirol
+Walter Rass
+gipfelbuch 998615
+2026-03-07 -
+Vom Val Giuv via Fuorcla Piz Nair in die Etzlihütte
+https://www.gipfelbuch.ch/verhaeltnisse/998615-skitour-fuorcla-piz-nair-2830m
+Alpes Glaronaises/Uranaises
+Nick_Altitude
+gipfelbuch 998581
+2026-03-07 -
+ab Rueras durchs Val Giuv - Südostflanke und Ostgrat
+https://www.gipfelbuch.ch/verhaeltnisse/998581-skitour-piz-giuv-3096m
+Alpes Glaronaises/Uranaises
+Nick_Altitude
+gipfelbuch 998214
+2026-03-07 -
+Sankt Antönien – Girenspitze – Schafberg
+https://www.gipfelbuch.ch/verhaeltnisse/998214-skitour-schafberg-2456m
+Grisons
+Analoguejunkie
+gipfelbuch 997977
+2026-03-07 -
+ab Gasthaus Spillgerte Normalroute über Alp Grimmi
+https://www.gipfelbuch.ch/verhaeltnisse/997977-skitour-rauflihorn-2322m
+Alpes Vaud./Frib./Bern.
+HuascaMan
+gipfelbuch 997899
+2026-03-07 -
+von Bad Laterns über Passstraße
+https://www.gipfelbuch.ch/verhaeltnisse/997899-skitour-altgerachkopf-1965m
+Vorarlberg
+Smulliver
+gipfelbuch 997231
+2026-03-07 -
+Seebergsee - Punkt 1857
+https://www.gipfelbuch.ch/verhaeltnisse/997231-skitour-seebergsee-punkt-1857-1857m
+Alpes Vaud./Frib./Bern.
+Shackle
+gipfelbuch 996924
+2026-03-07 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/996924-skitour-heimspitze-2685m
+Autriche
+
+gipfelbuch 996864
+2026-03-07 -
+Bächenstock - Nordgrat - Zwächten
+https://www.gipfelbuch.ch/verhaeltnisse/996864-skitour-baechenstock-3011m
+Alpes Glaronaises/Uranaises
+rk
+gipfelbuch 996856
+2026-03-07 -
+Ostanstieg von Obergarten
+https://www.gipfelbuch.ch/verhaeltnisse/996856-skitour-bleispitze-2225m
+Tirol
+Hannes80
+gipfelbuch 996813
+2026-03-07 -
+von Engstligenalp via Strubelegga
+https://www.gipfelbuch.ch/verhaeltnisse/996813-skitour-steghorn-3146m
+Alpes Vaud./Frib./Bern.
+Jüre_BE
+gipfelbuch 996811
+2026-03-07 -
+Von Sagi via Chireltal und W-Flanke
+https://www.gipfelbuch.ch/verhaeltnisse/996811-skitour-honiese-2454m
+Alpes Vaud./Frib./Bern.
+Kara Ben Nemsi
+gipfelbuch 996749
+2026-03-07 -
+Bielerhöhe, Klostertal und ausholend Richtung Gletscherrücken
+https://www.gipfelbuch.ch/verhaeltnisse/996749-skitour-schneeglocke-3223m
+Vorarlberg
+Ted-C
+gipfelbuch 996723
+2026-03-07 -
+Niwen-Westgipfel über Süd
+https://www.gipfelbuch.ch/verhaeltnisse/996723-skitour-niwen-westgipfel-2715m
+Valais
+Dratig
+gipfelbuch 996692
+2026-03-07 -
+Preda - Ostflanke Piz Palpuogna
+https://www.gipfelbuch.ch/verhaeltnisse/996692-skitour-k2-skigipfel-piz-murtel-trigd-2845m
+Grisons
+Chappi
+gipfelbuch 996673
+2026-03-07 -
+Elm - Büelhuette - Skihütte Erbs - ... (normalweg)
+https://www.gipfelbuch.ch/verhaeltnisse/996673-skitour-gross-chaerpf-2794m
+Alpes Glaronaises
+wrdletschv
+gipfelbuch 996655
+2026-03-07 -
+Gitschenen - Brisen
+https://www.gipfelbuch.ch/verhaeltnisse/996655-skitour-brisen-2404m
+Alpes Glaronaises/Uranaises
+Reto Kurmann
+gipfelbuch 996645
+2026-03-07 -
+ab Rosenlaui via Wellhornsattel
+https://www.gipfelbuch.ch/verhaeltnisse/996645-skitour-wetterhorn-3692m
+Alpes Vaud./Frib./Bern.
+Mischa Maurer
+gipfelbuch 996607
+2026-03-07 -
+Von der Bergstation Zweisimmen - Rinderberg über den Gandlouene Grat-Rüwlisepass-Oberer Laseberg-Wistätthorn
+https://www.gipfelbuch.ch/verhaeltnisse/996607-skitour-wistaetthorn-2362m
+Alpes Vaud./Frib./Bern.
+Gugs1
+gipfelbuch 996593
+2026-03-07 -
+Vom Wägitalersee (Aumeindli) über Stoffel - Alphütte Fluebrig
+https://www.gipfelbuch.ch/verhaeltnisse/996593-skitour-fluebrig-2092m
+Alpes Glaronaises/Uranaises
+exc
+gipfelbuch 996590
+2026-03-07 -
+Von Brigels via Tschegn Daden Sut und Val Miez auf den Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/996590-skitour-piz-dadens-2773m
+Grisons
+Tobias G
+gipfelbuch 996578
+2026-03-07 -
+von Hospental
+https://www.gipfelbuch.ch/verhaeltnisse/996578-skitour-winterhorn-2662m
+Alpes Glaronaises/Uranaises
+Sunshinelover
+gipfelbuch 996512
+2026-03-07 -
+vom Chapfensee mit Abfahrt über Cholschlag
+https://www.gipfelbuch.ch/verhaeltnisse/996512-skitour-madchopf-2236m
+Alpes Glaronaises
+Peter Huber
+gipfelbuch 996494
+2026-03-07 -
+Realp-Rotondohütte - Gross Leckihorn
+https://www.gipfelbuch.ch/verhaeltnisse/996494-skitour-gross-leckihorn-3068m
+Alpes Glaronaises/Uranaises
+Baumii
+gipfelbuch 996487
+2026-03-07 -
+Normalroute von Seilbahn Sunnbühl
+https://www.gipfelbuch.ch/verhaeltnisse/996487-skitour-altels-3629m
+Alpes Vaud./Frib./Bern.
+Raphael Roth
+gipfelbuch 996444
+2026-03-07 -
+Ab Tierfehd direkt
+https://www.gipfelbuch.ch/verhaeltnisse/996444-skitour-toedi-3614m
+Alpes Glaronaises
+FäbeS
+gipfelbuch 996419
+2026-03-07 -
+Alp Schlund 1477 m - Hengst 2071 m.
+https://www.gipfelbuch.ch/verhaeltnisse/996419-skitour-hengst-schrattenflue-2092m
+Alpes Glaronaises/Uranaises
+jodu
+gipfelbuch 996416
+2026-03-07 -
+Von Matt durch das Chrauchbachtal
+https://www.gipfelbuch.ch/verhaeltnisse/996416-skitour-wissgandstoeckli-2488m
+Alpes Glaronaises
+Ta Ka
+gipfelbuch 996410
+2026-03-07 -
+323a - von Vordere Fildrich via Steibode und Chummli
+https://www.gipfelbuch.ch/verhaeltnisse/996410-skitour-druemaennler-2436m
+Alpes Vaud./Frib./Bern.
+berninetta
+gipfelbuch 996407
+2026-03-07 -
+vom Lukmanierpass
+https://www.gipfelbuch.ch/verhaeltnisse/996407-skitour-piz-rondadura-3016m
+Grisons
+Madlen
+gipfelbuch 996361
+2026-03-07 -
+Überschreitung vom Voralptal zum Göschener Alpsee
+https://www.gipfelbuch.ch/verhaeltnisse/996361-skitour-brunnenstock-3211m
+Alpes Glaronaises/Uranaises
+Andreas Hille
+gipfelbuch 996246
+2026-03-07 -
+Untervaz - Lat - Gürgütschboden - Sunntigsweid - Wolfsegg - Calandasiten - Calanda
+https://www.gipfelbuch.ch/verhaeltnisse/996246-skitour-haldensteiner-calanda-2806m
+Grisons
+CHPOWRIDER
+gipfelbuch 996211
+2026-03-07 -
+Normalaufstieg von Matten (Rüti)
+https://www.gipfelbuch.ch/verhaeltnisse/996211-skitour-hasenflueeli-2412m
+Grisons
+laksa
+gipfelbuch 998601
+2026-03-06 -
+Naz - Val Tschitta - Nordostgrat
+https://www.gipfelbuch.ch/verhaeltnisse/998601-skitour-piz-salteras-3111m
+Grisons
+Pelzanemone
+gipfelbuch 996975
+2026-03-06 -
+von Engstligenalp via Strubelegga
+https://www.gipfelbuch.ch/verhaeltnisse/996975-skitour-steghorn-3146m
+Alpes Vaud./Frib./Bern.
+Stephan  Laube
+gipfelbuch 996661
+2026-03-06 -
+von Gorezmettlen (Sustenpassstrasse) durch das Hohbergtal
+https://www.gipfelbuch.ch/verhaeltnisse/996661-skitour-stoessenstock-2941m
+Alpes Glaronaises/Uranaises
+Stoeff99
+gipfelbuch 996486
+2026-03-06 -
+Brudelhorn (von/nach Geschinen)
+https://www.gipfelbuch.ch/verhaeltnisse/996486-skitour-brudelhorn-2791m
+Valais
+Berglöwe
+gipfelbuch 996400
+2026-03-06 -
+von Rueras
+https://www.gipfelbuch.ch/verhaeltnisse/996400-skitour-chruezlistock-2709m
+Grisons
+Madlen
+gipfelbuch 996356
+2026-03-06 -
+Von Gigerberg über Mädemsvorsäss und Malos zum Gipfel bei Plattisegg
+https://www.gipfelbuch.ch/verhaeltnisse/996356-skitour-malos-1877m
+Alpes Glaronaises
+Helmis
+gipfelbuch 995010
+2026-03-06 -
+Frauenkirch - Stafelalp - Gipfel
+https://www.gipfelbuch.ch/verhaeltnisse/995010-skitour-choerbsch-horn-2650m
+Grisons
+Peter Toepfer
+gipfelbuch 994982
+2026-03-06 -
+Partnun - Gemschtobel - Sulzfluh
+https://www.gipfelbuch.ch/verhaeltnisse/994982-skitour-sulzfluh-2817m
+Grisons
+Tobias G
+gipfelbuch 994971
+2026-03-06 -
+Von Engstligenalp via Chindbettipass
+https://www.gipfelbuch.ch/verhaeltnisse/994971-skitour-tierhoernli-2894m
+Alpes Vaud./Frib./Bern.
+Christian T.
+gipfelbuch 994952
+2026-03-06 -
+über Fallerschein
+https://www.gipfelbuch.ch/verhaeltnisse/994952-skitour-namloser-wetterspitze-2553m
+Tirol
+maribu
+gipfelbuch 994855
+2026-03-06 -
+Schwefelbergbad - Ofen
+https://www.gipfelbuch.ch/verhaeltnisse/994855-skitour-ochse-2188m
+Alpes Vaud./Frib./Bern.
+Alpenblick2
+gipfelbuch 994828
+2026-03-06 -
+Brand, Schattenlagant, Lüner See, Gipfel Schesaplana
+https://www.gipfelbuch.ch/verhaeltnisse/994828-skitour-schesaplana-2965m
+Vorarlberg
+Tilo
+gipfelbuch 994807
+2026-03-06 -
+Start Oberalppass, Abfahrt nach Tschamut
+https://www.gipfelbuch.ch/verhaeltnisse/994807-skitour-pazolastock-2740m
+Alpes Glaronaises/Uranaises
+Nilsen
+gipfelbuch 994743
+2026-03-06 -
+Normalanstieg von Westen über Zirmachalm
+https://www.gipfelbuch.ch/verhaeltnisse/994743-skitour-eiskarspitze-2611m
+Tirol
+Hänse
+gipfelbuch 994734
+2026-03-06 -
+Ostflanke
+https://www.gipfelbuch.ch/verhaeltnisse/994734-skitour-wyssnollen-3590m
+Alpes Vaud./Frib./Bern.
+alpinemorii.ch
+gipfelbuch 994575
+2026-03-06 -
+Nordanstieg
+https://www.gipfelbuch.ch/verhaeltnisse/994575-skitour-verhupfspitze-2957m
+Vorarlberg
+Steffffff
+gipfelbuch 994521
+2026-03-06 -
+ab Rueras durchs Val Giuv - Südostflanke und Ostgrat
+https://www.gipfelbuch.ch/verhaeltnisse/994521-skitour-piz-giuv-3096m
+Alpes Glaronaises/Uranaises
+Bärlauch
+gipfelbuch 994501
+2026-03-06 -
+Ab Sustenpass Strasse; via Juzfad, Rossfirn auf den Gipfel.
+https://www.gipfelbuch.ch/verhaeltnisse/994501-skitour-baerenhorn-2932m
+Alpes Glaronaises/Uranaises
+Trinity22
+gipfelbuch 994499
+2026-03-06 -
+von Brüsti (Attinghausen)
+https://www.gipfelbuch.ch/verhaeltnisse/994499-skitour-eggenmandli-2448m
+Alpes Glaronaises/Uranaises
+renehaldi
+gipfelbuch 994401
+2026-03-06 -
+Kaltenberg von Langen a. Arlberg, weiter zur Östlichen Eisentaler Spitze
+https://www.gipfelbuch.ch/verhaeltnisse/994401-skitour-kaltenberg-2896m
+Vorarlberg
+VollMondPulver
+gipfelbuch 994289
+2026-03-06 -
+Ab Wägitalersee (Punkt 918)
+https://www.gipfelbuch.ch/verhaeltnisse/994289-skitour-redertengrat-2222m
+Alpes Glaronaises/Uranaises
+R.Schmid
+gipfelbuch 994890
+2026-03-05 -
+SO-Route von Tenna
+https://www.gipfelbuch.ch/verhaeltnisse/994890-skitour-schlueechtli-2283m
+Grisons
+Snow*Wolf
+gipfelbuch 994398
+2026-03-05 -
+Von Langwies, Route 172a, Skitourenführer Nordbünden
+https://www.gipfelbuch.ch/verhaeltnisse/994398-skitour-mattjisch-horn-2460m
+Grisons
+Claus Baumgardt
+gipfelbuch 994205
+2026-03-05 -
+Finsteraarhornhütte-Fiescherhörner-Walcherhorn-Grünhornlücke
+https://www.gipfelbuch.ch/verhaeltnisse/994205-skitour-gross-fiescherhorn-4048m
+Alpes Vaud./Frib./Bern.
+alpinemorii.ch
+gipfelbuch 994184
+2026-03-05 -
+ab Lidernenhütte oder Bergstation Seilbahn Chäppeliberg Spilau
+https://www.gipfelbuch.ch/verhaeltnisse/994184-skitour-hagelstock-2181m
+Alpes Glaronaises/Uranaises
+Macap
+gipfelbuch 994179
+2026-03-05 -
+ab Gemmibahn-Wildstrubel
+https://www.gipfelbuch.ch/verhaeltnisse/994179-skitour-wildstrubel-3244m
+Alpes Vaud./Frib./Bern.
+Husi
+gipfelbuch 993613
+2026-03-05 -
+Über Ronggalpe und O-Flanke
+https://www.gipfelbuch.ch/verhaeltnisse/993613-skitour-rotspitze-2517m
+Vorarlberg
+Steffffff
+gipfelbuch 992532
+2026-03-05 -
+CH - Glarus - St. Gallen
+https://www.gipfelbuch.ch/verhaeltnisse/992532-skitour-chli-fulfirst-2372m
+Suisse
+
+gipfelbuch 992477
+2026-03-05 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/992477-skitour-mattjisch-horn-2460m
+Suisse
+
+gipfelbuch 992439
+2026-03-05 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/992439-skitour-hausstock-3158m
+Suisse
+
+gipfelbuch 992322
+2026-03-05 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/992322-skitour-hockenhorn-3293m
+Suisse
+
+gipfelbuch 992235
+2026-03-05 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/992235-skitour-sulzfluh-2817m
+Suisse
+
+gipfelbuch 992074
+2026-03-05 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/992074-skitour-piz-ravetsch-3007m
+Suisse
+
+gipfelbuch 992071
+2026-03-05 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/992071-skitour-arnihaaggen-2207m
+Suisse
+
+gipfelbuch 992019
+2026-03-05 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/992019-skitour-wildgaerst-2890m
+Suisse
+
+gipfelbuch 992002
+2026-03-05 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/992002-skitour-wildgaerst-2890m
+Suisse
+
+gipfelbuch 991997
+2026-03-05 -
+D - Schwarzwald
+https://www.gipfelbuch.ch/verhaeltnisse/991997-skitour-baldenweger-buck-feldberg-1460m
+Allemagne
+
+gipfelbuch 991980
+2026-03-05 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/991980-skitour-ammertespitz-2612m
+Suisse
+
+gipfelbuch 991971
+2026-03-05 -
+323a - von Vordere Fildrich via Steibode und Chummli
+https://www.gipfelbuch.ch/verhaeltnisse/991971-skitour-druemaennler-2436m
+Alpes Vaud./Frib./Bern.
+Urs Kaufmann
+gipfelbuch 991969
+2026-03-05 -
+ab Kandersteg via Sunnbüel & Schwarzgletscher
+https://www.gipfelbuch.ch/verhaeltnisse/991969-skitour-balmhorn-3698m
+Alpes Vaud./Frib./Bern.
+Kara Ben Nemsi
+gipfelbuch 991857
+2026-03-05 -
+Normalroute
+https://www.gipfelbuch.ch/verhaeltnisse/991857-skitour-poncione-val-piana-2660m
+Alpes tessinoises
+Peter Huber
+gipfelbuch 991717
+2026-03-05 -
+Von Engi via Skihütte Mülibachtal
+https://www.gipfelbuch.ch/verhaeltnisse/991717-skitour-heustock-2471m
+Alpes Glaronaises
+mdettling
+gipfelbuch 991617
+2026-03-05 -
+NE-Aufstieg
+https://www.gipfelbuch.ch/verhaeltnisse/991617-skitour-blankuskopf-2334m
+Vorarlberg
+Richard G
+gipfelbuch 991427
+2026-03-05 -
+Von All`Acqua über Cap. Piansecco und Gerenpass zum Skigipfel.
+https://www.gipfelbuch.ch/verhaeltnisse/991427-skitour-poncione-di-manio-2924m
+Alpes tessinoises
+toni
+gipfelbuch 996393
+2026-03-04 -
+von Rueras
+https://www.gipfelbuch.ch/verhaeltnisse/996393-skitour-chruezlistock-2709m
+Grisons
+Madlen
+gipfelbuch 994217
+2026-03-04 -
+Von der Finsteraarhornhütte
+https://www.gipfelbuch.ch/verhaeltnisse/994217-skitour-agassizhorn-3946m
+Alpes Vaud./Frib./Bern.
+alpinemorii.ch
+gipfelbuch 991213
+2026-03-04 -
+Sommeranstieg über Refuge Gouter
+https://www.gipfelbuch.ch/verhaeltnisse/991213-skitour-mont-blanc-4808m
+Haute Savoie
+Thomas78
+gipfelbuch 989697
+2026-03-04 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/989697-skitour-bleispitze-2225m
+Autriche
+
+gipfelbuch 989597
+2026-03-04 -
+D - Allgäu
+https://www.gipfelbuch.ch/verhaeltnisse/989597-skitour-grosser-daumen-2280m
+Allemagne
+
+gipfelbuch 989596
+2026-03-04 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/989596-skitour-zafernhorn-2107m
+Autriche
+
+gipfelbuch 989515
+2026-03-04 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/989515-skitour-hoech-gumme-2205m
+Suisse
+
+gipfelbuch 989371
+2026-03-04 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/989371-skitour-maederlicke-maederhorn-2887m
+Suisse
+
+gipfelbuch 989353
+2026-03-04 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/989353-skitour-vergaldner-schneeberg-2588m
+Autriche
+
+gipfelbuch 989272
+2026-03-04 -
+A - Tirol
+https://www.gipfelbuch.ch/verhaeltnisse/989272-skitour-hippoldspitze-2642m
+Autriche
+
+gipfelbuch 989224
+2026-03-04 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/989224-skitour-kreuzjoch-golm-2261m
+Autriche
+
+gipfelbuch 989213
+2026-03-04 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/989213-skitour-wildstrubel-3244m
+Suisse
+
+gipfelbuch 989212
+2026-03-04 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/989212-skitour-gruenhorn-2039m
+Autriche
+
+gipfelbuch 989209
+2026-03-04 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/989209-skitour-pischahorn-2980m
+Suisse
+
+gipfelbuch 989206
+2026-03-04 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/989206-skitour-schaechentaler-windgaellen-2764m
+Suisse
+
+gipfelbuch 989052
+2026-03-04 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/989052-skitour-maennliflue-2652m
+Suisse
+
+gipfelbuch 988996
+2026-03-04 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/988996-skitour-sulzfluh-2817m
+Suisse
+
+gipfelbuch 988879
+2026-03-04 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/988879-skitour-ammertespitz-2612m
+Suisse
+
+gipfelbuch 988866
+2026-03-04 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/988866-skitour-bunderspitz-2546m
+Suisse
+
+gipfelbuch 988839
+2026-03-04 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/988839-skitour-uri-rotstock-2928m
+Suisse
+
+gipfelbuch 988801
+2026-03-04 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/988801-skitour-blueemberg-2405m
+Suisse
+
+gipfelbuch 988666
+2026-03-04 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/988666-skitour-pizzo-rotondo-3192m
+Suisse
+
+gipfelbuch 988566
+2026-03-04 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/988566-skitour-girenspitz-2369m
+Suisse
+
+gipfelbuch 988532
+2026-03-04 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/988532-skitour-schafberg-2456m
+Suisse
+
+gipfelbuch 988488
+2026-03-04 -
+A - Vorarlberg
+https://www.gipfelbuch.ch/verhaeltnisse/988488-skitour-rotbuehelspitze-2853m
+Autriche
+
+gipfelbuch 988470
+2026-03-04 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/988470-skitour-wildstrubel-3244m
+Suisse
+
+gipfelbuch 988467
+2026-03-04 -
+Alt St. Johann-Skipiste-Alp Sellamatt-Brisizimmer-Brisi
+https://www.gipfelbuch.ch/verhaeltnisse/988467-skitour-brisi-2277m
+Alpes Glaronaises
+Bergrider
+gipfelbuch 988169
+2026-03-04 -
+Normalroute ab PP bei Vordere Fildrich
+https://www.gipfelbuch.ch/verhaeltnisse/988169-skitour-galmschibe-2425m
+Alpes Vaud./Frib./Bern.
+DanielSTF
+gipfelbuch 988167
+2026-03-04 -
+Schwarzwaldalp-Grindelgrat
+https://www.gipfelbuch.ch/verhaeltnisse/988167-skitour-grindelgrat-2392m
+Alpes Vaud./Frib./Bern.
+Kelli
+gipfelbuch 994233
+2026-03-03 -
+Von Reckingen über die Bächilücke
+https://www.gipfelbuch.ch/verhaeltnisse/994233-skitour-finsteraarhornhuette-sac-3048m
+Alpes Vaud./Frib./Bern.
+alpinemorii.ch
+gipfelbuch 988558
+2026-03-03 -
+Menigparkplatz- Piz Oesch
+https://www.gipfelbuch.ch/verhaeltnisse/988558-skitour-gestelengrat-1935m
+Alpes Vaud./Frib./Bern.
+Schünti
+gipfelbuch 987991
+2026-03-03 -
+Kromerscharte vom Seespitz
+https://www.gipfelbuch.ch/verhaeltnisse/987991-skitour-kromerscharte-2800m
+Vorarlberg
+Rosi Bell
+gipfelbuch 987828
+2026-03-03 -
+Kleine Bannalper Rundtour Variante Brisen - Niederrickenbach
+https://www.gipfelbuch.ch/verhaeltnisse/987828-skitour-kleine-bannalper-rundtour-2400m
+Alpes Glaronaises/Uranaises
+FloriaM93
+gipfelbuch 986896
+2026-03-03 -
+von Partenen
+https://www.gipfelbuch.ch/verhaeltnisse/986896-skitour-piz-puin-3312m
+Vorarlberg
+Peter  Loacker
+gipfelbuch 984367
+2026-03-03 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/984367-skitour-piz-alv-2769m
+Suisse
+
+gipfelbuch 984228
+2026-03-03 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/984228-skitour-piz-alv-2975m
+Suisse
+
+gipfelbuch 984149
+2026-03-03 -
+
+https://www.gipfelbuch.ch/verhaeltnisse/984149-skitour-galkina-b-aletschgletscher-2850m-2850m
+Autres régions
+
+gipfelbuch 984124
+2026-03-03 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/984124-skitour-tierhoernli-2894m
+Suisse
+
+gipfelbuch 983977
+2026-03-03 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/983977-skitour-ferdenrothorn-3180m
+Suisse
+
+gipfelbuch 983976
+2026-03-03 -
+CH - Waadt/Freib./Berner Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/983976-skitour-gitzifurggu-2980m
+Suisse
+
+gipfelbuch 983902
+2026-03-03 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/983902-skitour-chronenstock-2451m
+Suisse
+
+gipfelbuch 983829
+2026-03-03 -
+CH - Walliser Alpen
+https://www.gipfelbuch.ch/verhaeltnisse/983829-skitour-breithorn-3438m
+Suisse
+
+gipfelbuch 983815
+2026-03-03 -
+CH - Zentralschweiz
+https://www.gipfelbuch.ch/verhaeltnisse/983815-skitour-wintertuermli-3003m-am-chli-spannort-3003m
+Suisse
+
+gipfelbuch 983783
+2026-03-03 -
+CH - Graubünden
+https://www.gipfelbuch.ch/verhaeltnisse/983783-skitour-badus-2928m
+Suisse
+
+gipfelbuch 983571
+2026-03-03 -
+CH - Tessin
+https://www.gipfelbuch.ch/verhaeltnisse/983571-skitour-poncione-di-manio-2924m
 Suisse
 

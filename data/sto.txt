@@ -1,90 +1,564 @@
-sto 35361
-2025-11-28 
-Pillstein 1478m
-https://skitourenportal.eu/beitrag/35361
+sto 35646
+2026-04-03 
+Platte
+https://skitourenportal.eu/beitrag/35646
+
+Klaus Einmayr
+sto 35645
+2026-04-03 
+Seehorn 2321
+https://skitourenportal.eu/beitrag/35645
 Salzburg
-Johann Allgeier
-sto 35360
-2025-11-28 
-Wetterin 1.530 m
-https://skitourenportal.eu/beitrag/35360
-Steiermark
-SteepSkiMichael
-sto 35359
-2025-11-28 
-Kleiner Pleißlingkeil Erkundungstour
-https://skitourenportal.eu/beitrag/35359
-Salzburg
-Inge + Manfred
-sto 35358
-2025-11-28 
-Liebeseck
-https://skitourenportal.eu/beitrag/35358
-Salzburg
-Aeolos
-sto 35357
-2025-11-28 
-Gaisberg
-https://skitourenportal.eu/beitrag/35357
+Helge Tschiedl
+sto 35644
+2026-04-03 
+Trattberg
+https://skitourenportal.eu/beitrag/35644
 Salzburg
 Vogl Helmut
-sto 35356
-2025-11-28 
-Haaralmschneid 1594 m - Chiemgau
-https://skitourenportal.eu/beitrag/35356
+sto 35643
+2026-04-02 
+Sonntagshorn und Peitingköpfl
+https://skitourenportal.eu/beitrag/35643
 
-Helge Tschiedl
-sto 35355
-2025-11-28 
-UNTERBERG Opener Schitourensaison 2025/26
-https://skitourenportal.eu/beitrag/35355
+Annamirl Hufnagel
+sto 35642
+2026-04-02 
+Tirolerkogel, 1377 m
+https://skitourenportal.eu/beitrag/35642
 Niederösterreich
-Martin
-sto 35354
-2025-11-28 
-Unterberg
-https://skitourenportal.eu/beitrag/35354
-Niederösterreich
-Robert Gulla
-sto 35353
-2025-11-28 
-Pillstein 1478m
-https://skitourenportal.eu/beitrag/35353
+Robert Vondracek
+sto 35641
+2026-04-02 
+Pirstingerkogel
+https://skitourenportal.eu/beitrag/35641
+Steiermark
+Harald Schober
+sto 35639
+2026-04-01 
+Watzmann Gugel 1801m
+https://skitourenportal.eu/beitrag/35639
+
+Johann Allgeier
+sto 35637
+2026-04-01 
+Wieserhörndl und Anzerberg
+https://skitourenportal.eu/beitrag/35637
 Salzburg
 Bruckbauer Peter
-sto 35351
-2025-11-27 
-Götschen Erstbesteigung
-https://skitourenportal.eu/beitrag/35351
+sto 35638
+2026-04-01 
+Hoher Zinken von Lämmerbach
+https://skitourenportal.eu/beitrag/35638
+Salzburg
+Robert Delleske
+sto 35640
+2026-04-01 
+Hochfelln
+https://skitourenportal.eu/beitrag/35640
 
-Inge + Manfred
-sto 35352
-2025-11-25 
-Eibl, Türnitz
-https://skitourenportal.eu/beitrag/35352
+Klaus Einmayr
+sto 35636
+2026-03-31 
+Reisalm
+https://skitourenportal.eu/beitrag/35636
 Niederösterreich
-Robert Gulla
-sto 35349
-2025-11-23 
-Schlenken
-https://skitourenportal.eu/beitrag/35349
+Robert Salzer
+sto 35635
+2026-03-31 
+Zistel (Gaisberg)
+https://skitourenportal.eu/beitrag/35635
 Salzburg
 Vogl Helmut
-sto 35350
-2025-11-23 
-Postalm Pitschenberg
-https://skitourenportal.eu/beitrag/35350
+sto 35634
+2026-03-30 
+Aibl
+https://skitourenportal.eu/beitrag/35634
+Steiermark
+Harald Schober
+sto 35633
+2026-03-29 
+Einsam von Hintersee Richtung Anzenberg
+https://skitourenportal.eu/beitrag/35633
+Salzburg
+Robert Delleske
+sto 35630
+2026-03-28 
+Sonnspitze - Kornbichl
+https://skitourenportal.eu/beitrag/35630
 
-Parth Benjamin
-sto 35348
-2025-11-22 
-"Weiss Wurscht Is" Gipfel - 1869 m
-https://skitourenportal.eu/beitrag/35348
+Klaus Einmayr
+sto 35629
+2026-03-28 
+Bichleralm
+https://skitourenportal.eu/beitrag/35629
+Niederösterreich
+white star
+sto 35628
+2026-03-28 
+Göllerlifte
+https://skitourenportal.eu/beitrag/35628
+Niederösterreich
+Robert Gulla
+sto 35632
+2026-03-28 
+Bründlingkopf
+https://skitourenportal.eu/beitrag/35632
+Salzburg
+Nani Klappert
+sto 35631
+2026-03-28 
+Reisalm
+https://skitourenportal.eu/beitrag/35631
+Niederösterreich
+Robert Salzer
+sto 35625
+2026-03-27 
+Powdern in Mühlbach
+https://skitourenportal.eu/beitrag/35625
+Salzburg
+Robert Delleske
+sto 35626
+2026-03-27 
+Hoher Zinken
+https://skitourenportal.eu/beitrag/35626
+Salzburg
+Sperl Alex
+sto 35627
+2026-03-27 
+Sonntagshorn / Beidlkop
+https://skitourenportal.eu/beitrag/35627
+Salzburg
+Helge Tschiedl
+sto 35623
+2026-03-25 
+Geigelsteinrunde
+https://skitourenportal.eu/beitrag/35623
+
+Klaus Einmayr
+sto 35622
+2026-03-25 
+Mittagskogel, 2092m
+https://skitourenportal.eu/beitrag/35622
+Salzburg
+uta Philipp
+sto 35624
+2026-03-24 
+Hochkönig
+https://skitourenportal.eu/beitrag/35624
+Salzburg
+Hölzlwimmer Hermann
+sto 35621
+2026-03-24 
+Watzmannkinder
+https://skitourenportal.eu/beitrag/35621
+
+Georg Abler
+sto 35619
+2026-03-23 
+Finsterbachkopf, 2164m
+https://skitourenportal.eu/beitrag/35619
+Salzburg
+uta Philipp
+sto 35620
+2026-03-23 
+Kerschkern aus der Finsterliesing
+https://skitourenportal.eu/beitrag/35620
+Steiermark
+chris wolki
+sto 35616
+2026-03-22 
+Eckerleiten (Göll)
+https://skitourenportal.eu/beitrag/35616
+Salzburg
+Vogl Helmut
+sto 35615
+2026-03-22 
+Drittes Watzmannkind, 2165 m
+https://skitourenportal.eu/beitrag/35615
+
+Annamirl Hufnagel
+sto 35617
+2026-03-22 
+Richtung Hochkönig....
+https://skitourenportal.eu/beitrag/35617
+Salzburg
+Stock Leonhard
+sto 35618
+2026-03-22 
+Hochgschirr - Fagstein - Hohes Roßfeld
+https://skitourenportal.eu/beitrag/35618
+
+Klaus Einmayr
+sto 35610
+2026-03-20 
+Labenberg, 1.642 m
+https://skitourenportal.eu/beitrag/35610
+Salzburg
+Hans Altmann
+sto 35601
+2026-03-20 
+Haute Route Graubünden (Teil 2)
+https://skitourenportal.eu/beitrag/35601
+
+die kumbergler
+sto 35600
+2026-03-20 
+Haute Route Graubünden (Teil 1)
+https://skitourenportal.eu/beitrag/35600
+
+die kumbergler
+sto 35602
+2026-03-20 
+Haute Route Graubünden (Teil 3)
+https://skitourenportal.eu/beitrag/35602
+
+die kumbergler
+sto 35611
+2026-03-20 
+Hochschwab von Seewiesen
+https://skitourenportal.eu/beitrag/35611
+
+Stefan
+sto 35604
+2026-03-20 
+Haute Route Graubünden (Teil 5)
+https://skitourenportal.eu/beitrag/35604
+
+die kumbergler
+sto 35603
+2026-03-20 
+Haute Route Graubünden (Teil 4)
+https://skitourenportal.eu/beitrag/35603
+
+die kumbergler
+sto 35614
+2026-03-20 
+Venedigergruppe
+https://skitourenportal.eu/beitrag/35614
+Salzburg
+SteepSkiMichael
+sto 35613
+2026-03-20 
+Manlitzkogel, 2247 m
+https://skitourenportal.eu/beitrag/35613
+Salzburg
+uta Philipp
+sto 35612
+2026-03-20 
+Loferer Skihörndl 2286 m
+https://skitourenportal.eu/beitrag/35612
+Salzburg
+Helge Tschiedl
+sto 35607
+2026-03-19 
+Leobner - Blaseneck
+https://skitourenportal.eu/beitrag/35607
+Steiermark
+Michael
+sto 35609
+2026-03-19 
+Hochschwabgipfel
+https://skitourenportal.eu/beitrag/35609
+Steiermark
+Robert Gulla
+sto 35606
+2026-03-19 
+Lamperbichlkogel 2036m
+https://skitourenportal.eu/beitrag/35606
+Salzburg
+Nani Klappert
+sto 35608
+2026-03-19 
+Hochsaalbachkogel, 2212m
+https://skitourenportal.eu/beitrag/35608
+Salzburg
+uta Philipp
+sto 35598
+2026-03-18 
+Schaflköpfl, 2490m
+https://skitourenportal.eu/beitrag/35598
+Salzburg
+uta Philipp
+sto 35599
+2026-03-18 
+Staffkogel (Henlabjoch)
+https://skitourenportal.eu/beitrag/35599
 
 Helge Tschiedl
-sto 35347
-2025-11-18 
-Seekareck, Obertauern
-https://skitourenportal.eu/beitrag/35347
+sto 35593
+2026-03-14 
+Moschkogel 1916 m
+https://skitourenportal.eu/beitrag/35593
+Kärnten
+Harald Schober
+sto 35594
+2026-03-14 
+Hohe Roßfelder
+https://skitourenportal.eu/beitrag/35594
+
+Klaus Einmayr
+sto 35590
+2026-03-14 
+Rax Rinnen Rally
+https://skitourenportal.eu/beitrag/35590
+Steiermark
+Bergfuchs
+sto 35596
+2026-03-14 
+Seewiesen - Voisthalerhütte - Kühreichkar
+https://skitourenportal.eu/beitrag/35596
+Steiermark
+chris wolki
+sto 35597
+2026-03-14 
+Roteck 2742m Gr.Barbaraspitze 2726m
+https://skitourenportal.eu/beitrag/35597
+
+richard m.
+sto 35595
+2026-03-14 
+Hochkogel, 2249 m
+https://skitourenportal.eu/beitrag/35595
 Salzburg
-herbert rohn
+uta Philipp
+sto 35587
+2026-03-13 
+Auracher Firnrunde
+https://skitourenportal.eu/beitrag/35587
+
+Klaus Einmayr
+sto 35586
+2026-03-13 
+Marbachhöhe
+https://skitourenportal.eu/beitrag/35586
+Salzburg
+Nani Klappert
+sto 35589
+2026-03-13 
+Scheibenhöhe, 2126 m
+https://skitourenportal.eu/beitrag/35589
+Salzburg
+uta Philipp
+sto 35585
+2026-03-13 
+Schneeberg
+https://skitourenportal.eu/beitrag/35585
+Niederösterreich
+Robert Gulla
+sto 35588
+2026-03-13 
+Skitour von Hinterbrand über das Stahlhaus auf den Schneibstein
+https://skitourenportal.eu/beitrag/35588
+Salzburg
+Robert Delleske
+sto 35592
+2026-03-13 
+Hocheiser vom Enzingeboden
+https://skitourenportal.eu/beitrag/35592
+Salzburg
+Hölzlwimmer Hermann
+sto 35581
+2026-03-11 
+Ebenstein und Polster Sattel aus der Jassing/Sonnschien
+https://skitourenportal.eu/beitrag/35581
+Steiermark
+chris wolki
+sto 35584
+2026-03-11 
+Karlstein 2016m, Hochwart 2210m, Hochschwab 2277m
+https://skitourenportal.eu/beitrag/35584
+Steiermark
+da oide neiwoida
+sto 35579
+2026-03-10 
+Marterlkopf, 2445m
+https://skitourenportal.eu/beitrag/35579
+Salzburg
+uta Philipp
+sto 35580
+2026-03-10 
+Klingspitze (1988m)
+https://skitourenportal.eu/beitrag/35580
+Salzburg
+Nani Klappert
+sto 35574
+2026-03-09 
+Plankogel 1531 m
+https://skitourenportal.eu/beitrag/35574
+Steiermark
+Harald Schober
+sto 35567
+2026-03-08 
+Hinterer Polster 2057
+https://skitourenportal.eu/beitrag/35567
+Steiermark
+da oide neiwoida
+sto 35568
+2026-03-08 
+Hüttenkogel
+https://skitourenportal.eu/beitrag/35568
+Salzburg
+Ortler Angelika
+sto 35570
+2026-03-08 
+Kl. Rosskaiser
+https://skitourenportal.eu/beitrag/35570
+
+Klaus Einmayr
+sto 35562
+2026-03-08 
+Mallnitzriegel (Nebengipfel auf ca. 2550m)
+https://skitourenportal.eu/beitrag/35562
+Salzburg
+Robert Gulla
+sto 35564
+2026-03-08 
+Großhansl von Pusterwald
+https://skitourenportal.eu/beitrag/35564
+Steiermark
+K
+sto 35591
+2026-03-13 
+Hocheiser vom Enzingeboden
+https://skitourenportal.eu/beitrag/35591
+Salzburg
+Hölzlwimmer Hermann
+sto 35565
+2026-03-08 
+Dachsteinüberquerung (Hunerkogel-Windleger-Bachlalm)
+https://skitourenportal.eu/beitrag/35565
+Oberösterreich
+martin, karo gaisl
+sto 35578
+2026-03-08 
+Schönfeld
+https://skitourenportal.eu/beitrag/35578
+Salzburg
+Johannes Dorfner
+sto 35573
+2026-03-08 
+Hohe Veitsch
+https://skitourenportal.eu/beitrag/35573
+Steiermark
+Markus Messner
+sto 35561
+2026-03-07 
+Rax Rinnen Rally
+https://skitourenportal.eu/beitrag/35561
+Steiermark
+Bergfuchs
+sto 35559
+2026-03-07 
+Aibl
+https://skitourenportal.eu/beitrag/35559
+Steiermark
+Harald Schober
+sto 35560
+2026-03-07 
+Petzen und Kniepssattel
+https://skitourenportal.eu/beitrag/35560
+Kärnten
+chris wolki
+sto 35563
+2026-03-07 
+Breitfeldkogel (Kalkbretterkopf)
+https://skitourenportal.eu/beitrag/35563
+Salzburg
+Robert Gulla
+sto 35576
+2026-03-07 
+Seenock Eisentalhöhe Grünleitennock
+https://skitourenportal.eu/beitrag/35576
+Kärnten
+Johannes Dorfner
+sto 35571
+2026-03-07 
+Griesmoarkogel
+https://skitourenportal.eu/beitrag/35571
+Steiermark
+Christoph
+sto 35558
+2026-03-07 
+Hochschwung 2196m, Schattnerzinken 2156m
+https://skitourenportal.eu/beitrag/35558
+Steiermark
+Bernhard
+sto 35572
+2026-03-09 
+Schrocken + Kaminspitze
+https://skitourenportal.eu/beitrag/35572
+Steiermark
+ChurchMountain
+sto 35566
+2026-03-07 
+Ötztal - Langtalereckhütte - Fidelitashütte
+https://skitourenportal.eu/beitrag/35566
+Salzburg
+Saller Michael
+sto 35569
+2026-03-06 
+Kalkbretterkopf
+https://skitourenportal.eu/beitrag/35569
+Salzburg
+Ortler Angelika
+sto 35555
+2026-03-06 
+Schneeberg - via Narrendattelrinne
+https://skitourenportal.eu/beitrag/35555
+Niederösterreich
+SteepSkiMichael
+sto 35554
+2026-03-06 
+Breitenstein ( Geigelstein )
+https://skitourenportal.eu/beitrag/35554
+
+Helge Tschiedl
+sto 35556
+2026-03-06 
+Stubacher Sonnblick, 3088 m
+https://skitourenportal.eu/beitrag/35556
+Salzburg
+uta Philipp
+sto 35551
+2026-03-05 
+Hoher Göll 2.522 m
+https://skitourenportal.eu/beitrag/35551
+Salzburg
+Aeolos
+sto 35552
+2026-03-05 
+Selbhorn,2653m
+https://skitourenportal.eu/beitrag/35552
+Salzburg
+uta Philipp
+sto 35553
+2026-03-05 
+Griesstein 2023m
+https://skitourenportal.eu/beitrag/35553
+Steiermark
+da oide neiwoida
+sto 35557
+2026-03-04 
+Gr. Brieglersberg und Gr. Tragl
+https://skitourenportal.eu/beitrag/35557
+Oberösterreich
+pj&amp;leo
+sto 35550
+2026-03-04 
+Gr. & Kl. Bösenstein 2448m
+https://skitourenportal.eu/beitrag/35550
+Steiermark
+Bernhard
+sto 35549
+2026-03-03 
+Schwalbenwand, 2011 m
+https://skitourenportal.eu/beitrag/35549
+Salzburg
+uta Philipp
+sto 35548
+2026-03-03 
+Edelgrießhöhe 2505m
+https://skitourenportal.eu/beitrag/35548
+Steiermark
+martin, karo gaisl

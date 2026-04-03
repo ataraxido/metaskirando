@@ -5,19 +5,18 @@
 <head>
     <!-- windows-1252-->
     <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes">
 
     <meta property="fb:app_id" content="1168053066936819" /> 
     <meta property="og:title" content="Liste des dernières sorties en Ski de rando" />
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content="website" />
     <meta property="og:site_name" content="bivouak.net" />
     <meta property="og:url" content="https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1" />
     <meta property="og:image" content="https://www.bivouak.net/img/guide_massif.jpg" />
     <meta property="og:image:width" content="360px"/>
-    <meta property="og:image:heigth" content="240px"/>
+    <meta property="og:image:height" content="240px"/>
     <meta property="og:image:alt" content="Liste des dernières sorties en Ski de rando"/>
-    <meta property="og:description" content="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d'activités en plein air, des itinéraires et des conseils pour vos prochaines escapades." />
+    <meta property="og:description" content="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades." />
     <link rel="canonical" href="https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1" />
 
 
@@ -25,53 +24,47 @@
 
     <link rel="shortcut icon" href="../img/favicon.ico">
 
-    <META NAME="Author" CONTENT="bivouak.net">
-    <META NAME="Description" CONTENT="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades.">
-    <META NAME="Keywords" LANG="fr" CONTENT="sorties, Ski de rando, montagne, conseils, itinéraire">
-    <META NAME="Identifier-URL" CONTENT="https://www.bivouak.net">
-    <META NAME="Date-Creation-yyyymmdd" content="2024-12-18">
-    <META NAME="Date-Revision-yyyymmdd" content="2025-11-28">
-    <META NAME="Robots" CONTENT="index,follow,all">
-    <META NAME="revisit-after" CONTENT="7 days">
-    <META NAME="Category" CONTENT="Ski de rando">
+    <meta name="author" content="bivouak.net">
+    <meta name="description" content="Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades.">
+    <meta name="robots" content="index,follow">
 
-        <script type="application/ld+json">
+            <script type="application/ld+json">
             {
             "@context": "https://schema.org",
             "@type": "Article",
-            "name": "Liste des dernières sorties en Ski de rando",
-            "headline": "Liste des dernières sorties en Ski de rando",
-            "description": "Explorez la liste des sorties dans le domaine du Ski de rando. Trouvez des idées d&#039;activités en plein air, des itinéraires et des conseils pour vos prochaines escapades.",
-            "datePublished": "2024-12-18",
-            "dateModified": "2025-11-28",
+            "name": "Liste\u0020des\u0020derni\u00E8res\u0020sorties\u0020en\u0020Ski\u0020de\u0020rando",
+            "headline": "Liste\u0020des\u0020derni\u00E8res\u0020sorties\u0020en\u0020Ski\u0020de\u0020rando",
+            "description": "Explorez\u0020la\u0020liste\u0020des\u0020sorties\u0020dans\u0020le\u0020domaine\u0020du\u0020Ski\u0020de\u0020rando.\u0020Trouvez\u0020des\u0020id\u00E9es\u0020d\u0027activit\u00E9s\u0020en\u0020plein\u0020air,\u0020des\u0020itin\u00E9raires\u0020et\u0020des\u0020conseils\u0020pour\u0020vos\u0020prochaines\u0020escapades.",
+            "datePublished": "2026-01-11",
+            "dateModified": "2026-04-03",
             "image": {
                 "@type": "ImageObject",
                 "url": "https://www.bivouak.net/img/guide_massif.jpg",
                 "width": "360px",
                 "height": "240px"
                 },
-            "url":"https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1",
+            "url": "https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1",
             "mainEntityOfPage": {
                 "@type": "WebPage",
                 "@id": "https://www.bivouak.net/topos/liste_des_sorties.php?id_sport=1"
             },
             "author": {
                 "@type": "Person",
-                "name":"bivouak.net"
+                "name": "bivouak.net"
             },
             "publisher": {
                 "@type": "Organization",
                 "url": "https://www.bivouak.net/",
                 "name": "bivouak.net",
                 "logo": {
-                    "@type":"ImageObject",
-                    "url":"https://www.bivouak.net/img/bivouak_dorange_by_lynkx.svg",
-                    "width":"275"
+                    "@type": "ImageObject",
+                    "url": "https://www.bivouak.net/img/bivouak_dorange_by_lynkx.svg",
+                    "width": "275"
                 }
                 }
               }
         </script>
-       
+           
     <!-- CSS -->
 
     <link href="../js/jquery-ui-1.11.4.custom/jquery-ui.css" rel="stylesheet" media="all">
@@ -86,19 +79,17 @@
     <!-- <link href="../css/rating.css" rel="stylesheet" type="text/css" media="all"> -->
 
     <!-- <script src="../js/rating_behavior.js"></script> -->
-    <script src="../js/char.js"></script>
-    <!-- <script src="../js/rating.js"></script> -->
-    <script src="../ajax/flag.js"></script>
-    <script src="../js/error.js"></script>
-    
-    <!-- <script src="../js/lf_tools.js"></script> -->
+    <script src="../js/char.js" defer></script>
+    <script src="../ajax/flag.js" defer></script>
+    <script src="../js/error.js" defer></script>
+
     <script src="../js/vendors.js"></script>
-    <script src="../js/tools.js"></script>
-    <script src="../js/DropdownHover.js"></script>
-    <script src="../js/app.js"></script>
-    <script src="../js/holder.js"></script>
-    <script src="../ajax/form.js"></script>
-    <script src="../js/jquery-ui-1.11.4.custom/jquery-ui.js"></script>
+    <script src="../js/tools.js" defer></script>
+    <script src="../js/DropdownHover.js" defer></script>
+    <script src="../js/app.js" defer></script>
+    <script src="../js/holder.js" defer></script>
+    <script src="../ajax/form.js" defer></script>
+    <script src="../js/jquery-ui-1.11.4.custom/jquery-ui.js" defer></script>
     
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KP4LXRGLS"></script>
@@ -202,8 +193,8 @@
             </div> <!-- dropdown -->
             
             <div class="dropdown animated fadeInDown animation-delay-13">
-                <a href="../#" class="dropdown-toggle" data-toggle="dropdown" 
-                    onclick='document.getElementById("search_global").focus();'><i class="fa fa-search"></i></a>
+                <a href="../#" class="dropdown-toggle" data-toggle="dropdown"
+                    onclick='setTimeout(function(){ document.getElementById("search_global").focus(); }, 100);'><i class="fa fa-search"></i></a>
                 <div class="dropdown-menu dropdown-menu-right dropdown-search-box animated fadeInUp">
                     <form role="form">
                         <div class="input-group">
@@ -438,6 +429,25 @@ return false;
         </div>
     </div>
 </div>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Topos",
+            "item": "https://www.bivouak.net/topos/index.php?id_sport=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Sorties"
+        }
+    ]
+}
+</script>
 <div></div>
 <header class="main-header">
     <div class="container">
@@ -472,303 +482,303 @@ return false;
   </thead>
   <tbody>
                               <tr>
-                  <td>28-11-2025</td>
-                  <td><a href="../topos/sortie-28910-pas-coche.html">Pas de la Coche (Pas de la Coche)</a></td>
+                  <td>03-04-2026</td>
+                  <td><a href="../topos/sortie-29958-.html">Croix de Chamrousse depuis Le Recoin ou Roche Béranger.</a></td>
                                         <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
                                                       <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.1</td>
-                                                                  <td>900 m</td>
-                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>22-11-2025</td>
-                  <td><a href="../topos/sortie-28866-scia-commence.html">Scia commence  (La Scia)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.3</td>
-                                                                  <td>875 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>10-05-2025</td>
-                  <td><a href="../topos/sortie-27223-.html">Petit Van Couloir W (depuis le Col de la Botte)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">3.2</td>
-                                                                  <td>670 m</td>
-                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>18-03-2025</td>
-                  <td><a href="../topos/sortie-27114-but-cagire.html">But au Cagire (Tuc de Pan)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">3/3</td>
-                                                                  <td>600 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>17-03-2025</td>
-                  <td><a href="../topos/sortie-27108-jamais-deux-sans-trois.html">Jamais deux sans trois (Cap de la Pène Soulit)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.2</td>
-                                                                  <td>800 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>16-03-2025</td>
-                  <td><a href="../topos/sortie-27112-poudreuse-espagnole.html">Poudreuse espagnole (Tuc Deth Rosari)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-279-espagne-encantats.html">Espagne (Encantats)</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.3</td>
-                                                                  <td>1000 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>15-03-2025</td>
-                  <td><a href="../topos/sortie-27113-poudre-blanche-a-vallee-blanche.html">Poudre blanche à la vallée blanche  (Cap de Moncaup)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">D2/V1/A2</td>
-                                                                  <td>1100 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>28-02-2025</td>
-                  <td><a href="../topos/sortie-26956-meilleure-descente-saison.html">La meilleure descente de la saison  (Roc Noir de Combeynot)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-5-ecrins.html">Ecrins</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">3.1</td>
-                                                                  <td>1100 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>27-02-2025</td>
-                  <td><a href="../topos/sortie-26955-changement-radical-conditions.html">Changement radical des conditions  (Col de l’étroit du Vallon)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-379-brianconnais.html">Briançonnais </a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.2</td>
-                                                                  <td>850 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>26-02-2025</td>
-                  <td><a href="../topos/sortie-26954-un-froid-siberien.html">Un froid sibérien  (Col de l&#039;Aiguillette)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-15-cerces-thabor-mont-cenis.html">Cerces - Thabor - Mont Cenis</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.2</td>
-                                                                  <td>850 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>21-02-2025</td>
-                  <td><a href="../topos/sortie-26851-pointe-rochers-charniers-3059-m.html">Pointe des Rochers Charniers 3059 m</a></td>
-                                        <td class="hidden-xs"><a href=""></a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                                                                  <td>750 m</td>
-                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>18-02-2025</td>
-                  <td><a href="../topos/sortie-26804-visite-vallee-etroite.html">Visite de la vallée Etroite</a></td>
-                                        <td class="hidden-xs"><a href=""></a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                                                                  <td>450 m</td>
-                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>16-02-2025</td>
-                  <td><a href="../topos/sortie-26778-col-galibier.html">Col du Galibier</a></td>
-                                        <td class="hidden-xs"><a href=""></a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                                                                  <td>950 m</td>
-                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>09-02-2025</td>
-                  <td><a href="../topos/sortie-26693-un-fromage.html">Un fromage … (Mont Fromage)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.1</td>
-                                                                  <td>400 m</td>
-                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>07-02-2025</td>
-                  <td><a href="../topos/sortie-26654-petit-grand-vent-s.html">Petit &amp; Grand vent.s ! (Petit Van)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">3.2</td>
-                                                                  <td>550 m</td>
-                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>07-02-2025</td>
-                  <td><a href="../topos/sortie-26661-orionde-retour-affaires.html">Orionde, retour aux affaires (Orionde)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.2</td>
-                                                                  <td>750 m</td>
-                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>06-02-2025</td>
-                  <td><a href="../topos/sortie-26653-.html">La Scia depuis Saint Pierre ...</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.3</td>
-                                                                  <td>875 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>05-02-2025</td>
-                  <td><a href="../topos/sortie-26633-10-000-pas-dans-feu-c-est-assez-long.html">10 000 pas dans le feu, c&#039;est assez long. (Cime de la Jasse)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.2</td>
-                                                                  <td>1300 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>04-02-2025</td>
-                  <td><a href="../topos/sortie-26632-poudre-cachee-grand-rocher.html">La poudre cachée du Grand Rocher (Le Grand Rocher)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.1</td>
-                                                                  <td>800 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>01-02-2025</td>
-                  <td><a href="../topos/sortie-26594-des-mushers-taillefer.html">Des mushers au Taillefer ! (Crête de Brouffier)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-22-matheysine-taillefer.html">Matheysine - Taillefer</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.1</td>
-                                                                  <td>980 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>29-01-2025</td>
-                  <td><a href="../topos/sortie-26593-dixit-dominus.html">Dixit Dominus (Le Grand Rocher)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.1</td>
-                                                                  <td>800 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>04-01-2025</td>
-                  <td><a href="../topos/sortie-26381-vite-profiter-poudreuse.html">Vite profiter de la poudreuse (Le Grand Rocher)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.1</td>
-                                                                  <td>530 m</td>
-                                                                                <td><a href="../membres/profile-703-muktinath.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/703.jpg" height="35px" width="35px">MUKTINATH</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>29-12-2024</td>
-                  <td><a href="../topos/sortie-26252-derniere-sortie-ski-annee.html">Dernière sortie de ski de l&#039;année  (Pic Saint Michel)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-3-vercors.html">Vercors</a></td>
-                                                      <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">2.1</td>
-                                                                  <td>750 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>29-12-2024</td>
-                  <td><a href="../topos/sortie-26271-grd-colon-ne-w.html">Grd Colon NE&gt;W</a></td>
-                                        <td class="hidden-xs"><a href=""></a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs"></td>
-                                                                  <td>0 m</td>
-                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>26-12-2024</td>
-                  <td><a href="../topos/sortie-26232-comment-on-s-est-perdus-montant-a-scia.html">Comment on s&#039;est perdus en montant à la Scia  (La Scia)</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
-                                                      <td class="hidden-xs"></td>
                   <td class="hidden-xs"></td>
                   <td class="hidden-xs">1.2</td>
-                                                                  <td>830 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                                  <td>695 m</td>
+                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
                                                   </tr>
                                         <tr>
-                  <td>25-12-2024</td>
-                  <td><a href="../topos/sortie-26231-zone-silence.html">La zone de silence (Col de la Ruchère)</a></td>
+                  <td>01-04-2026</td>
+                  <td><a href="../topos/sortie-29943-.html">Chamechaude depuis le téléski</a></td>
                                         <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
                                                       <td class="hidden-xs"></td>
                   <td class="hidden-xs"></td>
-                  <td class="hidden-xs">R1</td>
-                                                                  <td>1000 m</td>
-                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>842 m</td>
+                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
                                                   </tr>
                                         <tr>
-                  <td>21-12-2024</td>
-                  <td><a href="../topos/sortie-26134-.html">Dent de Crolles par le Pas de l&#039;Oeille.</a></td>
-                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
-                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
-                  <td class="hidden-xs"></td>
-                  <td class="hidden-xs">4.1</td>
-                                                                  <td>0 m</td>
-                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
-                                                  </tr>
-                                        <tr>
-                  <td>21-12-2024</td>
-                  <td><a href="../topos/sortie-26137-enfin-bonne-neige.html">Enfin de la bonne neige !  (La Scia)</a></td>
+                  <td>31-03-2026</td>
+                  <td><a href="../topos/sortie-29929-retrouvailles.html">Retrouvailles  (La Scia)</a></td>
                                         <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
                                                       <td class="hidden-xs"></td>
                   <td class="hidden-xs"></td>
                   <td class="hidden-xs">1.3</td>
-                                                                  <td>900 m</td>
+                                                                  <td>875 m</td>
                                                                                 <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
                                                   </tr>
                                         <tr>
-                  <td>18-12-2024</td>
-                  <td><a href="../topos/sortie-26106-balade-avec-guide.html">Balade avec le guide</a></td>
+                  <td>28-03-2026</td>
+                  <td><a href="../topos/sortie-29913-excellente-neige.html">Excellente neige (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>875 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>28-03-2026</td>
+                  <td><a href="../topos/sortie-29887-scia-exceptionnelle.html">Scia exceptionnelle (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>970 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>27-03-2026</td>
+                  <td><a href="../topos/sortie-29879-canaple-retour-souches.html">Canaple: Retour aux souches (Canaple)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>630 m</td>
+                                                                                <td><a href="../membres/profile-24-davidoff.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/24.jpg" height="35px" width="35px">David </a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>26-03-2026</td>
+                  <td><a href="../topos/sortie-29869-flocons.html">Flocons ❄️❄️❄️</a></td>
                                         <td class="hidden-xs"><a href=""></a></td>
                                                       <td class="hidden-xs"><i class="fa fa-globe"></i></td>
                   <td class="hidden-xs"></td>
                   <td class="hidden-xs"></td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>21-03-2026</td>
+                  <td><a href="../topos/sortie-29830-et-re.html">Et re ! (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>752 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>16-03-2026</td>
+                  <td><a href="../topos/sortie-29793-excellente-neige.html">Excellente neige ! (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>750 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>15-03-2026</td>
+                  <td><a href="../topos/sortie-29777-bedina-2eme-banquette.html">Bedina 2eme banquette (Jas des Lièvres)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.2</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>13-03-2026</td>
+                  <td><a href="../topos/sortie-29761-lacs-7-laux.html">Lacs des 7 laux</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>11-03-2026</td>
+                  <td><a href="../topos/sortie-29747-ski-rando-mont-rose-sous-gris.html">Ski de rando au Mont Rose sous le gris</a></td>
+                                        <td class="hidden-xs"><a href=""></a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-7623-les-dupont-s.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/7623.jpg" height="35px" width="35px">les dupont's</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>07-03-2026</td>
+                  <td><a href="../topos/sortie-29705-belle-etoile.html">Belle Etoile (Pic de la Belle Etoile)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.3</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>27-02-2026</td>
+                  <td><a href="../topos/sortie-29622-jasse-bralard-nnw.html">Jasse Bralard NNW (Grand Sorbier)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.3</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>25-02-2026</td>
+                  <td><a href="../topos/sortie-29624-salut-copains.html">Salut les copains (Col de Bédina)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>650 m</td>
+                                                                                <td><a href="../membres/profile-8-ben.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/8.jpg" height="35px" width="35px">ben</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>25-02-2026</td>
+                  <td><a href="../topos/sortie-29597-bon-moment.html">Le bon moment ☀️ (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>766 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>20-02-2026</td>
+                  <td><a href="../topos/sortie-29540-descente-tracteur.html">Descente en tracteur  (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>500 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>20-02-2026</td>
+                  <td><a href="../topos/sortie-29534-ski-randonnee-matin.html">Ski de randonnée le matin (Moucherotte)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-3-vercors.html">Vercors</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">3.1</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>18-02-2026</td>
+                  <td><a href="../topos/sortie-29519-deux-rails-poudre.html">Deux rails de poudre (Le Grand Rocher)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.1</td>
+                                                                  <td>810 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>15-02-2026</td>
+                  <td><a href="../topos/sortie-29507-belle-murielle.html">La Belle Murielle (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>700 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>13-02-2026</td>
+                  <td><a href="../topos/sortie-29485-poudreuse-reve.html">Poudreuse de rêve (La Scia)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>875 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>31-01-2026</td>
+                  <td><a href="../topos/sortie-29351-rate.html">Raté ! (Tête des Chaudières)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-3-vercors.html">Vercors</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.3</td>
                                                                   <td>0 m</td>
                                                                                 <td><a href="../membres/profile-8514-yann38.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/8514.jpg" height="35px" width="35px">Yann38</a></td>
                                                   </tr>
                                         <tr>
-                  <td>18-12-2024</td>
-                  <td><a href="../topos/sortie-26138-souvenirs-bacha-bouloud.html">Souvenirs de Bacha Bouloud (Croix de Chamrousse)</a></td>
+                  <td>29-01-2026</td>
+                  <td><a href="../topos/sortie-29325-ski-rando-avant-l-ouverture-pistes-7-laux.html">Ski de rando avant l’ouverture des pistes 7 Laux (Col du Pouta)</a></td>
                                         <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-8800-thibault.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (43).png" height="35px" width="35px">Thibault</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>26-01-2026</td>
+                  <td><a href="../topos/sortie-29303-une-dinguerie.html">Une dinguerie ! (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>800 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>24-01-2026</td>
+                  <td><a href="../topos/sortie-29292-pow-pow-pow.html">Pow pow pow ! (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>850 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>21-01-2026</td>
+                  <td><a href="../topos/sortie-29271-presque-sans-vent.html">Presque sans vent 🙄 (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>900 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>16-01-2026</td>
+                  <td><a href="../topos/sortie-29225-col-tepey.html">Col du Tépey (Col du Tépey)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-6-belledonne.html">Belledonne</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>0 m</td>
+                                                                                <td><a href="../membres/profile-149-christophe.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/others/m (10).png" height="35px" width="35px">christophe</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>15-01-2026</td>
+                  <td><a href="../topos/sortie-29232-tempetueux.html">Tempétueux ! (Chamechaude)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-2-chartreuse.html">Chartreuse</a></td>
+                                                      <td class="hidden-xs"><i class="fa fa-globe"></i></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">2.2</td>
+                                                                  <td>842 m</td>
+                                                                                <td><a href="../membres/profile-1-luc.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/1.jpg" height="35px" width="35px">Luc</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>12-01-2026</td>
+                  <td><a href="../topos/sortie-29194-une-neige-molle-et-collante.html">Une neige molle et collante (Pouyané)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
                                                       <td class="hidden-xs"></td>
                   <td class="hidden-xs"></td>
-                  <td class="hidden-xs">1.2</td>
-                                                                  <td>700 m</td>
+                  <td class="hidden-xs">D1/V2/A2</td>
+                                                                  <td>850 m</td>
+                                                                                <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
+                                                  </tr>
+                                        <tr>
+                  <td>11-01-2026</td>
+                  <td><a href="../topos/sortie-29185-coup-bol.html">Coup de bol (Plan de Montmajou)</a></td>
+                                        <td class="hidden-xs"><a href="../topos/massif-116-pyrenees-luchonnais.html">Pyrénées - Luchonnais</a></td>
+                                                      <td class="hidden-xs"></td>
+                  <td class="hidden-xs"></td>
+                  <td class="hidden-xs">1.3</td>
+                                                                  <td>850 m</td>
                                                                                 <td><a href="../membres/profile-44-pila.html"><img style="border-radius: 50px;" src="https://www.bivouak.net/membres/avatar/44.jpg" height="35px" width="35px">Michel Pila</a></td>
                                                   </tr>
                                                                   </tbody>
@@ -1253,7 +1263,7 @@ return false;
     </div>
   </div>
 
-  <p style="text-align:center;">&copy; 2025 <b>bivouak.net</b>, ainsi que tous ses membres, ne sauraient être tenus responsables en cas d'incident. Sachez faire preuve de discernement et de prudence en toutes circonstances. Soyez responsables...</p>
+  <p style="text-align:center;">&copy; 2026 <b>bivouak.net</b>, ainsi que tous ses membres, ne sauraient être tenus responsables en cas d'incident. Sachez faire preuve de discernement et de prudence en toutes circonstances. Soyez responsables...</p>
 
 </footer>
 
@@ -1282,11 +1292,11 @@ return false;
 
     
     <ul class="slidebar-menu">
-        <li><a href="./index.php?id_sport=1" style="color:#0099da" class="active">Ski de rando</a></li>
+        <li><a href="./index.php?id_sport=1" style="color:#7E57C2" class="active">Ski de rando</a></li>
         <li><a href="./index.php?id_sport=8" style="color:#">Raquettes</a></li>
-        <li><a href="./index.php?id_sport=2" style="color:#21ba49">Rando</a></li>
-        <li><a href="./index.php?id_sport=4" style="color:#ffb644" >VTT</a></li>
-        <li><a href="./index.php?id_sport=16"  style="color:#e73c3c">Parapente</a></li>
+        <li><a href="./index.php?id_sport=2" style="color:#4CAF50">Rando</a></li>
+        <li><a href="./index.php?id_sport=4" style="color:#FB8C00" >VTT</a></li>
+        <li><a href="./index.php?id_sport=16"  style="color:#00ACC1">Parapente</a></li>
     </ul>
 
     
@@ -1320,23 +1330,20 @@ return false;
       </div>
 
 <!-- Scripts -->
-<script src="../js/slidebars.js"></script>
-<script src="../js/holder.js"></script>
-<script src="../js/styleswitcher.js"></script>
-
+<script src="../js/slidebars.js" defer></script>
+<script src="../js/holder.js" defer></script>
+<script src="../js/styleswitcher.js" defer></script>
 
 <!-- Syntaxhighlighter -->
-<script src="../js/syntaxhighlighter/shCore.js"></script>
-<script src="../js/syntaxhighlighter/shBrushXml.js"></script>
-<script src="../js/syntaxhighlighter/shBrushJScript.js"></script>
+<script src="../js/syntaxhighlighter/shCore.js" defer></script>
+<script src="../js/syntaxhighlighter/shBrushXml.js" defer></script>
+<script src="../js/syntaxhighlighter/shBrushJScript.js" defer></script>
 
-<script src="../js/app.js"></script>
-
-<script src="../js/index.js"></script>
-
-<script src="../js/carousels.js"></script>
-<script src="../js/html2canvas.js"></script>
-<script src="../js/canvas2image.js"></script>
+<script src="../js/app.js" defer></script>
+<script src="../js/index.js" defer></script>
+<script src="../js/carousels.js" defer></script>
+<script src="../js/html2canvas.js" defer></script>
+<script src="../js/canvas2image.js" defer></script>
 
 <!--
 <script>
